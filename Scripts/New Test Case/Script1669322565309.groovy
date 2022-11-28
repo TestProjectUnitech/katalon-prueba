@@ -17,3 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://beta-eje.jusbaires.gob.ar/iurix-ui/u/actuacion/expId/2355087')
+
+WebUI.setText(findTestObject('Object Repository/otra prueba/Page_Inicia sesin en Eje/input_Usuario o email_username'), 'iurixqacayt')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/otra prueba/Page_Inicia sesin en Eje/input_Contrasea_password'), 
+    '1zwbeAqzpqlGM0TvV6IPtg==')
+
+WebUI.click(findTestObject('Object Repository/otra prueba/Page_Inicia sesin en Eje/input_Contrasea_login'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/otra prueba/Page_/h1_Error 404'), 'Error 404')
+
+WebUI.closeBrowser()
+
