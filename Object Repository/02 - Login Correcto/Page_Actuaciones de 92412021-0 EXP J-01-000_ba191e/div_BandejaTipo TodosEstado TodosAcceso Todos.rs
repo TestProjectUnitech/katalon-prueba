@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BandejaTipo TodosEstado TodosAcceso Todos</name>
+   <tag></tag>
+   <elementGuidId>8a3efbcb-bb62-465a-8a67-7e1dcee52058</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='al-opcionSecureForm']/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.mt-1.contenedor-filtros</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8423b7ea-488b-4d4e-b337-8b39638f4d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row mt-1 contenedor-filtros</value>
+      <webElementGuid>9b00b232-f43e-4f0d-b379-c92838e1a205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BandejaTipo: TodosEstado: TodosAcceso: Todos</value>
+      <webElementGuid>b84f156d-926c-4d5b-ad62-4d954cae604e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;al-opcionSecureForm&quot;)/div[@class=&quot;secContenedor padding-lista-grilla ng-star-inserted&quot;]/div[@class=&quot;row mt-1 contenedor-filtros&quot;]</value>
+      <webElementGuid>90348540-bc89-4464-9281-8fe04a35fd3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='al-opcionSecureForm']/div/div[4]</value>
+      <webElementGuid>d43d5099-d26f-4a17-b40d-0ace8faf0df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Despachar escrito'])[1]/following::div[1]</value>
+      <webElementGuid>324664d5-a7dc-4086-be17-03b931ab7e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear lote'])[1]/following::div[1]</value>
+      <webElementGuid>108f00de-1269-4524-a1c8-9db3488b8152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]</value>
+      <webElementGuid>29e27668-0650-4d33-b272-260fe10092e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BandejaTipo: TodosEstado: TodosAcceso: Todos' or . = 'BandejaTipo: TodosEstado: TodosAcceso: Todos')]</value>
+      <webElementGuid>ba26c18f-6713-4052-aba7-5fca7cc238f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

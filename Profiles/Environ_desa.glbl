@@ -29,4 +29,24 @@
       <initValue>'ow3riur1x'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://beta-eje.jusbaires.gob.ar/iurix-ui/u/inicio?expId=2355398'</initValue>
+      <name>url_app</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'iurixqacayt'</initValue>
+      <name>usuario_login</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1zwbeAqzpqkKlFaPHcfcxA=='</initValue>
+      <name>pass_incorrecta</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1zwbeAqzpqlGM0TvV6IPtg=='</initValue>
+      <name>pass_correcta</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

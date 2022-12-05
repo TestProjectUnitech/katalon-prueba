@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Usuario o contrasea incorrectos</name>
+   <tag></tag>
+   <elementGuidId>2c9da8b9-46f4-4a52-8beb-131e42b741e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kc-feedback-wrapper']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.kc-feedback-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17645b70-583b-4dec-a93d-e7348b6f274b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kc-feedback-text</value>
+      <webElementGuid>55b66e36-9611-4fbd-8a4c-daaa5828f407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Usuario o contraseña incorrectos.</value>
+      <webElementGuid>b31d488f-ad7f-4ec1-9a26-0dd6c83f4a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kc-feedback-wrapper&quot;)/span[@class=&quot;kc-feedback-text&quot;]</value>
+      <webElementGuid>bb47cc93-95c7-430f-87a1-d046feb94b13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kc-feedback-wrapper']/span</value>
+      <webElementGuid>e79e2b76-945f-44fc-9246-db218dadef83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar sesión'])[1]/following::span[1]</value>
+      <webElementGuid>d12bc472-e3c7-4c27-b7c9-97c454e22b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario o email'])[1]/preceding::span[1]</value>
+      <webElementGuid>f3e8c947-acb9-4faf-98dc-7b01c80fb27c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[1]/preceding::span[1]</value>
+      <webElementGuid>cb6f3f41-0779-4fd6-bd3d-0a5ccc51ea9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Usuario o contraseña incorrectos.']/parent::*</value>
+      <webElementGuid>aef83d75-58ae-4f32-9db8-afd092cb6782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>139b8955-545e-47d9-aa32-aace10b81185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Usuario o contraseña incorrectos.' or . = 'Usuario o contraseña incorrectos.')]</value>
+      <webElementGuid>8c84898f-4f0d-46af-9ae8-7336f7d1ab3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

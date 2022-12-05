@@ -11,11 +11,24 @@
       <value></value>
       <variableId>f8d5fee7-7e20-4305-bce3-2daa72d8671a</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3862b24c-3648-4e20-9e87-9c15204d140f</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'select count(1) as cantidad from exp'</defaultValue>
       <description></description>
       <id>f8d5fee7-7e20-4305-bce3-2daa72d8671a</id>
       <masked>false</masked>
       <name>consulta</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>3862b24c-3648-4e20-9e87-9c15204d140f</id>
+      <masked>false</masked>
+      <name>cantidad_rows</name>
    </variable>
 </TestCaseEntity>
