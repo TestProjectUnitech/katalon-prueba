@@ -30,29 +30,29 @@ WebUI.maximizeWindow()
 
 WebUI.waitForPageLoad(0)
 
-WebUI.setText(findTestObject('Object Repository/02 - Login Correcto/Page_Inicia sesin en Eje/input_Usuario o email_username'), 
+WebUI.setText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Inicia sesin en Eje/input_Usuario o email_username'), 
     GlobalVariable.usuario_login)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/02 - Login Correcto/Page_Inicia sesin en Eje/input_Contrasea_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Inicia sesin en Eje/input_Contrasea_password'), 
     GlobalVariable.pass_correcta)
 
-WebUI.click(findTestObject('Object Repository/02 - Login Correcto/Page_Inicia sesin en Eje/input_Contrasea_login'))
+WebUI.click(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Inicia sesin en Eje/input_Contrasea_login'))
 
 WebUI.waitForPageLoad(0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/svg'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/svg'))
 
 if (DriverFactory.getExecutedBrowser() == WebUIDriverType.HEADLESS_DRIVER) {
-		WebUI.verifyElementText(findTestObject('Object Repository/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'),
+		WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'),
 			'') 
 } else {
-		WebUI.verifyElementText(findTestObject('Object Repository/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'),
+		WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'),
 				'Expediente Judicial Electrónico')}
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/div_NES, RAM SOBRE OTROS PROCESOS SUMARISIMOS'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/div_NES, RAM SOBRE OTROS PROCESOS SUMARISIMOS'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/button_add_circleCrear'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/button_add_circleCrear'), 
     0)
 
 WebUI.closeBrowser()

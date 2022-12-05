@@ -25,20 +25,20 @@ WebUI.maximizeWindow()
 
 WebUI.waitForPageLoad(0)
 
-WebUI.setText(findTestObject('Object Repository/01 Login incorrecto/Page_Inicia sesin en Eje/input_Usuario o email_username'), 
+WebUI.setText(findTestObject('Object Repository/Login/01 - Login incorrecto/Page_Inicia sesin en Eje/input_Usuario o email_username'), 
     GlobalVariable.usuario_login)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/01 Login incorrecto/Page_Inicia sesin en Eje/input_Contrasea_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/01 - Login incorrecto/Page_Inicia sesin en Eje/input_Contrasea_password'), 
     GlobalVariable.pass_incorrecta)
 
-WebUI.click(findTestObject('Object Repository/01 Login incorrecto/Page_Inicia sesin en Eje/input_Contrasea_login'))
+WebUI.click(findTestObject('Login/01 - Login incorrecto/Page_Inicia sesin en Eje/input_Contrasea_login'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/01 Login incorrecto/Page_Inicia sesin en Eje/span_Usuario o contrasea incorrectos'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login/01 - Login incorrecto/Page_Inicia sesin en Eje/span_Usuario o contrasea incorrectos'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/01 Login incorrecto/Page_Inicia sesin en Eje/span_Usuario o contrasea incorrectos'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Login/01 - Login incorrecto/Page_Inicia sesin en Eje/span_Usuario o contrasea incorrectos'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/01 Login incorrecto/Page_Inicia sesin en Eje/span_Usuario o contrasea incorrectos'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Login/01 - Login incorrecto/Page_Inicia sesin en Eje/span_Usuario o contrasea incorrectos'), 
     'Usuario o contraseña incorrectos.')
 
 WebUI.closeBrowser()

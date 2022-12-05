@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Contrasea_login</name>
    <tag></tag>
-   <elementGuidId>db16d5b4-b401-4457-9397-486bc2b72cf6</elementGuidId>
+   <elementGuidId>bc9c4ba1-2048-4096-bd97-dd64886d6a2e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4d346e49-b146-4c89-8981-d0d1669a4578</webElementGuid>
+      <webElementGuid>db378118-564b-4c4b-845e-97d3e52e98c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary boton-siguiente</value>
-      <webElementGuid>d9fdb8bd-34cb-4ba8-8015-d80f0d86edb8</webElementGuid>
+      <webElementGuid>40a63229-2c24-46c9-ace2-b20447c0c90e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>login</value>
-      <webElementGuid>13e28212-cb22-444f-a7cc-cb26a53b956b</webElementGuid>
+      <webElementGuid>eebcfe9f-088f-47a2-9b7d-662b35039b5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>kc-login</value>
-      <webElementGuid>f5cc98b3-6492-47f4-9fbf-0dc8c1c89286</webElementGuid>
+      <webElementGuid>3ebe88be-8e42-44f4-9423-210dac3a5c29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>c9ba82b0-bd75-4c74-a0b8-10dd3f3bfe23</webElementGuid>
+      <webElementGuid>b01ed0fa-f5ae-4740-a168-f40ba427c4b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Ingresar</value>
-      <webElementGuid>2202019a-4f13-4139-acd0-bdd8fbafde12</webElementGuid>
+      <webElementGuid>2a5bca1f-2185-4d5f-b618-2075d5116ad9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kc-login&quot;)</value>
-      <webElementGuid>0d4708a9-f7bf-42fd-b116-52a565972f9a</webElementGuid>
+      <webElementGuid>82d249a3-009d-4816-9b28-4f9d494b46e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='kc-login']</value>
-      <webElementGuid>60d73cbb-ccc8-4c98-839a-a1e021f2f17a</webElementGuid>
+      <webElementGuid>01a2048b-debc-41ae-be87-b31311cfd700</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='kc-form-login']/div/div[3]/input</value>
-      <webElementGuid>27ac7ee0-1a8f-4552-a99b-a896a9c65e8e</webElementGuid>
+      <webElementGuid>03755a3a-ff66-4b32-af34-8f032971d8d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>bc2a13ff-5241-491c-ab30-97243acaf67c</webElementGuid>
+      <webElementGuid>fcd7728b-4122-489f-ac89-900dc2c6a7b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'login' and @id = 'kc-login' and @type = 'submit']</value>
-      <webElementGuid>256018dc-54b3-4a97-acdb-a15c48bef2e6</webElementGuid>
+      <webElementGuid>2f4074b0-75e5-49c9-a82e-ba67584d379b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
