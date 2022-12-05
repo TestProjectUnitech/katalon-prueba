@@ -12,7 +12,7 @@
             <groupName>Web Desktop</groupName>
             <profileName>Environ_desa</profileName>
             <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Chrome</runConfigurationId>
+            <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/New Test Suite</testSuiteEntity>

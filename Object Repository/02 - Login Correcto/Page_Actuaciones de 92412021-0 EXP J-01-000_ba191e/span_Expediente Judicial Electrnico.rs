@@ -6,12 +6,12 @@
    <elementGuidId>46c1e80a-5edd-46ba-b15f-a117a97127c6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='menu'])[1]/preceding::span[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.header--titulo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='header--titulo']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>19013f1d-cd51-467d-9366-f8c38b35bc03</webElementGuid>
+      <webElementGuid>bd8f4a51-79f0-42f7-9405-52579d9841cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>header--titulo</value>
-      <webElementGuid>f4ce8565-78c6-48c3-b625-7dab227d6118</webElementGuid>
+      <webElementGuid>856295d2-8877-47eb-9fc4-3528c1e0e8c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Expediente Judicial Electrónico</value>
-      <webElementGuid>ebb27007-f787-4f21-a842-7a6dae7c6b76</webElementGuid>
+      <webElementGuid>3284d13d-c8f6-442b-af8e-8304a722fb1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/nav[@class=&quot;navbar navbar-expand-lg header fondo-color-bordo&quot;]/a[@class=&quot;navbar-brand&quot;]/span[@class=&quot;header--titulo&quot;]</value>
-      <webElementGuid>7fd3d550-1948-4633-aeb6-fe59c1efdf3e</webElementGuid>
+      <webElementGuid>a40712b7-6816-46a4-a604-40e4cbadbb2a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='menu'])[1]/preceding::span[1]</value>
-      <webElementGuid>07f09f63-c80c-4f27-b910-f5f8768bb29d</webElementGuid>
+      <webElementGuid>f3eb1422-0a28-4d04-b45e-edcc7dff1497</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Número, Año y/o Título'])[1]/preceding::span[2]</value>
-      <webElementGuid>8085899d-9221-4454-8c62-3615a4a3d129</webElementGuid>
+      <webElementGuid>967818a2-864c-4ac2-a839-31938968500e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Expediente Judicial Electrónico']/parent::*</value>
-      <webElementGuid>7d345b76-1fd3-4a50-b07d-29a58e24f8fd</webElementGuid>
+      <webElementGuid>64aa5d2c-d78c-4b8f-882c-017c821ae47e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>4e246847-d9f6-4966-970b-2332071414ad</webElementGuid>
+      <webElementGuid>b8c09119-7b2e-4e6b-8ba9-215f14994011</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Expediente Judicial Electrónico' or . = 'Expediente Judicial Electrónico')]</value>
-      <webElementGuid>e472297c-3139-4535-9109-4229bfab0853</webElementGuid>
+      <webElementGuid>0d93d122-f706-4a1d-ae5f-09b24a8bbc20</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
