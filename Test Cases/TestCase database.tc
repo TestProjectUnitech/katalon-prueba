@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase database</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78cefd84-03cc-4b83-be49-107073a63ae4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8d5fee7-7e20-4305-bce3-2daa72d8671a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'select count(1) as cantidad from exp'</defaultValue>
+      <description></description>
+      <id>f8d5fee7-7e20-4305-bce3-2daa72d8671a</id>
+      <masked>false</masked>
+      <name>consulta</name>
+   </variable>
+</TestCaseEntity>

@@ -16,18 +16,20 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.sql.ResultSet as ResultSet
 
-WebUI.openBrowser('')
+CustomKeywords.'com.unitech.varios.database.connectDB'(GlobalVariable.server, GlobalVariable.port, GlobalVariable.db, GlobalVariable.user, 
+    GlobalVariable.password)
 
-WebUI.closeBrowser()
+ResultSet rsl
 
-WebUI.openBrowser('')
+rsl = CustomKeywords.'com.unitech.varios.database.executeQuery'(consulta)
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+if (rsl.next()) {
+    cantidad_rows = rsl.getInt('cantidad')
+}
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health'), 'We Care About Your Health')
+CustomKeywords.'com.unitech.varios.database.closeDatabaseConnection'()
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
-
-WebUI.closeBrowser()
+WebUI.verifyGreaterThan(cantidad_rows, 0)
 

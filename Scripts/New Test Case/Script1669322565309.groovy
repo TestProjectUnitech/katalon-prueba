@@ -16,6 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.db.DatabaseConnection as database
+import com.kms.katalon.core.db.SqlRunner as sqlrun
 
 WebUI.openBrowser('')
 
@@ -28,7 +30,13 @@ WebUI.setEncryptedText(findTestObject('Object Repository/otra prueba/Page_Inicia
 
 WebUI.click(findTestObject('Object Repository/otra prueba/Page_Inicia sesin en Eje/input_Contrasea_login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/otra prueba/Page_/h1_Error 404'), 'Error 404')
+//WebUI.verifyElementText(findTestObject('PfindTestObject('Object Repository/Prueba_1/Page_ToolsQA/input_Email_userEmail')rueba_1/Page_ToolsQA/input_Full Name_userName'), 'Error 404')
+WebUI.verifyElementText(findTfindTestObject('Object Repository/otra prueba/Page_/h1_Error 404'), 'ssdsadasd')
 
+//--sqlrun.
 WebUI.closeBrowser()
+
+WebUI.acceptAlert()
+
+CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow'('')
 
