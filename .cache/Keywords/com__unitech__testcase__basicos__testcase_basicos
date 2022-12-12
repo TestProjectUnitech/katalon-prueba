@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "35EBCA3B3490AC405F1C3FA0FC402A13",
+  "keywordClasses": [
+    {
+      "name": "com.unitech.testcase.basicos.testcase_basicos",
+      "keywordMethods": [
+        {
+          "name": "abrirNavegador",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

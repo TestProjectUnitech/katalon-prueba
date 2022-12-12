@@ -49,4 +49,9 @@
       <initValue>'1zwbeAqzpqlGM0TvV6IPtg=='</initValue>
       <name>pass_correcta</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\\\Temp\\\\Prueba.pdf'</initValue>
+      <name>ruta_adjunto</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

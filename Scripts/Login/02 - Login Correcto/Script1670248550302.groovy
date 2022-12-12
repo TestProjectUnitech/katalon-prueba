@@ -16,11 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.driver.DriverType
-import com.kms.katalon.core.webui.driver.DriverFactory
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.webui.driver.WebUIDriverType
-
+import com.kms.katalon.core.driver.DriverType as DriverType
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import com.kms.katalon.core.webui.driver.WebUIDriverType as WebUIDriverType
 
 WebUI.openBrowser('')
 
@@ -28,7 +26,7 @@ WebUI.navigateToUrl(GlobalVariable.url_app)
 
 WebUI.maximizeWindow()
 
-WebUI.waitForPageLoad(0)
+WebUI.waitForPageLoad(10)
 
 WebUI.setText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Inicia sesin en Eje/input_Usuario o email_username'), 
     GlobalVariable.usuario_login)
@@ -38,16 +36,17 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Login/02 - Login Correc
 
 WebUI.click(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Inicia sesin en Eje/input_Contrasea_login'))
 
-WebUI.waitForPageLoad(0)
+WebUI.waitForPageLoad(10)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/svg'))
 
 if (DriverFactory.getExecutedBrowser() == WebUIDriverType.HEADLESS_DRIVER) {
-		WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'),
-			'') 
+    WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'), 
+        '')
 } else {
-		WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'),
-				'Expediente Judicial Electrónico')}
+    WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'), 
+        'Expediente Judicial Electrónico')
+}
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/div_NES, RAM SOBRE OTROS PROCESOS SUMARISIMOS'), 
     0)
