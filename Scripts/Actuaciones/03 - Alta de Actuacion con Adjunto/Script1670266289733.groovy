@@ -25,9 +25,11 @@ WebUI.click(findTestObject('Object Repository/Actuaciones/03 - Alta de Actuacion
 
 WebUI.click(findTestObject('Actuaciones/03 - Alta de Actuaciones/Page_Actuaciones/button_search'))
 
+WebUI.takeElementScreenshot(findTestObject('Actuaciones/03 - Alta de Actuaciones/Page_Actuaciones/button_search'))
+
 WebUI.setText(findTestObject('Actuaciones/03 - Alta de Actuaciones/Page_Actuaciones/input_filter_alt_codigo'), tipo_actuacion)
 
-not_run: WebUI.sendKeys(findTestObject('Actuaciones/03 - Alta de Actuaciones/Page_Actuaciones/input_filter_alt_codigo'), 
+WebUI.sendKeys(findTestObject('Actuaciones/03 - Alta de Actuaciones/Page_Actuaciones/input_filter_alt_codigo'), 
     tipo_actuacion)
 
 WebUI.click(findTestObject('Actuaciones/03 - Alta de Actuaciones/Page_Actuaciones/button_mab-buscar'))
