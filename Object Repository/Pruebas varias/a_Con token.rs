@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Con token</name>
+   <tag></tag>
+   <elementGuidId>d58936c3-cc1a-4ded-a79c-2ff044d8cf73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='al-firmarToken']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#al-firmarToken</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>231a278c-6e05-40bb-bcba-297df6e8db49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item </value>
+      <webElementGuid>921822e3-e558-427d-960a-9e51fc29ae64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>al-firmarToken</value>
+      <webElementGuid>e5a2c308-a3e8-4971-80f5-8e6f6a088983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Con token</value>
+      <webElementGuid>5461e878-c2dc-46c2-a79b-b81d9827bdfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Con token </value>
+      <webElementGuid>1953b1d6-0eb4-46ae-9de4-b524840c9adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;al-dropdown-menu&quot;)/li[@class=&quot;dropwon-item-size ng-star-inserted&quot;]/a[@id=&quot;al-firmarToken&quot;]</value>
+      <webElementGuid>a3bd990c-9164-4539-8fe9-f6a940d2620d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='al-firmarToken']</value>
+      <webElementGuid>db4f61d7-75ac-47ed-8117-a258def3f60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='al-dropdown-menu']/li/a</value>
+      <webElementGuid>2e14bc4b-7126-4731-98d8-864b573b7c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Con token')]</value>
+      <webElementGuid>e6f87217-f902-4b37-8b13-385bb00d19b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firmar'])[1]/following::a[1]</value>
+      <webElementGuid>884c061f-9bac-4576-b121-8aab784475da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visibilidad'])[1]/following::a[1]</value>
+      <webElementGuid>b046c50c-84ee-4e6e-93be-40fc51ff9e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sin token'])[1]/preceding::a[1]</value>
+      <webElementGuid>e53dad13-4944-4e66-a811-15f0a27c578e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Con token']/parent::*</value>
+      <webElementGuid>2ff88716-8e11-417b-9ed8-61a52c2d416a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>60b02511-8b39-4fc5-87d6-0706319b66d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'al-firmarToken' and @title = 'Con token' and (text() = ' Con token ' or . = ' Con token ')]</value>
+      <webElementGuid>5779292b-5487-4afd-bc26-29bed5687a21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

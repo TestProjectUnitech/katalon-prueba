@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Adjuntos de la actuacin 435662022</name>
+   <tag></tag>
+   <elementGuidId>1ea7ebfe-ce3d-4909-b94a-ced21097bd39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@id='ma-titulo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ma-titulo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>db23536f-8db6-44b0-95c5-2aafde4677f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ma-titulo</value>
+      <webElementGuid>36ba9bbf-46f5-4ddc-88bd-f437e09442fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adjuntos de la actuación 43566/2022</value>
+      <webElementGuid>94cf7b33-1366-4294-9e2f-8f98d77fcec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ma-titulo&quot;)</value>
+      <webElementGuid>17d96024-6282-4186-b7a8-851d3bd7bab5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

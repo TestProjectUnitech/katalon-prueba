@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Actuacin 435662022</name>
+   <tag></tag>
+   <elementGuidId>2149eae0-dcea-4fbc-a67c-f24139038bee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dfda-infoAct']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dfda-infoAct</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5301367f-caf8-4578-acda-bf97ddb32d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>secContenedor__titulo float-left secContenedor__botonesListAct--margin</value>
+      <webElementGuid>12d48d3d-ac88-4f65-a9d2-822132ae620e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dfda-infoAct</value>
+      <webElementGuid>99a0bd95-63a6-4a13-b662-3631dd6e5088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Actuación: 43566/2022</value>
+      <webElementGuid>0db09828-1f15-4588-ab9e-9027cd43e74f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dfda-infoAct&quot;)</value>
+      <webElementGuid>915ef87b-ef06-4c88-9aba-0b40f8707133</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dfda-infoAct']</value>
+      <webElementGuid>10531a3b-da4e-48de-81bb-97c759ba5e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='DialogoFdaComponent']/modal-accion/div/iol-dialogo-fda/div[2]/div[2]/div</value>
+      <webElementGuid>f4cc5aea-dd5e-45b6-b849-080dcc3d16f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXP J-01-00009241-6/2021-0'])[1]/following::div[2]</value>
+      <webElementGuid>dd84e34b-8596-481c-bf1c-529936d5a4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firma Digital'])[1]/following::div[5]</value>
+      <webElementGuid>1bd6cd8a-d99b-4943-9d7c-eba4cfe5e153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nestor firma1'])[1]/preceding::div[9]</value>
+      <webElementGuid>3053ec0a-2fda-4878-9701-86f3993790a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='visibility'])[1]/preceding::div[19]</value>
+      <webElementGuid>9dd76a42-70f1-4836-86c2-08225bc682f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Actuación: 43566/2022']/parent::*</value>
+      <webElementGuid>62aad78f-6e18-48a6-946b-4f8c14b7c89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>269fc9a5-77a0-4e8c-9953-586302a9641b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dfda-infoAct' and (text() = 'Actuación: 43566/2022' or . = 'Actuación: 43566/2022')]</value>
+      <webElementGuid>751117e8-a230-45e4-8f7b-d6bf756d9472</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

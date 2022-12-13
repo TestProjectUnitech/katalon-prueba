@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_mab-buscar</name>
+   <tag></tag>
+   <elementGuidId>14a6f874-bf27-494e-99db-4bd2376c362d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='mab-buscar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#di-buscarModelo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df559d5e-012c-494f-9def-d654773d5a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn boton-buscar-modelo </value>
+      <webElementGuid>94d1c874-2791-4cd6-951d-8e4042692c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>di-buscarModelo</value>
+      <webElementGuid>e4def369-59ac-434f-849e-532f1e2fa01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Buscar Modelo</value>
+      <webElementGuid>c3db0a30-3c8a-4252-a990-0e48621b4dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>a3cb3f80-69c0-4417-b43f-5f459af115fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;di-buscarModelo&quot;)</value>
+      <webElementGuid>e478153c-da9e-48c5-accb-4290661852e4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

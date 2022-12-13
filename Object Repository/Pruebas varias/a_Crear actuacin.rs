@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Crear actuacin</name>
+   <tag></tag>
+   <elementGuidId>82311bfc-ca94-49fd-b183-efef76948a90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='al-crearActuacion']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#al-crearActuacion</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dedec857-8186-4596-a497-16c9d2ae89ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item </value>
+      <webElementGuid>5cc3f196-effc-4645-817b-775149496058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>al-crearActuacion</value>
+      <webElementGuid>c7a6241d-1565-4984-be22-e656ed0e5c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Crear Actuación</value>
+      <webElementGuid>d934c3a3-672c-402b-bd47-208c15870353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Crear actuación </value>
+      <webElementGuid>d11b0aa8-86a3-4181-b3b7-70c53779eb58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;al-opcionSecureForm&quot;)/div[@class=&quot;secContenedor padding-lista-grilla ng-star-inserted&quot;]/div[@class=&quot;row subHeader_espacio-iconos margin-header&quot;]/div[@class=&quot;secContenedor__botones float-right&quot;]/div[@class=&quot;btn-group espacio-left_btn&quot;]/div[@class=&quot;show&quot;]/div[@class=&quot;button-menu-estilo&quot;]/ul[@id=&quot;al-dropdown-menu&quot;]/li[@class=&quot;dropwon-item-size ng-star-inserted&quot;]/a[@id=&quot;al-crearActuacion&quot;]</value>
+      <webElementGuid>a74c13dd-ad8e-4661-954b-6ccacb04220b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='al-crearActuacion']</value>
+      <webElementGuid>25f146bf-3965-49ad-a465-a229b8a5924e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='al-dropdown-menu']/li/a</value>
+      <webElementGuid>eac90bbb-6232-405b-9f62-6aefc40f38d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Crear actuación')]</value>
+      <webElementGuid>ccc70690-cd0c-404c-aea0-ff2a4eaaccc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear'])[1]/following::a[1]</value>
+      <webElementGuid>bee9b246-53b7-4f46-89cd-5ac6c94e130f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add_circle'])[1]/following::a[1]</value>
+      <webElementGuid>9641dc3c-7ccf-4603-864b-cf6eeaa68f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear cédula de notificación'])[1]/preceding::a[1]</value>
+      <webElementGuid>6d691302-d6c2-4531-aacb-84f91c44c052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear lote'])[1]/preceding::a[2]</value>
+      <webElementGuid>7088a1b9-7468-458d-a467-1106bf7454c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crear actuación']/parent::*</value>
+      <webElementGuid>3d99173b-a4b3-4bec-8ff0-77b202e8bd4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>260d1a01-397d-457f-a070-3fbc0e550b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'al-crearActuacion' and @title = 'Crear Actuación' and (text() = ' Crear actuación ' or . = ' Crear actuación ')]</value>
+      <webElementGuid>b1c3a093-6d6d-4168-89c3-7e7891dcc7d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

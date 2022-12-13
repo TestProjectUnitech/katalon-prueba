@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-row_deletePrueba.pdfPblico Privado</name>
+   <tag></tag>
+   <elementGuidId>eb82f51c-0902-4943-a480-6965bfdcbac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-1']/div/iol-selector-archivo/div/div[3]/div/mat-table/mat-row</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-row.mat-row.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-row</value>
+      <webElementGuid>95308aa7-c115-404f-b45b-e4abf81ae82b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-row ng-star-inserted</value>
+      <webElementGuid>925102b6-8175-467b-aac2-e932e4f3bfbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>cdad08da-7387-4963-a1af-82694fdddacd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>deletePrueba.pdf Público  Privado </value>
+      <webElementGuid>ffedc524-e0be-4542-8f1f-fc74625a5e9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-1&quot;)/div[@class=&quot;ng-star-inserted&quot;]/iol-selector-archivo[1]/div[1]/div[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-table[@class=&quot;files-table' mat-table ng-star-inserted&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]</value>
+      <webElementGuid>05f79672-a4ac-4d0a-a607-db86977f3e1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-1']/div/iol-selector-archivo/div/div[3]/div/mat-table/mat-row</value>
+      <webElementGuid>7ace735f-667b-4dcf-8610-a66b81b265d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subir Adjunto'])[1]/following::mat-row[1]</value>
+      <webElementGuid>8e49f468-6c0f-4279-b1c4-deb616881160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='La presentación total no puede superar los 5 MB'])[1]/following::mat-row[1]</value>
+      <webElementGuid>3bbd4e60-9bb1-4a5f-b0a1-dcb98218d550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-row</value>
+      <webElementGuid>25aa6a15-659a-4675-8861-c39057434931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-row[(text() = 'deletePrueba.pdf Público  Privado ' or . = 'deletePrueba.pdf Público  Privado ')]</value>
+      <webElementGuid>6d592371-84ab-4145-a361-651788b42346</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

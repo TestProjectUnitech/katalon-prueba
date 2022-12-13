@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LEYENDA_LOGOEXP_ORG_RAD  EXP_SEC_RADEXP_094c14_1</name>
+   <tag></tag>
+   <elementGuidId>66879fcd-f00f-4a52-b687-77e144931cd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#content-pdf-na</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-pdf-na']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e63135cd-2827-458e-8d1c-6ba66af20fc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content-pdf-na</value>
+      <webElementGuid>f1c5a46d-ce4e-4f98-95ae-e79d68331294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#LEYENDA_LOGO##EXP_ORG_RAD#  #EXP_SEC_RAD##EXP_CAR#Número: #EXP_NUMERO#CUIJ: #EXP_CUIJ#Actuación Nro: #ACT_NRO_ANIO#Ciudad Autónoma de Buenos Aires,    de #FEC_EMI_ACT# Concédese en los términos del art. 63 del CCAyT elrecurso de apelación interpuesto contra la imposición decostas     dispuesta     en     la     resolución     defs. ...................., debiendo elevarse las presentesactuaciones a la Cámara de Apelaciones del fuero en suoportunidad y en la forma de estilo.</value>
+      <webElementGuid>995e2b49-e640-4253-96cc-49eeed0999d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-pdf-na&quot;)</value>
+      <webElementGuid>0a4239b8-2be1-4659-9100-fd0fe2c6c005</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='content-pdf-na']</value>
+      <webElementGuid>898dd4f0-d151-4f8c-b043-687165b06e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Página: 1 de 1'])[1]/following::div[1]</value>
+      <webElementGuid>2f7cbc07-55db-4cbe-a29f-e957a0fca49c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_in'])[1]/following::div[1]</value>
+      <webElementGuid>f13a0d53-a83f-44a0-b8c9-94309410010f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>031d3ffc-60bb-4df6-a90f-683ffe5df416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'content-pdf-na' and (text() = '#LEYENDA_LOGO##EXP_ORG_RAD#  #EXP_SEC_RAD##EXP_CAR#Número: #EXP_NUMERO#CUIJ: #EXP_CUIJ#Actuación Nro: #ACT_NRO_ANIO#Ciudad Autónoma de Buenos Aires,    de #FEC_EMI_ACT# Concédese en los términos del art. 63 del CCAyT elrecurso de apelación interpuesto contra la imposición decostas     dispuesta     en     la     resolución     defs. ...................., debiendo elevarse las presentesactuaciones a la Cámara de Apelaciones del fuero en suoportunidad y en la forma de estilo.' or . = '#LEYENDA_LOGO##EXP_ORG_RAD#  #EXP_SEC_RAD##EXP_CAR#Número: #EXP_NUMERO#CUIJ: #EXP_CUIJ#Actuación Nro: #ACT_NRO_ANIO#Ciudad Autónoma de Buenos Aires,    de #FEC_EMI_ACT# Concédese en los términos del art. 63 del CCAyT elrecurso de apelación interpuesto contra la imposición decostas     dispuesta     en     la     resolución     defs. ...................., debiendo elevarse las presentesactuaciones a la Cámara de Apelaciones del fuero en suoportunidad y en la forma de estilo.')]</value>
+      <webElementGuid>52d865cd-3880-4163-a505-818a0418d90e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

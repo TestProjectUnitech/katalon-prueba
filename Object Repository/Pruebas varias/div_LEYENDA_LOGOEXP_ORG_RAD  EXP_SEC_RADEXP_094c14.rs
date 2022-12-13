@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LEYENDA_LOGOEXP_ORG_RAD  EXP_SEC_RADEXP_094c14</name>
+   <tag></tag>
+   <elementGuidId>394b15b9-4b70-4f05-9aa0-90ba86f1560c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-pdf-na']/pdf-viewer/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.textLayer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>efc3ef9c-674d-4764-8c85-a8fb60c373bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textLayer</value>
+      <webElementGuid>477547fe-e188-4a58-a6e9-88b97a60f358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#LEYENDA_LOGO##EXP_ORG_RAD#  #EXP_SEC_RAD##EXP_CAR#Número: #EXP_NUMERO#CUIJ: #EXP_CUIJ#Actuación Nro: #ACT_NRO_ANIO#Ciudad Autónoma de Buenos Aires,    de #FEC_EMI_ACT# Concédese en los términos del art. 63 del CCAyT elrecurso de apelación interpuesto contra la imposición decostas     dispuesta     en     la     resolución     defs. ...................., debiendo elevarse las presentesactuaciones a la Cámara de Apelaciones del fuero en suoportunidad y en la forma de estilo.</value>
+      <webElementGuid>44fba0c6-3249-4b27-a3c8-1a59d056b686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-pdf-na&quot;)/pdf-viewer[@class=&quot;pdf-viewer-estilo ng-star-inserted&quot;]/div[@class=&quot;ng2-pdf-viewer-container&quot;]/div[@class=&quot;pdfViewer removePageBorders&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;textLayer&quot;]</value>
+      <webElementGuid>b1e4ac98-6892-4b39-a41f-770eff11cf18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-pdf-na']/pdf-viewer/div/div/div/div[2]</value>
+      <webElementGuid>2c251c9e-ab61-4290-bf50-87435ee40f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Página: 1 de 1'])[1]/following::div[6]</value>
+      <webElementGuid>2ea06498-a7ad-4cd8-bff2-4cbe54f2e079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_in'])[1]/following::div[6]</value>
+      <webElementGuid>4bc98dbc-ae84-4204-990e-c43da1dac2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//pdf-viewer/div/div/div/div[2]</value>
+      <webElementGuid>6cb47823-1633-4baf-bd3d-90d51e4f48f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '#LEYENDA_LOGO##EXP_ORG_RAD#  #EXP_SEC_RAD##EXP_CAR#Número: #EXP_NUMERO#CUIJ: #EXP_CUIJ#Actuación Nro: #ACT_NRO_ANIO#Ciudad Autónoma de Buenos Aires,    de #FEC_EMI_ACT# Concédese en los términos del art. 63 del CCAyT elrecurso de apelación interpuesto contra la imposición decostas     dispuesta     en     la     resolución     defs. ...................., debiendo elevarse las presentesactuaciones a la Cámara de Apelaciones del fuero en suoportunidad y en la forma de estilo.' or . = '#LEYENDA_LOGO##EXP_ORG_RAD#  #EXP_SEC_RAD##EXP_CAR#Número: #EXP_NUMERO#CUIJ: #EXP_CUIJ#Actuación Nro: #ACT_NRO_ANIO#Ciudad Autónoma de Buenos Aires,    de #FEC_EMI_ACT# Concédese en los términos del art. 63 del CCAyT elrecurso de apelación interpuesto contra la imposición decostas     dispuesta     en     la     resolución     defs. ...................., debiendo elevarse las presentesactuaciones a la Cámara de Apelaciones del fuero en suoportunidad y en la forma de estilo.')]</value>
+      <webElementGuid>dc96ef26-a524-4349-92e8-bd13b61ba59b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Buscar Modelos de Actuaciones</name>
+   <tag></tag>
+   <elementGuidId>dbf02c50-9a34-45b3-96a5-2d4256db1dbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@id='ma-titulo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ma-titulo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>5c8bbec7-c0b4-4e20-b665-9129a7670cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ma-titulo</value>
+      <webElementGuid>4d4d04f1-3a20-43bb-8041-431911b98f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buscar Modelos de Actuaciones</value>
+      <webElementGuid>06b477c8-69fd-4858-8b80-0381f305372e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ma-titulo&quot;)</value>
+      <webElementGuid>255458df-064b-4cac-9af6-8a06c1b79d72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h4[@id='ma-titulo']</value>
+      <webElementGuid>bc88bfcc-4584-456f-bae4-6b875455cf15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-1']/modal-accion/div/div/h4</value>
+      <webElementGuid>4c71f679-d2be-4ff9-910f-a433fa67b5bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::h4[1]</value>
+      <webElementGuid>ffb90500-dd8a-4f57-84fd-7842b8ed7f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::h4[1]</value>
+      <webElementGuid>2c5b4394-a660-4a3e-9e3f-56a3681fbd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter_alt'])[1]/preceding::h4[1]</value>
+      <webElementGuid>d3e8a92a-b698-403d-b043-8637a29f3c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buscar Modelos de Actuaciones']/parent::*</value>
+      <webElementGuid>b62b412d-7a32-4e16-8ecb-9dbbc4aaa322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>d7cc132f-9d98-4f8a-9827-274748c7411f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'ma-titulo' and (text() = 'Buscar Modelos de Actuaciones' or . = 'Buscar Modelos de Actuaciones')]</value>
+      <webElementGuid>2d8f5aa2-9c55-4a23-b146-f2b27db131e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

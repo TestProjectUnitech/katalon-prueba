@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Nombre del adjunto</name>
+   <tag></tag>
+   <elementGuidId>fcb7781f-c96d-4939-b9dc-2826ae643db5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='adj-adjuntoForm']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.adjunto_label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ca17aab1-a983-4469-835f-de4ccbf3addd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>adjunto_label</value>
+      <webElementGuid>2db57061-8524-4d27-bce2-10349f427367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nombre del adjunto</value>
+      <webElementGuid>aace5d7d-a3c1-4f57-8013-6e142f8004b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adj-adjuntoForm&quot;)/div[@class=&quot;mb-2&quot;]/label[@class=&quot;adjunto_label&quot;]</value>
+      <webElementGuid>b6694f7f-94b8-45f5-b931-4aa5c9f6a4b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='adj-adjuntoForm']/div/label</value>
+      <webElementGuid>bd6ac12d-8b8d-42e1-a8d2-2d2889137b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjuntos de la actuación 43566/2022'])[1]/following::label[1]</value>
+      <webElementGuid>ad3dc5d0-588b-4120-8c72-0a898cc4d855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::label[1]</value>
+      <webElementGuid>c0db0455-bd38-4801-bc58-d58fcbecbbf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nivel de Acceso'])[1]/preceding::label[1]</value>
+      <webElementGuid>4272b623-d638-4d26-80e1-6ae030061535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Público'])[1]/preceding::label[2]</value>
+      <webElementGuid>2b1722e8-daa8-4f5f-b110-df35437ae3a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nombre del adjunto']/parent::*</value>
+      <webElementGuid>ce1aa8d0-0c1d-49a1-bd08-0ab3ce50923c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/label</value>
+      <webElementGuid>133c1f50-468e-434f-8cb8-1ce6db143e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Nombre del adjunto' or . = 'Nombre del adjunto')]</value>
+      <webElementGuid>3486662c-ff57-47dd-b1d5-b86ec21aa302</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

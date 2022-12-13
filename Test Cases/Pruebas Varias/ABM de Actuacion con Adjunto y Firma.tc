@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ABM de Actuacion con Adjunto y Firma</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae15cd93-e432-4d06-8193-05f54d28872b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7aee241-30d4-4426-bd9d-24ca61d8193f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PS103'</defaultValue>
+      <description></description>
+      <id>a7aee241-30d4-4426-bd9d-24ca61d8193f</id>
+      <masked>false</masked>
+      <name>tipo_actuacion</name>
+   </variable>
+</TestCaseEntity>
