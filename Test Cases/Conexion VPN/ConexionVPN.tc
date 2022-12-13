@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Conexion a la VPN de Beta</description>
+   <name>ConexionVPN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdd0e837-cd2c-4092-9142-92c73c148495</testCaseGuid>
+</TestCaseEntity>
