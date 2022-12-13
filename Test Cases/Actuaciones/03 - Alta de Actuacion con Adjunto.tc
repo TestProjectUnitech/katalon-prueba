@@ -5,6 +5,12 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>e3e34457-c3a3-4804-9bf8-ad06922c3e45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2fa8a41-c1be-4b32-908e-b30e455ab5b9</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'PS103'</defaultValue>
       <description></description>

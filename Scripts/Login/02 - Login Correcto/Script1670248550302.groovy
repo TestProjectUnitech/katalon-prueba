@@ -24,6 +24,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.url_app)
 
+WebUI.setViewPortSize(1920, 1080)
+
 WebUI.maximizeWindow()
 
 WebUI.waitForPageLoad(10)
@@ -40,14 +42,14 @@ WebUI.waitForPageLoad(10)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/svg'))
 
-if (DriverFactory.getExecutedBrowser() == WebUIDriverType.HEADLESS_DRIVER) {
-    WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'), 
-        '')
-} else {
-    WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'), 
-        'Expediente Judicial Electrónico')
-}
+//if (DriverFactory.getExecutedBrowser() == WebUIDriverType.HEADLESS_DRIVER) {
+//    WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'), 
+//        '')
+//} else {
+WebUI.verifyElementText(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/span_Expediente Judicial Electrnico'), 
+    'Expediente Judicial Electrónico')
 
+//}
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login/02 - Login Correcto/Page_Actuaciones de 92412021-0 EXP J-01-000_ba191e/div_NES, RAM SOBRE OTROS PROCESOS SUMARISIMOS'), 
     0)
 

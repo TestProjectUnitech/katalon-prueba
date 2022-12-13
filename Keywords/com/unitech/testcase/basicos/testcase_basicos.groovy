@@ -25,6 +25,7 @@ public class testcase_basicos {
 	@Keyword
 	def abrirNavegador() {
 		WebUI.openBrowser(GlobalVariable.url_app)
+		WebUI.setViewPortSize(1920, 1080)
 		WebUI.maximizeWindow()
 		WebUI.waitForPageLoad(0)
 		WebUI.setText(findTestObject('Object Repository/Actuaciones/03 - Alta de Actuaciones/Page_Inicia sesin en Eje/input_Usuario o email_username'),

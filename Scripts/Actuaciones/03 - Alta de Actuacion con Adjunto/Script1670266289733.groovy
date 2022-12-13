@@ -60,6 +60,8 @@ WebUI.verifyElementPresent(findTestObject('Actuaciones/03 - Alta de Actuaciones/
 
 WebUI.click(findTestObject('Actuaciones/03 - Alta de Actuaciones/Page_Actuaciones/span_Guardar y Finalizar'))
 
+WebUI.delay(5)
+
 WebUI.verifyElementPresent(findTestObject('Actuaciones/03 - Alta de Actuaciones/Page_Actuaciones/span_Se ha creado Actuacin 426472022'), 
     0)
 
