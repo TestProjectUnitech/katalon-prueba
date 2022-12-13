@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Guardar y Finalizar</name>
+   <name>button_get_appDescargar todo</name>
    <tag></tag>
-   <elementGuidId>10cd14ea-7271-4324-81b1-2af5cc67075e</elementGuidId>
+   <elementGuidId>b09bb959-9847-49f8-87fa-b025bd40d111</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='na-siguienteNotificar']</value>
+         <value>//button[@id='a-descargarTodo']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#na-siguienteNotificar</value>
+         <value>#a-descargarTodo</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d868688b-6565-44ae-810d-a7a8245b8466</webElementGuid>
+      <webElementGuid>164e6440-6798-4b42-aee1-7c0f2c3fc870</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn datos-iniciales__boton--siguiente mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>282aff34-925d-4734-bb58-4f5dde4388bb</webElementGuid>
+      <value>btn btn-sm btn-danger buton-style mt-3</value>
+      <webElementGuid>9a3e48e0-58d7-4603-b656-a49fe64d8e98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>na-siguienteNotificar</value>
-      <webElementGuid>ca331074-7e31-447f-a189-b9cfd32730fb</webElementGuid>
+      <value>a-descargarTodo</value>
+      <webElementGuid>ac06e983-2da3-43f9-83a5-21d28225e56c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Descargar todo</value>
+      <webElementGuid>aa501910-ca27-4945-8fec-65cbcf142112</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,78 +54,78 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fb9d4d05-3363-430d-a9fe-8ae9b4b7e0d5</webElementGuid>
+      <webElementGuid>3e45e01b-2fbb-46ed-8649-969d547dba0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Guardar y Finalizar </value>
-      <webElementGuid>7249df47-43fb-4c56-9493-7db768055002</webElementGuid>
+      <value>get_appDescargar todo </value>
+      <webElementGuid>d890edd0-eea5-44da-8423-d5d4d03187be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;na-siguienteNotificar&quot;)</value>
-      <webElementGuid>654cf23c-7574-42d2-ba87-217ef5b252ca</webElementGuid>
+      <value>id(&quot;a-descargarTodo&quot;)</value>
+      <webElementGuid>d409e1d7-4e0a-459a-908b-5445341bc274</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='na-siguienteNotificar']</value>
-      <webElementGuid>7b439eb1-a2e4-4df0-8fdf-04fe8e641048</webElementGuid>
+      <value>//button[@id='a-descargarTodo']</value>
+      <webElementGuid>b3dc7ed9-ac98-4cb2-a37a-b08205af95de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-step-content-0-1']/div[2]/button[2]</value>
-      <webElementGuid>fd4021fe-cd2c-4ca2-818f-63e4aa70d67b</webElementGuid>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/button</value>
+      <webElementGuid>e73aa974-10e1-4aff-ac4b-94715c2055d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/following::button[1]</value>
-      <webElementGuid>9fc90f13-3fef-4afd-b86e-658bf6e5b2e3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='share'])[3]/following::button[1]</value>
+      <webElementGuid>7a0771a7-6bd6-439f-a3c4-8e4d126e5d66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='La suma total de los archivos a subir es de : 0.03MB'])[1]/following::button[2]</value>
-      <webElementGuid>01bd916d-9e8a-4856-ae76-7d8837ba444c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No se encontró UUID de actuación'])[2]/preceding::button[1]</value>
+      <webElementGuid>6261fa73-71b1-419b-8893-5161a0ccf971</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_out'])[1]/preceding::button[1]</value>
-      <webElementGuid>2f602d46-5d90-4815-9484-a6130c6d0f43</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Descargar todo']/parent::*</value>
+      <webElementGuid>e46b7643-e9c5-473b-bc92-befb1ced75ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button[2]</value>
-      <webElementGuid>24fd876c-5624-4c0a-906b-8b407ff9ed2c</webElementGuid>
+      <value>//app-adjunto/div/button</value>
+      <webElementGuid>31a90947-6210-41a6-b5a1-8666024c8337</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'na-siguienteNotificar' and @type = 'button' and (text() = ' Guardar y Finalizar ' or . = ' Guardar y Finalizar ')]</value>
-      <webElementGuid>405e78bd-d6f8-4cb1-acfb-02cc446afd72</webElementGuid>
+      <value>//button[@id = 'a-descargarTodo' and @title = 'Descargar todo' and @type = 'button' and (text() = 'get_appDescargar todo ' or . = 'get_appDescargar todo ')]</value>
+      <webElementGuid>3ff85121-b046-4fab-8afe-a7f587683e6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

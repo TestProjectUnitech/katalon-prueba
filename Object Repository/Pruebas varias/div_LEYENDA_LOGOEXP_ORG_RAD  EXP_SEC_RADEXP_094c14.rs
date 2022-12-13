@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>efc3ef9c-674d-4764-8c85-a8fb60c373bf</webElementGuid>
+      <webElementGuid>bbc0971a-52ae-4dfb-bb70-b7792707dbe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>textLayer</value>
-      <webElementGuid>477547fe-e188-4a58-a6e9-88b97a60f358</webElementGuid>
+      <webElementGuid>4ce460a0-a7bc-476d-8f83-27c18a514224</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>#LEYENDA_LOGO##EXP_ORG_RAD#  #EXP_SEC_RAD##EXP_CAR#Número: #EXP_NUMERO#CUIJ: #EXP_CUIJ#Actuación Nro: #ACT_NRO_ANIO#Ciudad Autónoma de Buenos Aires,    de #FEC_EMI_ACT# Concédese en los términos del art. 63 del CCAyT elrecurso de apelación interpuesto contra la imposición decostas     dispuesta     en     la     resolución     defs. ...................., debiendo elevarse las presentesactuaciones a la Cámara de Apelaciones del fuero en suoportunidad y en la forma de estilo.</value>
-      <webElementGuid>44fba0c6-3249-4b27-a3c8-1a59d056b686</webElementGuid>
+      <webElementGuid>3b745aa0-c65c-4d3f-b733-330659f8b9a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content-pdf-na&quot;)/pdf-viewer[@class=&quot;pdf-viewer-estilo ng-star-inserted&quot;]/div[@class=&quot;ng2-pdf-viewer-container&quot;]/div[@class=&quot;pdfViewer removePageBorders&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;textLayer&quot;]</value>
-      <webElementGuid>b1e4ac98-6892-4b39-a41f-770eff11cf18</webElementGuid>
+      <webElementGuid>0a00d5e7-1366-49e8-b28a-f48ba9f643d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-pdf-na']/pdf-viewer/div/div/div/div[2]</value>
-      <webElementGuid>2c251c9e-ab61-4290-bf50-87435ee40f9a</webElementGuid>
+      <webElementGuid>65c1339e-483c-4024-bbec-4fb0aa6ad54c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Página: 1 de 1'])[1]/following::div[6]</value>
-      <webElementGuid>2ea06498-a7ad-4cd8-bff2-4cbe54f2e079</webElementGuid>
+      <webElementGuid>a1c2e9ef-1a5d-4e5a-881e-22905967ba59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_in'])[1]/following::div[6]</value>
-      <webElementGuid>4bc98dbc-ae84-4204-990e-c43da1dac2ac</webElementGuid>
+      <webElementGuid>33c8e61e-6a57-4c00-81ee-938aac7a6dc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//pdf-viewer/div/div/div/div[2]</value>
-      <webElementGuid>6cb47823-1633-4baf-bd3d-90d51e4f48f8</webElementGuid>
+      <webElementGuid>4a622393-7275-44e5-9916-1af4dbc1a479</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '#LEYENDA_LOGO##EXP_ORG_RAD#  #EXP_SEC_RAD##EXP_CAR#Número: #EXP_NUMERO#CUIJ: #EXP_CUIJ#Actuación Nro: #ACT_NRO_ANIO#Ciudad Autónoma de Buenos Aires,    de #FEC_EMI_ACT# Concédese en los términos del art. 63 del CCAyT elrecurso de apelación interpuesto contra la imposición decostas     dispuesta     en     la     resolución     defs. ...................., debiendo elevarse las presentesactuaciones a la Cámara de Apelaciones del fuero en suoportunidad y en la forma de estilo.' or . = '#LEYENDA_LOGO##EXP_ORG_RAD#  #EXP_SEC_RAD##EXP_CAR#Número: #EXP_NUMERO#CUIJ: #EXP_CUIJ#Actuación Nro: #ACT_NRO_ANIO#Ciudad Autónoma de Buenos Aires,    de #FEC_EMI_ACT# Concédese en los términos del art. 63 del CCAyT elrecurso de apelación interpuesto contra la imposición decostas     dispuesta     en     la     resolución     defs. ...................., debiendo elevarse las presentesactuaciones a la Cámara de Apelaciones del fuero en suoportunidad y en la forma de estilo.')]</value>
-      <webElementGuid>dc96ef26-a524-4349-92e8-bd13b61ba59b</webElementGuid>
+      <webElementGuid>8964a1b0-586b-4313-8c81-9c5bff98ae71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

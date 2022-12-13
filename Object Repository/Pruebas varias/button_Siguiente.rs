@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>96e5c9da-bedd-4f2e-8421-c1ad54922233</webElementGuid>
+      <webElementGuid>02150e25-5b3d-47f1-a6fd-54aeadf04949</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn datos-iniciales__boton--siguiente mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>f63f4a27-ef45-446a-a818-7b37c58afcc6</webElementGuid>
+      <webElementGuid>8546e640-cbc7-4409-b2f8-548e37ece83d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3bee2f3e-5ce2-47ae-b950-83f29a9a4c1c</webElementGuid>
+      <webElementGuid>5f02f6e1-7db5-4482-86fa-38845446cafd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Siguiente</value>
-      <webElementGuid>72d9f9f0-aedf-44f4-91b9-08005448a3a4</webElementGuid>
+      <webElementGuid>e135a29f-82f4-42e3-a0fe-95ca04092864</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid modal-body mt-3 secContent__nueva-actuacion ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-6 colorBg&quot;]/div[@class=&quot;ajustar-contenido&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mt-4&quot;]/button[@class=&quot;btn datos-iniciales__boton--siguiente mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>24941dc2-e282-45bf-9c63-1dbe5d85e288</webElementGuid>
+      <webElementGuid>6732b375-ea7c-4570-85dc-e44937050fe3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>344eff61-d162-48ae-bdb0-324a1d94cf1e</webElementGuid>
+      <webElementGuid>fac183dd-c5fc-430c-98cb-cdca40f36ae3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::button[1]</value>
-      <webElementGuid>bf062702-31e2-45db-985d-50639600955c</webElementGuid>
+      <webElementGuid>e4514995-e714-408b-8578-8f679f80a74d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Importar Actuación'])[1]/following::button[2]</value>
-      <webElementGuid>183de1da-3d39-4296-8e6b-3c3f495db3a3</webElementGuid>
+      <webElementGuid>d0bd39ea-edc0-45e1-babd-1cdff1c04bdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_out'])[1]/preceding::button[1]</value>
-      <webElementGuid>56e4098c-fa01-4786-962d-81d4c15ebca2</webElementGuid>
+      <webElementGuid>66b41eca-5386-4806-9e22-bb739083ff94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>e904eed0-ad7a-41b6-a0ab-fe0420c99534</webElementGuid>
+      <webElementGuid>406bd29e-49ed-4c40-a479-354952698440</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Siguiente' or . = 'Siguiente')]</value>
-      <webElementGuid>a466dda6-15be-4d34-ac1a-e80c415f4fc4</webElementGuid>
+      <webElementGuid>9e79d231-0919-4dd0-845b-2c5607e57ea6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

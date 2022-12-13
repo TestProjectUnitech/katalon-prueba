@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ecbad9bf-8c25-455a-bbdb-612b1c2df718</webElementGuid>
+      <webElementGuid>46ce1f10-e747-4dbf-a347-6ec40e96c350</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>f1b6bfe0-e208-4728-9a30-f77304239d92</webElementGuid>
+      <webElementGuid>6967dbe5-88ad-4072-b662-0f7ecbf95d24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Actualizar</value>
-      <webElementGuid>80bc0fd2-7e59-43b4-b1e0-79d908f1dff2</webElementGuid>
+      <webElementGuid>93975958-a0ff-4840-8bcf-1090bab928cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;adj-actualizar&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>0f06ecfd-1a97-4ac6-9e43-8d22f0b6dc2d</webElementGuid>
+      <webElementGuid>ab31eddf-15ca-493d-8b40-c9f824748959</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='adj-actualizar']/span</value>
-      <webElementGuid>8bc38437-6c58-40ba-8a83-2ea873e5abd6</webElementGuid>
+      <webElementGuid>5dd67a33-a6f6-4ac4-911a-dcb49011773d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[1]/following::span[1]</value>
-      <webElementGuid>2b15bc2f-a944-4341-abeb-6b4e504050c7</webElementGuid>
+      <webElementGuid>fd91053e-814a-445b-86d1-e0b78e2afe91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Público'])[1]/following::span[2]</value>
-      <webElementGuid>c8289112-e143-43a9-b09f-24a125e9c52c</webElementGuid>
+      <webElementGuid>f1dcdfc8-a57f-4335-8421-fb259671cae6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::span[1]</value>
-      <webElementGuid>1eeddcf0-a066-4992-bdde-38a5643ad323</webElementGuid>
+      <webElementGuid>2011aa71-8c25-45e1-b343-60da51518844</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Actualizar']/parent::*</value>
-      <webElementGuid>d5c3277a-f81b-4360-97ee-342d7878deda</webElementGuid>
+      <webElementGuid>5b4f7389-618d-4d38-9e21-a304d574210a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-adjunto/div/div/button/span</value>
-      <webElementGuid>c6b7d469-1fa6-4f86-b4d3-95658143ac3c</webElementGuid>
+      <webElementGuid>d1a62989-dec7-4bc8-969a-f5e7989543e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Actualizar' or . = 'Actualizar')]</value>
-      <webElementGuid>bb5ed872-d9b0-4ed3-864a-b2ff5ac77e38</webElementGuid>
+      <webElementGuid>8da25b77-4ae7-4ec0-bd69-27d07ff8aafe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

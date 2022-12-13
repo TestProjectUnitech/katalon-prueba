@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_remove_red_eye</name>
+   <tag></tag>
+   <elementGuidId>d09ad21f-936e-4faf-9540-67a96c9a3b61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='a-verVistaPrevia']/span)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.botones_margin > #a-verVistaPrevia > span.material-icons.tarjeta__col-izq--iconosDark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe439028-3f7a-47cf-b741-1c0ef4aa0ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons tarjeta__col-izq--iconosDark</value>
+      <webElementGuid>40dbc1f7-21e7-434a-95c7-db90a2fd689e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>remove_red_eye</value>
+      <webElementGuid>71ed9e17-42ae-4371-9afd-51636991e52f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell-descargar mat-cell cdk-column-verAdjunto mat-column-verAdjunto ng-star-inserted&quot;]/span[@class=&quot;botones_margin&quot;]/button[@id=&quot;a-verVistaPrevia&quot;]/span[@class=&quot;material-icons tarjeta__col-izq--iconosDark&quot;]</value>
+      <webElementGuid>7457fbd3-a18b-450d-9405-c18cd603c32a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='a-verVistaPrevia']/span)[3]</value>
+      <webElementGuid>bc1bba65-1660-4321-a6bc-786554b17f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[1]/following::span[2]</value>
+      <webElementGuid>00643371-c473-4cd7-af21-b7052d6bd5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUBLICO'])[1]/following::span[3]</value>
+      <webElementGuid>c82f54d6-7b4b-4554-8985-e3f0a3cc581e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='get_app'])[1]/preceding::span[1]</value>
+      <webElementGuid>468b1f41-363b-4107-9e3f-4f196b4837cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-cell[6]/span/button/span</value>
+      <webElementGuid>4310b0d0-698c-4e5a-8bd8-e7cba59b95d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'remove_red_eye' or . = 'remove_red_eye')]</value>
+      <webElementGuid>2eec2de6-8bdc-449e-8f1a-2ab988ec729e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

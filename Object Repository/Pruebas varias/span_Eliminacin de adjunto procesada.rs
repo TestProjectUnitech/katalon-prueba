@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Edicin de adjunto procesada</name>
+   <name>span_Eliminacin de adjunto procesada</name>
    <tag></tag>
-   <elementGuidId>c9328613-4790-4aa2-8caa-990185ccf11a</elementGuidId>
+   <elementGuidId>cd03d963-465c-4baf-aa87-b25e9f7e43fb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='cdk-overlay-5']/snack-bar-container/simple-snack-bar/span</value>
+         <value>VE</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,39 +22,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>67495bd4-71cb-4416-93fd-6e51c0dfb685</webElementGuid>
+      <webElementGuid>803bfc04-6fb3-43cf-9214-022d6c0cd1ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Edición de adjunto procesada</value>
-      <webElementGuid>a1c21fea-c827-4db9-9b0a-514f8a60e5d5</webElementGuid>
+      <value>Eliminación de adjunto procesada</value>
+      <webElementGuid>ad96957c-6572-4bc8-a3fe-823b9643a8c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cdk-overlay-5&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c39-12 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]/simple-snack-bar[@class=&quot;mat-simple-snackbar ng-star-inserted&quot;]/span[1]</value>
-      <webElementGuid>064a64a6-29c1-4713-a159-f701272f29e0</webElementGuid>
+      <value>id(&quot;cdk-overlay-8&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c39-18 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]/simple-snack-bar[@class=&quot;mat-simple-snackbar ng-star-inserted&quot;]/span[1]</value>
+      <webElementGuid>09a498bc-3284-463f-b339-44f8d639517a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-overlay-5']/snack-bar-container/simple-snack-bar/span</value>
-      <webElementGuid>e799df99-77fe-4856-9494-560a571645b9</webElementGuid>
+      <value>//div[@id='cdk-overlay-8']/snack-bar-container/simple-snack-bar/span</value>
+      <webElementGuid>5d05002e-8b53-47da-bcc5-bb9e93e1c574</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edición de adjunto procesada'])[1]/following::span[1]</value>
-      <webElementGuid>429e5278-e02f-4d42-9150-489c3b9f52f1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminación de adjunto procesada'])[1]/following::span[1]</value>
+      <webElementGuid>cf542dae-17da-4683-a722-cbf6763f1c6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::span[1]</value>
-      <webElementGuid>f1307ae9-51c0-4fbc-9f36-0080bcf81764</webElementGuid>
+      <webElementGuid>d5a0cf17-ebbd-4627-833c-68b6cd12282b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/preceding::span[1]</value>
-      <webElementGuid>3618d68f-16b9-469c-999f-c69759d1b83f</webElementGuid>
+      <webElementGuid>bfaa9335-4acf-4e6d-8767-cc34d3070543</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,22 +78,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//simple-snack-bar/span</value>
-      <webElementGuid>21015ea9-e7eb-4a77-a4a9-195fe4e38a89</webElementGuid>
+      <webElementGuid>a0f6e914-96df-4952-b618-57e2e59169a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Edición de adjunto procesada' or . = 'Edición de adjunto procesada')]</value>
-      <webElementGuid>90f7ab83-3afd-4ecb-ac2b-2f7be9c2414a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='cdk-overlay-2']/snack-bar-container/simple-snack-bar/span</value>
-      <webElementGuid>49f732be-0cca-44d7-b8a8-969cf4ab297c</webElementGuid>
+      <value>//span[(text() = 'Eliminación de adjunto procesada' or . = 'Eliminación de adjunto procesada')]</value>
+      <webElementGuid>1bd1e677-3fa5-49ff-8649-8aaec78a22e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

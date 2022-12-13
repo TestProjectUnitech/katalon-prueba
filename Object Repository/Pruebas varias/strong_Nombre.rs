@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>strong</value>
-      <webElementGuid>cf7c9908-0153-4057-b7fa-6ee14b0d2cc8</webElementGuid>
+      <webElementGuid>20d25d3b-f53d-4aa0-9f1a-d02485d7ba2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Nombre </value>
-      <webElementGuid>cbfa6b6c-1c56-407c-8b66-daf612129e6a</webElementGuid>
+      <webElementGuid>feea31d8-4510-48b3-a62b-deba2c766b9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-header-row[@class=&quot;mat-header-row mat-table-sticky ng-star-inserted&quot;]/mat-header-cell[@class=&quot;mat-cell-nombre mat-header-cell cdk-column-nombre mat-column-nombre ng-star-inserted&quot;]/strong[1]</value>
-      <webElementGuid>97b81acc-ef95-4a49-bb65-9d0b9f4b144b</webElementGuid>
+      <webElementGuid>6bd3037f-fb7f-467b-826e-b5b1620939ca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-header-row/mat-header-cell/strong</value>
-      <webElementGuid>df14c82d-02e5-4c4b-b2c2-5c461b3e7771</webElementGuid>
+      <webElementGuid>587532ed-ef00-4120-9247-60538c8a95be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjuntos de la actuación 43566/2022'])[1]/following::strong[1]</value>
-      <webElementGuid>28725620-3a8b-42f2-bd3c-d321233bf26b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjuntos de la actuación 43640/2022'])[1]/following::strong[1]</value>
+      <webElementGuid>df9c9f2b-aae2-4a61-92b5-05b5ad686f08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::strong[1]</value>
-      <webElementGuid>33f53d67-6e9f-4353-8926-7398b29fda44</webElementGuid>
+      <webElementGuid>ea62234d-129f-4cb9-9893-575080cda18f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario'])[1]/preceding::strong[1]</value>
-      <webElementGuid>608f5a10-b320-4dba-97d7-546676d90fff</webElementGuid>
+      <webElementGuid>6b909a0e-d23f-4d87-8c1f-8e9241199198</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha'])[1]/preceding::strong[2]</value>
-      <webElementGuid>02a8dbd0-1577-41f0-b3b1-c18d94affa4a</webElementGuid>
+      <webElementGuid>25377412-048c-40b4-b10b-5c861100b057</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Nombre']/parent::*</value>
-      <webElementGuid>f8adfdca-35a9-48fb-a91a-f37776254007</webElementGuid>
+      <webElementGuid>a654bbf4-562a-46a6-9445-306d871d7c9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//strong</value>
-      <webElementGuid>ef9c4d00-3c76-4055-9f9e-2eb4da9abc17</webElementGuid>
+      <webElementGuid>602255dd-e2b6-43a4-888c-44aac6f5bfa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//strong[(text() = 'Nombre ' or . = 'Nombre ')]</value>
-      <webElementGuid>3c7ae639-d0e7-472f-913b-ccc1ec2ad893</webElementGuid>
+      <webElementGuid>0c7c91a8-144d-450c-9069-1209347115c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjuntos de la actuación 43566/2022'])[1]/following::strong[1]</value>
+      <webElementGuid>b9d84c1e-cdd3-4421-a422-9b3ba77a02be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

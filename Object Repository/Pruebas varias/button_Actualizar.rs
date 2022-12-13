@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Guardar y Finalizar</name>
+   <name>button_Actualizar</name>
    <tag></tag>
-   <elementGuidId>10cd14ea-7271-4324-81b1-2af5cc67075e</elementGuidId>
+   <elementGuidId>95f49ca7-6be7-4857-99e3-b411981b6535</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='na-siguienteNotificar']</value>
+         <value>//button[@id='adj-actualizar']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#na-siguienteNotificar</value>
+         <value>#adj-actualizar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d868688b-6565-44ae-810d-a7a8245b8466</webElementGuid>
+      <webElementGuid>78427737-1f80-447d-b223-8e697fdc665a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn datos-iniciales__boton--siguiente mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>282aff34-925d-4734-bb58-4f5dde4388bb</webElementGuid>
+      <value>btn boton--actualizar mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>8c379f4d-4fff-43e7-a9b0-c8e0f92f8414</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>na-siguienteNotificar</value>
-      <webElementGuid>ca331074-7e31-447f-a189-b9cfd32730fb</webElementGuid>
+      <value>adj-actualizar</value>
+      <webElementGuid>d162bd96-e6cd-45f1-a6d3-fda19bcc0c11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,78 +46,78 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fb9d4d05-3363-430d-a9fe-8ae9b4b7e0d5</webElementGuid>
+      <webElementGuid>421499de-f1de-493f-b896-a15dc403a2b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Guardar y Finalizar </value>
-      <webElementGuid>7249df47-43fb-4c56-9493-7db768055002</webElementGuid>
+      <value>Actualizar</value>
+      <webElementGuid>0bebe510-bcdd-434b-b1b4-a5786a6eec4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;na-siguienteNotificar&quot;)</value>
-      <webElementGuid>654cf23c-7574-42d2-ba87-217ef5b252ca</webElementGuid>
+      <value>id(&quot;adj-actualizar&quot;)</value>
+      <webElementGuid>30038f0f-970c-4c0c-b8a3-8a08e3f64c92</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='na-siguienteNotificar']</value>
-      <webElementGuid>7b439eb1-a2e4-4df0-8fdf-04fe8e641048</webElementGuid>
+      <value>//button[@id='adj-actualizar']</value>
+      <webElementGuid>a5539726-3d0c-4c7f-8547-9835296db65b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-step-content-0-1']/div[2]/button[2]</value>
-      <webElementGuid>fd4021fe-cd2c-4ca2-818f-63e4aa70d67b</webElementGuid>
+      <value>//div[@id='expand-box-header']/button</value>
+      <webElementGuid>0fdaeeb1-7503-44fe-92bf-26ce71b2bcbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/following::button[1]</value>
-      <webElementGuid>9fc90f13-3fef-4afd-b86e-658bf6e5b2e3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[1]/following::button[1]</value>
+      <webElementGuid>4ac7c523-4ac1-41a6-9424-780418d40485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='La suma total de los archivos a subir es de : 0.03MB'])[1]/following::button[2]</value>
-      <webElementGuid>01bd916d-9e8a-4856-ae76-7d8837ba444c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Público'])[1]/following::button[1]</value>
+      <webElementGuid>02687b44-738a-4fce-b4c8-df62d133b140</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_out'])[1]/preceding::button[1]</value>
-      <webElementGuid>2f602d46-5d90-4815-9484-a6130c6d0f43</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::button[1]</value>
+      <webElementGuid>38c4824b-a2a2-4229-955c-af0ea7e194fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button[2]</value>
-      <webElementGuid>24fd876c-5624-4c0a-906b-8b407ff9ed2c</webElementGuid>
+      <value>//app-adjunto/div/div/button</value>
+      <webElementGuid>8126c44b-8bbc-4d68-a87b-9fa5ff28c83e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'na-siguienteNotificar' and @type = 'button' and (text() = ' Guardar y Finalizar ' or . = ' Guardar y Finalizar ')]</value>
-      <webElementGuid>405e78bd-d6f8-4cb1-acfb-02cc446afd72</webElementGuid>
+      <value>//button[@id = 'adj-actualizar' and @type = 'button' and (text() = 'Actualizar' or . = 'Actualizar')]</value>
+      <webElementGuid>e54d4af3-dcd7-4433-9aac-e875bbf0b576</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

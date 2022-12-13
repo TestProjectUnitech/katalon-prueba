@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>em</value>
-      <webElementGuid>d2b2c901-94fb-4b66-9880-0b35a600ee96</webElementGuid>
+      <webElementGuid>6e2faebd-593b-4170-a008-07c269ee6311</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons secContenedor__botones--vista-c botones--tarjeta</value>
-      <webElementGuid>b0d889dc-baf9-4ced-b1ce-334d6a7c19ef</webElementGuid>
+      <webElementGuid>4ec753df-b549-43cc-b664-469fac275392</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>la-actualizar</value>
-      <webElementGuid>8eb28900-e6bc-4549-bc17-3a08af4890b5</webElementGuid>
+      <webElementGuid>73a27039-5808-4558-a83c-8c77f08da9d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>attach_file</value>
-      <webElementGuid>4f2753c9-5dd1-47a2-a6eb-93b9db1098bb</webElementGuid>
+      <webElementGuid>00c66e1c-2d24-4f6c-9d25-1cb00f71f767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;la-actualizar&quot;)</value>
-      <webElementGuid>c5d655c0-4590-4b36-a407-b76625706736</webElementGuid>
+      <webElementGuid>d7adee8d-d9d5-4740-884d-0a5341f789b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//em[@id='la-actualizar']</value>
-      <webElementGuid>95fec874-2fdb-4242-9766-31c7f28d725c</webElementGuid>
+      <webElementGuid>2875dcdb-8743-4c37-9b03-2e1bef7951b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='al-verAdjunto']/div/em</value>
-      <webElementGuid>158539d8-3fbf-423e-a8e4-e5cd566df3b6</webElementGuid>
+      <webElementGuid>18b5f2ee-a9cc-460c-954b-e2f4aba51a54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='create'])[1]/following::em[1]</value>
-      <webElementGuid>8e5745b6-ad6c-4a44-be2a-14231aeb43a4</webElementGuid>
+      <webElementGuid>db45640d-cc43-4c5d-86f0-9f1b7e5f32bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BORRADOR'])[1]/preceding::em[1]</value>
-      <webElementGuid>940661ac-8ad1-49ef-b21a-eca8b857553f</webElementGuid>
+      <webElementGuid>d3bff79a-01eb-4bd3-b40b-fb84dbbb3798</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BC'])[1]/preceding::em[1]</value>
-      <webElementGuid>79b0c9f1-0193-49ee-ab82-fa2b61ef0681</webElementGuid>
+      <webElementGuid>6f431b23-1117-4e72-8825-773c07272664</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='attach_file']/parent::*</value>
-      <webElementGuid>835e1990-1e20-417c-9ab5-57635bccf946</webElementGuid>
+      <webElementGuid>b02e6327-6a41-42a7-8134-9551ec26cb3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/em</value>
-      <webElementGuid>ae0329e5-9abc-467b-a866-438938133e35</webElementGuid>
+      <webElementGuid>cd0aae89-735e-486a-90a8-2ca9d3c08f2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//em[@id = 'la-actualizar' and (text() = 'attach_file' or . = 'attach_file')]</value>
-      <webElementGuid>859a8078-814a-4909-baa7-16c005d947e5</webElementGuid>
+      <webElementGuid>89ba75eb-98a5-4bc8-9dc1-1d38779b3125</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

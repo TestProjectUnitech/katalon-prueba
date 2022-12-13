@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b6f67a09-7f03-40eb-aa39-ed7e38762df8</webElementGuid>
+      <webElementGuid>db00fad6-c7e9-4078-8937-5b2411706f14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Firmar </value>
-      <webElementGuid>2d97aa60-8720-4d00-821f-250290f455d6</webElementGuid>
+      <webElementGuid>00a26e86-052a-4bcc-b1ab-07c91fb37aaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;al-firmar&quot;)/span[1]</value>
-      <webElementGuid>e8f53244-3780-419b-9bb2-f359c8902337</webElementGuid>
+      <webElementGuid>d86ce5b8-3b5b-47d4-ba01-c37975a9d334</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='al-firmar']/span</value>
-      <webElementGuid>42085556-e0f1-4af1-a16d-56fa41b2aed3</webElementGuid>
+      <webElementGuid>ef67826d-172f-4d8e-ad91-659a12acd732</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Visibilidad'])[1]/following::span[3]</value>
-      <webElementGuid>a0939666-3247-4a29-9b0c-07d30f5ee9ae</webElementGuid>
+      <webElementGuid>7d5bfeba-f4a1-41fb-b029-a3bcd8d8cbc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar Actuación'])[1]/following::span[3]</value>
-      <webElementGuid>d3d778ae-92d4-4ca8-954a-54904fb07eae</webElementGuid>
+      <webElementGuid>b716b11c-5493-440a-a32f-75209550c2f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Con token'])[1]/preceding::span[2]</value>
-      <webElementGuid>19ad9628-ea04-4c44-baae-f1cd724c75a1</webElementGuid>
+      <webElementGuid>1ab44a26-de1a-4e6f-830a-a3f82af56955</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sin token'])[1]/preceding::span[2]</value>
-      <webElementGuid>ca5211cd-4bbc-4dd2-b7ea-70f802c6d28c</webElementGuid>
+      <webElementGuid>213a70e8-6ea0-4221-9e49-3095c15540c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Firmar']/parent::*</value>
-      <webElementGuid>7576e3a6-2b83-4195-8166-833d03d8b9bd</webElementGuid>
+      <webElementGuid>d5ad9427-40a9-4c78-bba2-685e054d591e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/span/button/span</value>
-      <webElementGuid>18f203a9-91ba-402f-88ae-bbcf4ba8dadd</webElementGuid>
+      <webElementGuid>830e573e-d82e-446c-b43f-1de2e7d03a29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Firmar ' or . = ' Firmar ')]</value>
-      <webElementGuid>89b6aa53-058e-4262-bb85-701308c01b43</webElementGuid>
+      <webElementGuid>b25ca6bc-dfd7-4ce4-aab0-4bbdb5df6cdf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

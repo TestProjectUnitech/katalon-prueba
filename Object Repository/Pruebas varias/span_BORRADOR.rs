@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_FIRMADA</name>
+   <name>span_BORRADOR</name>
    <tag></tag>
-   <elementGuidId>57d60a14-cb71-453a-a1e1-f83258bc483e</elementGuidId>
+   <elementGuidId>c7e3d1b7-c67c-4379-b8cc-d50f111cc7f7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='attach_file'])[1]/following::span[2]</value>
+         <value>//span[. = ' BORRADOR ']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.etiqueta-estado--firmada.mr-2.etiqueta-detalle-valida.ng-star-inserted</value>
+         <value>span.etiqueta-detalle.etiqueta-estado--firmada.mr-2.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>788d2660-f12a-4e48-8e43-95568dae3e97</webElementGuid>
+      <webElementGuid>8f7b1669-9dc8-44fa-bc93-0b2141018a41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>etiqueta-estado--firmada mr-2 etiqueta-detalle-valida ng-star-inserted</value>
-      <webElementGuid>b3599eb9-eec7-4b73-8a52-d285b02f2ed9</webElementGuid>
+      <value>etiqueta-detalle etiqueta-estado--firmada mr-2 ng-star-inserted</value>
+      <webElementGuid>a3fa35c6-018d-4533-9b05-bef855828f5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>placement</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>6a09a2af-2699-4bb2-9723-f49111fe26e7</webElementGuid>
+      <webElementGuid>8d01c42f-e555-496d-a409-90c83d36f006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>popovertitle</name>
       <type>Main</type>
-      <value>Información de la firma</value>
-      <webElementGuid>4cda045b-5380-48b6-a504-ef4dddae075b</webElementGuid>
+      <value>Información</value>
+      <webElementGuid>1418bfcc-5a8b-482e-b128-bdb2b2677089</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,63 +54,55 @@
       <name>triggers</name>
       <type>Main</type>
       <value>mouseenter:mouseleave</value>
-      <webElementGuid>af0e0c36-ffee-4ae6-82b2-3393d606a6ef</webElementGuid>
+      <webElementGuid>372bd812-e8cb-46c9-8ce6-4a364b94f528</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>ngb-popover-5</value>
-      <webElementGuid>1b7443c6-e923-4636-9356-faef10517782</webElementGuid>
+      <value>ngb-popover-0</value>
+      <webElementGuid>0def57ea-2728-4117-8dc5-da0d5b0b7319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> FIRMADA </value>
-      <webElementGuid>9eb9218a-99db-4532-94c4-ba2929d95a3e</webElementGuid>
+      <value> BORRADOR </value>
+      <webElementGuid>932bbfd0-3705-476d-9e0e-f00a94e8c88b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;contenedor alto-pdf-viewer ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-auto mr-auto contenedor-pagina-etiquetas mt-2 mb-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;etiqueta-detalle-contenedor mb-3&quot;]/span[@class=&quot;etiqueta-estado--firmada mr-2 etiqueta-detalle-valida ng-star-inserted&quot;]</value>
-      <webElementGuid>41f0ab0a-bff9-4ac4-b00f-97fb72c700c1</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;contenedor alto-pdf-viewer ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-auto mr-auto contenedor-pagina-etiquetas mt-2 mb-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;etiqueta-detalle-contenedor mb-3&quot;]/span[@class=&quot;etiqueta-detalle etiqueta-estado--firmada mr-2 ng-star-inserted&quot;]</value>
+      <webElementGuid>b84208f1-1066-4073-b5d6-ae79cdf3cf9b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='attach_file'])[1]/following::span[2]</value>
-      <webElementGuid>fa255ea0-766f-413c-b10f-6be7dcc7202c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='create'])[1]/following::span[1]</value>
+      <webElementGuid>5ae5a396-020e-4e74-8f68-44bc3a6f45f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='create'])[1]/following::span[2]</value>
-      <webElementGuid>ffbfee97-e038-4995-89a6-25d00974cd89</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Información'])[1]/preceding::span[1]</value>
+      <webElementGuid>41b3bd46-2588-438c-a832-cff1ec3618bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Información de la firma'])[1]/preceding::span[1]</value>
-      <webElementGuid>83216bd0-03a1-4c96-9406-41568eec4640</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='FIRMADA']/parent::*</value>
-      <webElementGuid>310939ac-1c8a-4c47-b3c2-ed3a91e57bc0</webElementGuid>
+      <value>//*/text()[normalize-space(.)='BORRADOR']/parent::*</value>
+      <webElementGuid>e87eda12-b739-4ba6-994e-c8de5ab9d11d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,14 +110,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div[2]/span</value>
-      <webElementGuid>01886d57-eed1-44c2-9582-f38c62a56b78</webElementGuid>
+      <webElementGuid>9960e648-1bab-4dce-8ab3-23add1258f78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' FIRMADA ' or . = ' FIRMADA ')]</value>
-      <webElementGuid>0622dca4-dd0e-4e62-9371-3fe6a029688f</webElementGuid>
+      <value>//span[(text() = ' BORRADOR ' or . = ' BORRADOR ')]</value>
+      <webElementGuid>f24a3e10-bdc1-4344-a49f-25f52e287540</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

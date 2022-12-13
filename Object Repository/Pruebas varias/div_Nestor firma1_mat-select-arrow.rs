@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>fef74a1d-e221-4a69-b3f6-fae3f6c994b2</webElementGuid>
+      <webElementGuid>7436d78f-71ed-4775-945e-87989b37ce63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-select-arrow</value>
-      <webElementGuid>6b0b864c-3e48-4606-ba62-e6e5250ad803</webElementGuid>
+      <webElementGuid>4128a0cd-945c-45be-a0f5-028e2ef7cb01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dfda-certificado&quot;)/div[@class=&quot;mat-select-trigger&quot;]/div[@class=&quot;mat-select-arrow-wrapper&quot;]/div[@class=&quot;mat-select-arrow&quot;]</value>
-      <webElementGuid>72258d02-84b1-4f0e-92d3-ddfa4df8a467</webElementGuid>
+      <webElementGuid>cd31a8c0-aebe-40bf-9b08-68dcb73c5785</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='dfda-certificado']/div/div[2]/div</value>
-      <webElementGuid>af7da082-f11e-416f-ab04-2aad0fc50f3e</webElementGuid>
+      <webElementGuid>768a7edf-4592-434b-8e6d-dd65c691169f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select/div/div[2]/div</value>
-      <webElementGuid>9b731840-55a5-44b5-ad7f-24e6eedd4e3e</webElementGuid>
+      <webElementGuid>b8e1cee1-81a8-4dc3-ac08-7851a178795b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

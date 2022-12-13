@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Guardar y Finalizar</name>
+   <name>h5_Elegir Modelo</name>
    <tag></tag>
-   <elementGuidId>e14532f2-d961-4823-986b-7a615c4ec7f7</elementGuidId>
+   <elementGuidId>274f28e4-1117-466e-9424-cf6f110f8489</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='na-siguienteNotificar']/span</value>
+         <value>//h5[(text() = 'Elegir Modelo' or . = 'Elegir Modelo')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#na-siguienteNotificar > span.mat-button-wrapper</value>
+         <value>h5.titulo_crearAct</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>d6f33c64-bd46-4a6a-8e63-d7b6b90400a5</webElementGuid>
+      <value>h5</value>
+      <webElementGuid>6874ec66-2b64-418c-a381-a707f85f4d1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-button-wrapper</value>
-      <webElementGuid>1b009c99-b3ed-4873-b93f-72835a7697b7</webElementGuid>
+      <value>titulo_crearAct</value>
+      <webElementGuid>62172267-0345-418a-ab69-e1b9e191a20b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Guardar y Finalizar </value>
-      <webElementGuid>a1fdfaf5-e795-4998-9d4d-aab78d410703</webElementGuid>
+      <value>Elegir Modelo</value>
+      <webElementGuid>33957e6b-165b-4f16-9272-4ac4b324fde5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;na-siguienteNotificar&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>29c8d462-7cd9-4520-86e9-379063fac234</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid modal-body mt-3 secContent__nueva-actuacion ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-6 colorBg&quot;]/div[@class=&quot;ajustar-contenido&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nueva-actuacion[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;mt-5 ng-star-inserted&quot;]/h5[@class=&quot;titulo_crearAct&quot;]</value>
+      <webElementGuid>4d528289-eb2c-4d00-b8c8-b3f5c20e3fa8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//button[@id='na-siguienteNotificar']/span</value>
-      <webElementGuid>8c4d3caa-96ee-4169-a9ad-a48b69001198</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Cómo Crear Actuación?'])[1]/following::h5[1]</value>
+      <webElementGuid>b1182617-6161-4f50-9bdc-8d667af0f7e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/following::span[1]</value>
-      <webElementGuid>8b58012a-ae16-4b9a-ac68-0ff15100b02d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CREAR ACTUACIÓN'])[1]/following::h5[1]</value>
+      <webElementGuid>34dc03d3-2adc-4de2-b515-50e1250f6d0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='La suma total de los archivos a subir es de : 0.03MB'])[1]/following::span[2]</value>
-      <webElementGuid>4bf67f28-7515-4856-a632-63ff218dcf15</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[2]/preceding::h5[1]</value>
+      <webElementGuid>3acf7427-b719-4729-87f1-bf975f37e4cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_out'])[1]/preceding::span[1]</value>
-      <webElementGuid>6d1515c6-feac-4783-9bb1-a93a1daaad83</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importar Actuación'])[1]/preceding::h5[1]</value>
+      <webElementGuid>45a5e4d8-da8f-47f6-b68d-7eb950502c60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_in'])[1]/preceding::span[1]</value>
-      <webElementGuid>113785db-9398-4176-ba6c-38faf553f695</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Guardar y Finalizar']/parent::*</value>
-      <webElementGuid>01f023ab-7b55-4f86-9fb0-fa61f256d273</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Elegir Modelo']/parent::*</value>
+      <webElementGuid>ac9d25ef-9605-4dd7-8768-98a18e01050c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button[2]/span</value>
-      <webElementGuid>e0389919-d90a-4a0a-bf2b-618fff487ed5</webElementGuid>
+      <value>//h5</value>
+      <webElementGuid>56e68632-b73b-490d-8d82-f775ef2db812</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' Guardar y Finalizar ' or . = ' Guardar y Finalizar ')]</value>
-      <webElementGuid>7b2bece5-70d0-4423-8c13-7acb4c86a8d3</webElementGuid>
+      <value>//h5[(text() = 'Elegir Modelo' or . = 'Elegir Modelo')]</value>
+      <webElementGuid>f84841ed-b0e9-4eaa-b82d-4a75850dbd7d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

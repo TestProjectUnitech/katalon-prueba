@@ -25,14 +25,17 @@ WebUI.click(findTestObject('Object Repository/Pruebas varias/button_add_circleCr
 
 WebUI.verifyElementInViewport(findTestObject('Object Repository/Pruebas varias/a_Crear actuacin'), 50)
 
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/a_Crear actuacin'), 'Crear actuación')
+
 WebUI.click(findTestObject('Object Repository/Pruebas varias/a_Crear actuacin'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/span_CREAR ACTUACIN'), 'CREAR ACTUACIÓN')
 
-WebUI.click(findTestObject('Object Repository/Pruebas varias/button_search'))
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/h5_Elegir Modelo'), 'Elegir Modelo')
 
-WebUI.verifyElementInViewport(findTestObject('Object Repository/Pruebas varias/mat-dialog-container_Buscar Modelos de Actu_78a194'), 
-    50, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/input_Importar Actuacin_sa-fileInput'), 0)
+
+WebUI.click(findTestObject('Object Repository/Pruebas varias/button_search'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/h4_Buscar Modelos de Actuaciones'), 'Buscar Modelos de Actuaciones', 
     FailureHandling.STOP_ON_FAILURE)
@@ -48,27 +51,117 @@ WebUI.click(findTestObject('Object Repository/Pruebas varias/a_PS103'))
 WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/div_LEYENDA_LOGOEXP_ORG_RAD  EXP_SEC_RADEXP_094c14'), 
     0)
 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/button_Siguiente'), 0)
+
 WebUI.click(findTestObject('Object Repository/Pruebas varias/button_Siguiente'))
 
 WebUI.setText(findTestObject('Object Repository/Pruebas varias/textarea_Privado_observaciones'), 'Test Automatico - KAT')
 
 not_run: WebUI.sendKeys(findTestObject('Object Repository/Pruebas varias/textarea_Privado_observaciones'), 'Test Automatico - KAT')
 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/button_Siguiente'), 0)
+
 WebUI.click(findTestObject('Object Repository/Pruebas varias/button_Siguiente'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/input_Subir Adjunto_sa-fileInput'), 0)
 
 WebUI.uploadFile(findTestObject('Object Repository/Pruebas varias/input_file'), GlobalVariable.ruta_adjunto)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/mat-row_deletePrueba.pdfPblico Privado'), 0)
 
+WebUI.verifyElementVisible(findTestObject('Object Repository/Pruebas varias/em_delete'))
+
+WebUI.click(findTestObject('Object Repository/Pruebas varias/em_delete'))
+
+WebUI.verifyElementNotPresent(findTestObject('Object Repository/Pruebas varias/mat-row_deletePrueba.pdfPblico Privado'), 
+    0)
+
+WebUI.uploadFile(findTestObject('Object Repository/Pruebas varias/input_file'), GlobalVariable.ruta_adjunto)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/mat-row_deletePrueba.pdfPblico Privado'), 0)
+
+WebUI.click(findTestObject('Object Repository/Pruebas varias/em_delete'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/button_Cancelar'), 0)
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/button_Guardar y Finalizar'), 0)
 
 WebUI.click(findTestObject('Object Repository/Pruebas varias/span_Guardar y Finalizar'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/span_Se ha creado Actuacin 426472022'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/snack-bar-container_Se ha firmado la Actuac_0f8f2c'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/Pruebas varias/span_Ver'))
 
 WebUI.switchToWindowIndex(1)
+
+WebUI.verifyElementVisible(findTestObject('Pruebas varias/span_BORRADOR'))
+
+WebUI.verifyElementText(findTestObject('Pruebas varias/span_BORRADOR'), 'BORRADOR')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Pruebas varias/em_attach_file'))
+
+WebUI.click(findTestObject('Object Repository/Pruebas varias/em_attach_file'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/h4_Adjuntos de la actuacin 436402022'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/h4_Adjuntos de la actuacin 436402022'), 'Adjuntos de la actuación 43640/2022')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/strong_Nombre'), 'Nombre')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/strong_Usuario'), 'Usuario')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/strong_Fecha'), 'Fecha')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/strong_Nivel Acceso'), 'Nivel Acceso')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/strong_Firma Digital'), 'Firma Digital')
+
+WebUI.click(findTestObject('Object Repository/Pruebas varias/button_get_appDescargar todo'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Pruebas varias/span_remove_red_eye'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Pruebas varias/button_shareCompartir'))
+
+WebUI.click(findTestObject('Object Repository/Pruebas varias/button_shareCompartir'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Pruebas varias/span_get_app'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Pruebas varias/span_clear'))
+
+WebUI.click(findTestObject('Object Repository/Pruebas varias/span_Prueba.pdf'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/label_Nombre del adjunto'), 'Nombre del adjunto')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/label_Nivel de Acceso'), 'Nivel de Acceso')
+
+WebUI.setText(findTestObject('Object Repository/Pruebas varias/input_Nombre del adjunto_adj-nombre'), 'Prueba.pdf1')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Pruebas varias/button_Actualizar'))
+
+WebUI.click(findTestObject('Object Repository/Pruebas varias/span_Actualizar'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Actuacin de 92412021-0 EXP J-01-000092_cf77cf/snack-bar-container_Edicin de adjunto proce_4392be'), 
+    0)
+
+WebUI.verifyElementText(findTestObject('Pruebas varias/snack-bar-container_Edicin de adjunto proce_4392be'), 'Edición de adjunto procesada', 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_Actuacin de 92412021-0 EXP J-01-000092_cf77cf/em_attach_file'))
+
+WebUI.click(findTestObject('Page_Actuacin de 92412021-0 EXP J-01-000092_cf77cf/em_attach_file'))
+
+WebUI.click(findTestObject('Page_Actuacin de 92412021-0 EXP J-01-000092_cf77cf/span_Prueba.pdf'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/em_delete'), 0)
+
+WebUI.click(findTestObject('Object Repository/Pruebas varias/em_delete'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/snack-bar-container_Eliminacin de adjunto p_541b0a'), 
+    0)
+
+WebUI.verifyElementText(findTestObject('Page_Actuacin de 92412021-0 EXP J-01-000092_cf77cf/span_Eliminacin de adjunto procesada'), 
+    'Eliminación de adjunto procesada')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/button_Firmar'), 0)
 
@@ -94,6 +187,9 @@ WebUI.click(findTestObject('Object Repository/Pruebas varias/button_Firmar_1'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/snack-bar-container_Se ha firmado la Actuac_0f8f2c'), 
     0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Pruebas varias/snack-bar-container_Se ha firmado la Actuac_0f8f2c'), 
+    'Se ha firmado actuación')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/span_FIRMADA'), 0)
 

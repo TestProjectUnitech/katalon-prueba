@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dedec857-8186-4596-a497-16c9d2ae89ab</webElementGuid>
+      <webElementGuid>a3fa795d-e901-45fa-a852-00de37c87c8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item </value>
-      <webElementGuid>5cc3f196-effc-4645-817b-775149496058</webElementGuid>
+      <webElementGuid>0717b748-b993-4f4b-938a-10ddb8e52228</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>al-crearActuacion</value>
-      <webElementGuid>c7a6241d-1565-4984-be22-e656ed0e5c07</webElementGuid>
+      <webElementGuid>e57e251c-008c-43ea-a4ce-d07f4da62bde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Crear Actuación</value>
-      <webElementGuid>d934c3a3-672c-402b-bd47-208c15870353</webElementGuid>
+      <webElementGuid>6511a547-d5b8-4984-9354-f58da536c8d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Crear actuación </value>
-      <webElementGuid>d11b0aa8-86a3-4181-b3b7-70c53779eb58</webElementGuid>
+      <webElementGuid>afe9d537-8a87-4c17-91bb-dd603243ee1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;al-opcionSecureForm&quot;)/div[@class=&quot;secContenedor padding-lista-grilla ng-star-inserted&quot;]/div[@class=&quot;row subHeader_espacio-iconos margin-header&quot;]/div[@class=&quot;secContenedor__botones float-right&quot;]/div[@class=&quot;btn-group espacio-left_btn&quot;]/div[@class=&quot;show&quot;]/div[@class=&quot;button-menu-estilo&quot;]/ul[@id=&quot;al-dropdown-menu&quot;]/li[@class=&quot;dropwon-item-size ng-star-inserted&quot;]/a[@id=&quot;al-crearActuacion&quot;]</value>
-      <webElementGuid>a74c13dd-ad8e-4661-954b-6ccacb04220b</webElementGuid>
+      <webElementGuid>9a411d96-6fee-4541-b5b6-88c24b309a8f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='al-crearActuacion']</value>
-      <webElementGuid>25f146bf-3965-49ad-a465-a229b8a5924e</webElementGuid>
+      <webElementGuid>d8b00cb4-1aa7-4bc0-af4d-0fc089a14a3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='al-dropdown-menu']/li/a</value>
-      <webElementGuid>eac90bbb-6232-405b-9f62-6aefc40f38d3</webElementGuid>
+      <webElementGuid>cce17998-e161-4bbe-8dfd-aabec11a343a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Crear actuación')]</value>
-      <webElementGuid>ccc70690-cd0c-404c-aea0-ff2a4eaaccc6</webElementGuid>
+      <webElementGuid>3f433938-2e05-4e69-bfc5-9c0906267586</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear'])[1]/following::a[1]</value>
-      <webElementGuid>bee9b246-53b7-4f46-89cd-5ac6c94e130f</webElementGuid>
+      <webElementGuid>a90f054f-b7b5-40df-a34e-e6254606a20f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='add_circle'])[1]/following::a[1]</value>
-      <webElementGuid>9641dc3c-7ccf-4603-864b-cf6eeaa68f1c</webElementGuid>
+      <webElementGuid>cbef21e5-2fa5-4bf0-915e-6cabf3983e38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear cédula de notificación'])[1]/preceding::a[1]</value>
-      <webElementGuid>6d691302-d6c2-4531-aacb-84f91c44c052</webElementGuid>
+      <webElementGuid>ca15bc67-7a4f-4788-b04b-3b610fdc65bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear lote'])[1]/preceding::a[2]</value>
-      <webElementGuid>7088a1b9-7468-458d-a467-1106bf7454c8</webElementGuid>
+      <webElementGuid>73994e96-e043-4079-b7eb-a76711cb9ee4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Crear actuación']/parent::*</value>
-      <webElementGuid>3d99173b-a4b3-4bec-8ff0-77b202e8bd4e</webElementGuid>
+      <webElementGuid>5bed2607-5924-44f6-853a-26702ff85abc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>260d1a01-397d-457f-a070-3fbc0e550b48</webElementGuid>
+      <webElementGuid>f1b3dcde-d4ea-4682-bd6f-c3657e419e06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'al-crearActuacion' and @title = 'Crear Actuación' and (text() = ' Crear actuación ' or . = ' Crear actuación ')]</value>
-      <webElementGuid>b1c3a093-6d6d-4168-89c3-7e7891dcc7d6</webElementGuid>
+      <webElementGuid>242b788c-82a6-4c2e-8e78-e0c86e531852</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

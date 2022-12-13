@@ -6,8 +6,11 @@
    <elementGuidId>529a7d6d-d092-4b37-9b7d-752028a48ad8</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//button[@id='di-buscarModelo']</value>
+         <value>/html[1]/body[1]/app-root[1]/app-actuacion[1]/div[2]/div[2]/div[1]/div[1]/div[1]/nueva-actuacion[1]/div[1]/div[1]/div[1]/span[1]/button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c3e5c0f0-b00b-4766-a837-c3715ae07fa2</webElementGuid>
+      <webElementGuid>42335190-ae2e-45be-af0b-11d8dcdb4fae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn boton-buscar-modelo </value>
-      <webElementGuid>45e2c404-3e79-4444-a3dc-666add1c5b04</webElementGuid>
+      <webElementGuid>7d878cca-c7fc-46a2-b510-afe59c6fd886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +41,7 @@
       <name>id</name>
       <type>Main</type>
       <value>di-buscarModelo</value>
-      <webElementGuid>aa26fb0c-90bf-4f90-b00c-1041d8e4b6db</webElementGuid>
+      <webElementGuid>7aea8bf7-60c8-4e4b-a772-03040e57f430</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +49,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Buscar Modelo</value>
-      <webElementGuid>bf40ca16-06f2-4a72-854e-262186ef33fd</webElementGuid>
+      <webElementGuid>8823cb7b-6376-45c3-807b-709e44a09fb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>12a18a45-a28a-4254-a998-6ab37c9860d9</webElementGuid>
+      <webElementGuid>d8ca9575-ed69-4145-9ddc-6f77367e285c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +65,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;di-buscarModelo&quot;)</value>
-      <webElementGuid>ec43a66e-7c98-46dd-8b74-9c233d7de509</webElementGuid>
+      <webElementGuid>3289b886-3b66-4b93-ad7a-6fd4ad707859</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='di-buscarModelo']</value>
-      <webElementGuid>ed9372e7-0358-4def-aadb-b0ec02f567bd</webElementGuid>
+      <webElementGuid>c24e7d17-1bd7-42f2-850b-5e0f20b4bfb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir Modelo'])[1]/following::button[1]</value>
-      <webElementGuid>0ce50402-68b6-4398-a2e2-973f8e58a891</webElementGuid>
+      <webElementGuid>840cfd2e-8349-4230-9794-bd4c5d5d84c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Cómo Crear Actuación?'])[1]/following::button[1]</value>
-      <webElementGuid>aed9ff4b-f567-4f3e-9cfa-4a968a6cb772</webElementGuid>
+      <webElementGuid>ef93d293-e4a8-417b-bd82-07a1bdd8f0d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Importar Actuación'])[1]/preceding::button[1]</value>
-      <webElementGuid>d4b4251b-5c6f-4103-8ff3-c4c93eb63d6c</webElementGuid>
+      <webElementGuid>13564d52-2503-477f-aaab-8a946e085115</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/span/button</value>
-      <webElementGuid>acda1ca4-5cf3-4538-ad84-bc3d4217e4b5</webElementGuid>
+      <webElementGuid>c698daec-e8d3-48b8-97bd-54d47b2e4ddb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +113,13 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'di-buscarModelo' and @title = 'Buscar Modelo' and (text() = 'search' or . = 'search')]</value>
-      <webElementGuid>3380f326-69f0-410e-b97f-a91fc885d9f5</webElementGuid>
+      <webElementGuid>aeba6a80-d305-4397-b984-8c0b41026428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-actuacion[1]/div[2]/div[2]/div[1]/div[1]/div[1]/nueva-actuacion[1]/div[1]/div[1]/div[1]/span[1]/button[1]</value>
+      <webElementGuid>af3fd416-67ba-4630-91f6-be888c461364</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

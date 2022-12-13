@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h4_Buscar Modelos de Actuaciones</name>
+   <name>span_get_app</name>
    <tag></tag>
-   <elementGuidId>dbf02c50-9a34-45b3-96a5-2d4256db1dbd</elementGuidId>
+   <elementGuidId>2b9be7ef-1cfb-4f22-9f4d-0140c4b7fc1a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//h4[@id='ma-titulo']</value>
+         <value>//a[@id='a-descargar']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#ma-titulo</value>
+         <value>span.material-icons.icono-descarga</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h4</value>
-      <webElementGuid>fa332299-a174-495a-8c23-46f56df35075</webElementGuid>
+      <value>span</value>
+      <webElementGuid>21177bc0-fa19-403d-a367-7a1d233adb7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>ma-titulo</value>
-      <webElementGuid>5c8b9209-7618-451e-9011-0255e5cfb335</webElementGuid>
+      <value>material-icons icono-descarga</value>
+      <webElementGuid>b6e5fb4d-66bf-4c11-9452-e3d8668ab373</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Buscar Modelos de Actuaciones</value>
-      <webElementGuid>889b6b24-66f5-4a85-bbf0-bdf5890e5bb1</webElementGuid>
+      <value>get_app</value>
+      <webElementGuid>1ff918b8-28cf-434b-b7ce-5497dbe73bf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ma-titulo&quot;)</value>
-      <webElementGuid>479ef160-1636-4eae-a850-ab1e9a23f6fb</webElementGuid>
+      <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell-descargar mat-cell cdk-column-descargar mat-column-descargar ng-star-inserted&quot;]/a[@id=&quot;a-descargar&quot;]/span[@class=&quot;material-icons icono-descarga&quot;]</value>
+      <webElementGuid>c80d81d1-763c-439b-981e-8e7c3ed9e55b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//h4[@id='ma-titulo']</value>
-      <webElementGuid>ddd264e0-cd71-42c0-84d7-47a17642098c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-dialog-container[@id='mat-dialog-1']/modal-accion/div/div/h4</value>
-      <webElementGuid>60642fc5-b735-4308-b666-fa7c0b294318</webElementGuid>
+      <value>//a[@id='a-descargar']/span</value>
+      <webElementGuid>0a752fd0-e39e-41b9-9ce3-38f7fd5896c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::h4[1]</value>
-      <webElementGuid>4157a1c0-103c-4bfa-9ab5-b09ac5d09b6a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='remove_red_eye'])[3]/following::span[1]</value>
+      <webElementGuid>19e0381f-17e9-44c9-920d-d6000b52233b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::h4[1]</value>
-      <webElementGuid>f026db30-b1dc-44d9-98ee-c3c8277a6669</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[1]/following::span[3]</value>
+      <webElementGuid>ae6eaddb-d264-4c9e-9b49-b9c6e9c47b28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter_alt'])[1]/preceding::h4[1]</value>
-      <webElementGuid>87871b68-bbe2-4c78-8a4b-107d4409a9ca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='share'])[2]/preceding::span[1]</value>
+      <webElementGuid>4cf7ee53-4db6-43ec-9979-eac0b6640245</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Buscar Modelos de Actuaciones']/parent::*</value>
-      <webElementGuid>90c4a81e-f3f1-46c6-b681-bdbb712fe72e</webElementGuid>
+      <value>//*/text()[normalize-space(.)='get_app']/parent::*</value>
+      <webElementGuid>7f0f2c51-6adf-411f-9a7a-ccd629f97d2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h4</value>
-      <webElementGuid>54ebaad4-bdc6-44ce-ac9e-33ff2831631f</webElementGuid>
+      <value>//mat-cell[7]/a/span</value>
+      <webElementGuid>c680e5f5-de02-47fe-afb8-fc75aa1c1d3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h4[@id = 'ma-titulo' and (text() = 'Buscar Modelos de Actuaciones' or . = 'Buscar Modelos de Actuaciones')]</value>
-      <webElementGuid>ce76a229-23b1-4b8f-9a3a-a64d543ca317</webElementGuid>
+      <value>//span[(text() = 'get_app' or . = 'get_app')]</value>
+      <webElementGuid>54e6f2b6-f580-4329-8b85-8ab841a71003</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

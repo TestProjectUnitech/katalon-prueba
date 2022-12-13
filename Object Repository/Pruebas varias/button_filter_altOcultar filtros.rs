@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0cef3091-e14c-4879-b3ab-ac72b9c962ca</webElementGuid>
+      <webElementGuid>5870d57c-27a0-4212-b0fa-4a573ca92677</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn boton-secundario btn-sm etiqueta-estado ng-star-inserted</value>
-      <webElementGuid>a195c34a-bbe5-42cd-b0c5-eb459472ed4a</webElementGuid>
+      <webElementGuid>d3ba31d6-a6dc-4439-8b40-226355852012</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mab-mostrarFiltro</value>
-      <webElementGuid>41f31ea4-fea6-4117-a50c-5f160be82d4d</webElementGuid>
+      <webElementGuid>d872c9aa-8ca3-410b-beac-7ca806ec083c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>54f72ab7-8627-49bf-b3f9-5b345e2f115b</webElementGuid>
+      <webElementGuid>0fcb6869-07c6-420f-9c90-ee3887d22b81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>filter_altOcultar filtros </value>
-      <webElementGuid>a184be2d-78e3-4ca1-bf22-16f35875a281</webElementGuid>
+      <webElementGuid>84d4a6cc-0e34-414a-ad57-bd3991fc0991</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mab-mostrarFiltro&quot;)</value>
-      <webElementGuid>09d7e687-e479-412c-b02d-de5c1fcd30ef</webElementGuid>
+      <webElementGuid>980ebf8c-dfc8-4284-9c90-bfe3059d0ca7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='mab-mostrarFiltro']</value>
-      <webElementGuid>862d80d3-779f-4994-98cc-96d4a6e24531</webElementGuid>
+      <webElementGuid>c2a50a16-c493-4099-8ab4-5f63275c37bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='mab-modeloActuacionBuscadorForm']/button</value>
-      <webElementGuid>fa47c73d-a179-4e32-b5ed-e1be200e4d6b</webElementGuid>
+      <webElementGuid>5380d2d5-ef87-444e-82e4-cfd3809bca9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar Modelos de Actuaciones'])[1]/following::button[1]</value>
-      <webElementGuid>e21c21c3-a988-4e2d-a2aa-a58c7e89a84f</webElementGuid>
+      <webElementGuid>98fc63a2-f637-4599-aea1-81b50768036a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::button[1]</value>
-      <webElementGuid>28ce43d5-130e-4534-a7e5-be5bac9a1995</webElementGuid>
+      <webElementGuid>b682e119-a95b-4e62-a66f-5a09903a8b4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de actuación'])[1]/preceding::button[1]</value>
-      <webElementGuid>3d5490f7-c32f-4695-a7e5-5bf37370593a</webElementGuid>
+      <webElementGuid>8331dbf7-9517-4e94-9675-3e3e052fb955</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ocultar filtros']/parent::*</value>
-      <webElementGuid>fa1e616b-e002-4b0f-b6e4-81de62aee4cc</webElementGuid>
+      <webElementGuid>f00753ec-ee42-45b0-8e30-56d766c7c81c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-modelo-actuacion-buscador/form/button</value>
-      <webElementGuid>9edbe79a-0c55-4534-b752-a2437355928f</webElementGuid>
+      <webElementGuid>36d320d2-f24a-42c1-b97f-a13f053d2d8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'mab-mostrarFiltro' and @type = 'button' and (text() = 'filter_altOcultar filtros ' or . = 'filter_altOcultar filtros ')]</value>
-      <webElementGuid>280d34d4-0436-4896-9b34-7395fbe7fd57</webElementGuid>
+      <webElementGuid>b82e740b-bbeb-4ceb-b75f-7af2d3dba0be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

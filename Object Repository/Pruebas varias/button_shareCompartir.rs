@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Guardar y Finalizar</name>
+   <name>button_shareCompartir</name>
    <tag></tag>
-   <elementGuidId>10cd14ea-7271-4324-81b1-2af5cc67075e</elementGuidId>
+   <elementGuidId>8a5a7f11-a712-4abb-876b-cb6f18472f96</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='na-siguienteNotificar']</value>
+         <value>(//button[@id='al-copyClipBoard'])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#na-siguienteNotificar</value>
+         <value>mat-cell.mat-cell.cdk-column-compartir.mat-column-compartir.ng-star-inserted > #al-copyClipBoard</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,102 +22,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d868688b-6565-44ae-810d-a7a8245b8466</webElementGuid>
+      <webElementGuid>0c9c8a77-77c7-465b-8901-e9fa74b2d3b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn datos-iniciales__boton--siguiente mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>282aff34-925d-4734-bb58-4f5dde4388bb</webElementGuid>
+      <value>btn boton-secundario btn-sm ml-2 etiqueta-estado</value>
+      <webElementGuid>4ed7d6b5-60ac-422d-8e47-ee56c4565d55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>na-siguienteNotificar</value>
-      <webElementGuid>ca331074-7e31-447f-a189-b9cfd32730fb</webElementGuid>
+      <value>al-copyClipBoard</value>
+      <webElementGuid>23b854ac-0836-46df-a467-cf0c613637cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>title</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>fb9d4d05-3363-430d-a9fe-8ae9b4b7e0d5</webElementGuid>
+      <value>Compartir</value>
+      <webElementGuid>9f2a9754-97b9-4dec-a345-121b7dac69c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Guardar y Finalizar </value>
-      <webElementGuid>7249df47-43fb-4c56-9493-7db768055002</webElementGuid>
+      <value>shareCompartir </value>
+      <webElementGuid>1f7a95df-a2c5-4f58-9eaa-2c4fef4dcdcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;na-siguienteNotificar&quot;)</value>
-      <webElementGuid>654cf23c-7574-42d2-ba87-217ef5b252ca</webElementGuid>
+      <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-column-compartir mat-column-compartir ng-star-inserted&quot;]/button[@id=&quot;al-copyClipBoard&quot;]</value>
+      <webElementGuid>ab53a0da-2357-480e-ba09-7827e299235a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='na-siguienteNotificar']</value>
-      <webElementGuid>7b439eb1-a2e4-4df0-8fdf-04fe8e641048</webElementGuid>
+      <value>(//button[@id='al-copyClipBoard'])[2]</value>
+      <webElementGuid>3c6a1508-60a6-4ac8-84d8-47c07c883ec1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-step-content-0-1']/div[2]/button[2]</value>
-      <webElementGuid>fd4021fe-cd2c-4ca2-818f-63e4aa70d67b</webElementGuid>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-row/mat-cell[8]/button</value>
+      <webElementGuid>8806a1ce-c0f5-4dd1-9279-ade442268e97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/following::button[1]</value>
-      <webElementGuid>9fc90f13-3fef-4afd-b86e-658bf6e5b2e3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='get_app'])[1]/following::button[1]</value>
+      <webElementGuid>7b83d14a-922c-4872-b2d8-71b7567d80c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='La suma total de los archivos a subir es de : 0.03MB'])[1]/following::button[2]</value>
-      <webElementGuid>01bd916d-9e8a-4856-ae76-7d8837ba444c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='remove_red_eye'])[3]/following::button[1]</value>
+      <webElementGuid>5dbc9286-9fa2-48df-ac70-8f02068007e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_out'])[1]/preceding::button[1]</value>
-      <webElementGuid>2f602d46-5d90-4815-9484-a6130c6d0f43</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba.pdf'])[2]/preceding::button[1]</value>
+      <webElementGuid>a2921f38-6e52-4dde-8396-b7055fa20381</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button[2]</value>
-      <webElementGuid>24fd876c-5624-4c0a-906b-8b407ff9ed2c</webElementGuid>
+      <value>//mat-cell[8]/button</value>
+      <webElementGuid>599aa7a6-c6fa-4ca2-952b-d5c98dfc10e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'na-siguienteNotificar' and @type = 'button' and (text() = ' Guardar y Finalizar ' or . = ' Guardar y Finalizar ')]</value>
-      <webElementGuid>405e78bd-d6f8-4cb1-acfb-02cc446afd72</webElementGuid>
+      <value>//button[@id = 'al-copyClipBoard' and @title = 'Compartir' and (text() = 'shareCompartir ' or . = 'shareCompartir ')]</value>
+      <webElementGuid>8904de65-a1de-461b-8ce9-594d29afff58</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
