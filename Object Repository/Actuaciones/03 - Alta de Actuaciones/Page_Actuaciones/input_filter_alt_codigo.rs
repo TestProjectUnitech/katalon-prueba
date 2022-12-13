@@ -6,19 +6,19 @@
    <elementGuidId>65e1c605-46f7-45af-b12e-45d64994a183</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mab-ingresarCodigo</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//mat-form-field[@id='prueba']/div/div/div[3]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mab-ingresarCodigo</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@id = 'mab-ingresarCodigo' and @name = 'codigo' and @placeholder = 'Código' and @type = 'text']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>be9a5b27-ce14-4f69-8692-883e43b359f0</webElementGuid>
+      <webElementGuid>33b98843-4a74-4bcf-8e61-e32e48c88919</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>db98dd2b-937c-4721-b256-c7128e0c3169</webElementGuid>
+      <webElementGuid>20bc3d55-ecf4-4fdc-ac97-203b079d0118</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>codigo</value>
-      <webElementGuid>4f43d1aa-87de-4df0-8ec8-e21e94120eb2</webElementGuid>
+      <webElementGuid>4b5ef4f3-7c57-40f8-afb4-767b47ed11c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mab-ingresarCodigo</value>
-      <webElementGuid>34d5105d-4fb4-42d2-b337-d6e6556fe87b</webElementGuid>
+      <webElementGuid>658dc5b5-7c6f-4e36-bc25-4809f8a857f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>name</name>
       <type>Main</type>
       <value>codigo</value>
-      <webElementGuid>9c7424cb-f67c-4449-987a-5d658f86f6f2</webElementGuid>
+      <webElementGuid>221b7d50-ddc8-4d4a-b005-ccf16745f8b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>oninput</name>
       <type>Main</type>
       <value>this.value = this.value.toUpperCase()</value>
-      <webElementGuid>3f75fb49-6fe8-45cb-9de1-298dfaef78f7</webElementGuid>
+      <webElementGuid>54e8e0ff-d236-4500-99dc-fdd1ed75d380</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Código</value>
-      <webElementGuid>f8dad34f-dbb4-4011-9631-1bda04e8ca52</webElementGuid>
+      <webElementGuid>5d324fbd-63b5-4cfc-989d-a7fecb7194be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8ef40cdb-fd11-45c7-8dc1-20a6a7f3ca9c</webElementGuid>
+      <webElementGuid>15113ef0-8217-4a38-b9f3-874b0746a99f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1cfe6dbc-7b72-47af-9c0b-754397e8b239</webElementGuid>
+      <webElementGuid>00aa654b-04db-4e96-9676-48530222c903</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>79f9a52b-c961-467a-8f18-de89872e7ef2</webElementGuid>
+      <webElementGuid>aa917a3c-e45f-41fe-98ea-e9157332d5db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mab-ingresarCodigo&quot;)</value>
-      <webElementGuid>bfa55c32-afd7-4a10-9941-61601043a797</webElementGuid>
+      <webElementGuid>d9b99fb5-5f82-44a0-855c-aed5555c5504</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mab-ingresarCodigo']</value>
-      <webElementGuid>4326695d-e38a-42b6-8b37-b4c39f3252bb</webElementGuid>
+      <webElementGuid>3164c265-c1dc-496a-9a2f-b3b0b1b432c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-form-field[@id='prueba']/div/div/div[3]/input</value>
-      <webElementGuid>321a0da3-2fee-4a61-925c-facd9026e8ab</webElementGuid>
+      <webElementGuid>aba6d659-3543-4fba-88cb-e05008c87861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/mat-form-field/div/div/div[3]/input</value>
-      <webElementGuid>e3be5415-b8d3-4670-90b2-977449c06ce2</webElementGuid>
+      <webElementGuid>566f3c59-1d34-48f7-8305-86f0e65f1d94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,6 +138,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'mab-ingresarCodigo' and @name = 'codigo' and @placeholder = 'Código' and @type = 'text']</value>
-      <webElementGuid>76e763f3-e767-4edf-a71d-2c40112be19f</webElementGuid>
+      <webElementGuid>ba30dc4f-5a65-44ab-961b-412485e71204</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
