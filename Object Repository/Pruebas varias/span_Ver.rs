@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>dec14b62-3fab-45cc-8dff-0260e0967ca8</webElementGuid>
+      <webElementGuid>f9335980-f6bc-45b7-9232-0704cd868990</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>5ae5a7a2-9c3b-4746-b897-1673611b85f8</webElementGuid>
+      <webElementGuid>2be335b8-8015-4edd-a5a9-bbb111525b6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ver</value>
-      <webElementGuid>1bbc3834-5d9c-4d8e-bd72-e3b68bae72fa</webElementGuid>
+      <webElementGuid>8687654b-9773-443e-8c54-759705c2a13d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-overlay-3&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c50-64 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]/simple-snack-bar[@class=&quot;mat-simple-snackbar ng-star-inserted&quot;]/div[@class=&quot;mat-simple-snackbar-action ng-star-inserted&quot;]/button[@class=&quot;mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>a47213e8-9f90-419a-85d9-5553f29fb5db</webElementGuid>
+      <webElementGuid>c3b0dae8-678a-49e7-980c-035bbd2a91f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-3']/snack-bar-container/simple-snack-bar/div/button/span</value>
-      <webElementGuid>6d53647e-1ba4-4876-92e0-05dd3028cce5</webElementGuid>
+      <webElementGuid>5897c85f-f60a-471d-b8f5-79f819afeb28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Se ha creado Actuación 43566/2022'])[2]/following::span[1]</value>
-      <webElementGuid>89178110-4752-4f94-b523-99137daaf2e6</webElementGuid>
+      <webElementGuid>d4063356-50ed-4411-a1e1-4f26450d0d3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::span[2]</value>
-      <webElementGuid>08484606-3cbc-4fb1-a38a-097bf2339380</webElementGuid>
+      <webElementGuid>66ab82f1-b239-4c68-b71d-d9e249294267</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ver']/parent::*</value>
-      <webElementGuid>03c6c8cb-080b-4b31-bc84-c8e7a7685b5d</webElementGuid>
+      <webElementGuid>901792a9-ef60-4384-9eab-7670eea5741a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//simple-snack-bar/div/button/span</value>
-      <webElementGuid>7ff6b5cb-dda4-41ed-bfad-a4545222d8de</webElementGuid>
+      <webElementGuid>6ad257d3-5ef6-4272-b69a-cef5c9c6cce2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Ver' or . = 'Ver')]</value>
-      <webElementGuid>5e29416c-3a02-49ee-b320-a73d7cc62973</webElementGuid>
+      <webElementGuid>8aff92ad-4c2a-4fea-8b72-b531830d13fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

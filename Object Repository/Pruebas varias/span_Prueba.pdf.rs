@@ -6,12 +6,12 @@
    <elementGuidId>613ad38c-2574-4ca8-9c7a-6ca002c452c0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-row/mat-cell/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.ng-star-inserted > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-cell/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>52d84c4b-e4f5-40bb-ad7f-2a2fd99a0ff8</webElementGuid>
+      <webElementGuid>ba79725d-7e55-4948-9b6a-3a1920384db5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Prueba.pdf </value>
-      <webElementGuid>7ccd330a-f7c4-4c50-93ef-eadc62fcf8a4</webElementGuid>
+      <webElementGuid>fbc706d1-2e3c-4e14-93bb-2756a4fd418a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell-nombre mat-cell cdk-column-nombre mat-column-nombre ng-star-inserted&quot;]/a[@class=&quot;ng-star-inserted&quot;]/span[1]</value>
-      <webElementGuid>3fc91e6d-7020-4899-b8ba-bd1d52b89334</webElementGuid>
+      <webElementGuid>be09f0e7-afc4-4c9d-847c-b1cf8975f339</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-row/mat-cell/a/span</value>
-      <webElementGuid>a5c2597f-3d4b-4d53-8304-1dab621cd726</webElementGuid>
+      <webElementGuid>ed8951c0-a28e-4f45-98d1-307452d18d94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Firma Digital'])[1]/following::span[1]</value>
-      <webElementGuid>c45b8ff4-17e2-4513-ace3-a04d8149583b</webElementGuid>
+      <webElementGuid>8fc69d24-e422-46b0-a97e-a3ac5cbf7ed5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nivel Acceso'])[1]/following::span[1]</value>
-      <webElementGuid>9922a6ad-4c8b-474f-832f-64dcfccd083a</webElementGuid>
+      <webElementGuid>3e654a96-8c98-4c1b-8182-efe3335243f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IURIXQA, CAYT'])[1]/preceding::span[1]</value>
-      <webElementGuid>3994a781-9126-415d-a7f1-ea4bc506f762</webElementGuid>
+      <webElementGuid>6ad3e715-caed-4978-afdd-d7b5be2e7d50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PUBLICO'])[1]/preceding::span[3]</value>
-      <webElementGuid>400cf2a9-989d-4693-9fba-03b67209975d</webElementGuid>
+      <webElementGuid>e6984610-7dc3-4541-bfbe-1a6d5d52090e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Prueba.pdf']/parent::*</value>
-      <webElementGuid>8f2eabc7-c03e-470b-b539-6d2cbf5f3849</webElementGuid>
+      <webElementGuid>56896ea2-4b30-4f3a-9119-f88e2ccf3acb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell/a/span</value>
-      <webElementGuid>16e91c68-9dfe-4c2a-b0bc-c1236cfb7030</webElementGuid>
+      <webElementGuid>d757997b-56e8-4764-9b0f-22db20a5f910</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Prueba.pdf ' or . = ' Prueba.pdf ')]</value>
-      <webElementGuid>80c98d93-63fc-473f-a160-b3838d867640</webElementGuid>
+      <webElementGuid>31b4427f-a791-40a6-bd0b-91cc368ed681</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

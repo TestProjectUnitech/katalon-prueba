@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>61db1092-fadd-4571-be27-bc7bc515dc99</webElementGuid>
+      <webElementGuid>c2df2c2b-be28-4d82-9598-f1c6337d0812</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>86b5b64c-bbcc-467e-a5ff-e5247683c0d2</webElementGuid>
+      <webElementGuid>6837e9ca-2b6f-4518-95f8-342e8ca7181f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>codigo</value>
-      <webElementGuid>0de9fbaf-d659-4485-acf8-548b2439ee4f</webElementGuid>
+      <webElementGuid>b7a77745-a443-45c5-b9a3-57dc8e2b95ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mab-ingresarCodigo</value>
-      <webElementGuid>233adf2b-87b6-4e16-bc60-65676af73b98</webElementGuid>
+      <webElementGuid>a1773635-271b-4025-9f19-212d2b7b250a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>codigo</value>
-      <webElementGuid>79a03a49-119f-4743-af65-bb15c780a934</webElementGuid>
+      <webElementGuid>2a64a62c-47ce-47e7-89e8-732c567aab8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>oninput</name>
       <type>Main</type>
       <value>this.value = this.value.toUpperCase()</value>
-      <webElementGuid>c8e33281-e861-4e3e-b39e-7a3ae4b281df</webElementGuid>
+      <webElementGuid>b19f28a1-7314-4de3-872b-b04a418e1d5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Código</value>
-      <webElementGuid>10ba3517-d21f-4183-8035-a8364086b7dd</webElementGuid>
+      <webElementGuid>ad9f4a0b-6c30-4575-a605-2f2547584212</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0eef8604-e668-4583-9e10-22243e7dc927</webElementGuid>
+      <webElementGuid>0a574ad9-06bd-4c51-a773-96738ff20126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>74607757-67ec-44c5-8491-899a60915c3d</webElementGuid>
+      <webElementGuid>c084f571-bb74-4adf-ae43-6a5a08fcf19c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>51001256-5e71-4f24-9976-b595d35f8e21</webElementGuid>
+      <webElementGuid>864edf10-3e3b-4460-8869-4bfa0c3a8298</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mab-ingresarCodigo&quot;)</value>
-      <webElementGuid>fc602884-1975-414f-80e5-772a32073bd1</webElementGuid>
+      <webElementGuid>6b12ec1f-5ce9-4c27-a8ad-bc0c3f8b30d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mab-ingresarCodigo']</value>
-      <webElementGuid>901bbf64-762c-410b-ab22-6f8902ccd0e0</webElementGuid>
+      <webElementGuid>9eb36ed5-c3bb-43c5-871b-9950f84da244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-form-field[@id='prueba']/div/div/div[3]/input</value>
-      <webElementGuid>ce160477-1299-4c31-b2a3-a02742c0fb95</webElementGuid>
+      <webElementGuid>fc764342-5266-4937-9706-006cc71e708d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/mat-form-field/div/div/div[3]/input</value>
-      <webElementGuid>cd449ffe-3beb-45b4-9fe6-8f024c153fe8</webElementGuid>
+      <webElementGuid>513e81ce-8e76-4e9d-ae77-1eb81e4426ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'mab-ingresarCodigo' and @name = 'codigo' and @placeholder = 'Código' and @type = 'text']</value>
-      <webElementGuid>b87ca5c5-76f9-40bd-927e-adfacf6b27fe</webElementGuid>
+      <webElementGuid>aa55fbb6-f67a-4cdd-9848-a18a5ec134ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

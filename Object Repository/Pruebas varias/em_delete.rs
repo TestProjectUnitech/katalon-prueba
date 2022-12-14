@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>em</value>
-      <webElementGuid>fd3b6f32-efee-455c-b09e-c3a277ab88be</webElementGuid>
+      <webElementGuid>73a3bc25-e139-4d3d-89ae-e37c9809f547</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons secContenedor__botones--vista-c botones--tarjeta</value>
-      <webElementGuid>53f6d3ac-cb87-4f0d-b785-0a88a1b8f53b</webElementGuid>
+      <webElementGuid>edd0ac21-9048-43b8-805c-ba518ce1ac38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>mattooltip</name>
       <type>Main</type>
       <value>Eliminar</value>
-      <webElementGuid>86edb8b9-71c5-437f-a4f8-0369f3d34ee3</webElementGuid>
+      <webElementGuid>98f87fe2-bd72-466e-adef-45828083dddf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>mattooltipposition</name>
       <type>Main</type>
       <value>above</value>
-      <webElementGuid>5dc62234-f0e5-4dca-82e9-a4eca7cbf8e2</webElementGuid>
+      <webElementGuid>0a22642c-5b7a-41d4-9aa8-8117a1aae669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>delete</value>
-      <webElementGuid>2aa139d4-86cc-4ef7-a62a-d847978cf8c2</webElementGuid>
+      <webElementGuid>78780da6-e41b-46c3-bc97-9deae4d173bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;expand-box-header&quot;)/a[@id=&quot;al-verAdjunto&quot;]/div[1]/em[@id=&quot;la-actualizar&quot;]</value>
-      <webElementGuid>90d13e54-6e93-4163-bacd-94787f124230</webElementGuid>
+      <webElementGuid>32aeb2bc-b27b-49a1-9699-674cf4fb6edb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>la-actualizar</value>
-      <webElementGuid>8e627e0c-fc6d-4b07-a187-4752eca64c3d</webElementGuid>
+      <webElementGuid>6abedc5e-dc4d-4fe1-8ae3-e55a76871251</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//em[@id='la-actualizar'])[2]</value>
-      <webElementGuid>8a9f8b3c-e3fa-402f-aab7-6aa802944da9</webElementGuid>
+      <webElementGuid>960dbd08-eaaf-4be0-a58c-9783ed7505c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>(//a[@id='al-verAdjunto']/div/em)[2]</value>
-      <webElementGuid>265fe9fd-cf12-494e-9cb1-75f62cb84a4c</webElementGuid>
+      <webElementGuid>7c6a5b05-f0bb-4ee6-b114-b98819147189</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Público'])[1]/following::em[1]</value>
-      <webElementGuid>2034b233-6e5b-46a7-a535-1d347020fd99</webElementGuid>
+      <webElementGuid>0bbbe6d0-fd4d-440d-af2a-98bbe4a1c534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nivel de Acceso'])[1]/following::em[1]</value>
-      <webElementGuid>b5592685-18ef-49a5-a612-99b20bf8e32a</webElementGuid>
+      <webElementGuid>1e2921ca-dbe3-4d8a-b088-f0157fd9eb0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Actualizar'])[1]/preceding::em[1]</value>
-      <webElementGuid>015bb3f1-337d-4d3e-9098-934569882bd4</webElementGuid>
+      <webElementGuid>a749f7da-324e-4ae8-a71e-ef27a8ebf4ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::em[1]</value>
-      <webElementGuid>79adbbfc-bb00-4892-b3ef-d00019f337fe</webElementGuid>
+      <webElementGuid>adedd847-1e4b-4901-8a6d-3853feb636ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='delete']/parent::*</value>
-      <webElementGuid>fc6863f4-e41a-4d0a-af20-9e996b7cff92</webElementGuid>
+      <webElementGuid>5f95fc88-61a2-47b8-8be4-6c6dc7f62b18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-adjunto/div/div/a/div/em</value>
-      <webElementGuid>141ece28-8ef0-40de-8167-aad0da8e4ae4</webElementGuid>
+      <webElementGuid>77d34880-58c2-45d9-bc95-26649f6c0bfb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//em[@id = 'la-actualizar' and (text() = 'delete' or . = 'delete')]</value>
-      <webElementGuid>60934083-e2b7-4dd9-b805-9e9e17761220</webElementGuid>
+      <webElementGuid>43e3b491-a6dc-400a-b641-40f21ef59ab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='sa-eliminar']/em</value>
-      <webElementGuid>b9e4428f-ce76-4822-babc-e2d705be2e98</webElementGuid>
+      <webElementGuid>a99945f3-2322-4aa3-8d44-576b9a08840b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subir Adjunto'])[1]/following::em[1]</value>
-      <webElementGuid>8eb0cf54-9187-42c4-bb86-e58a310ceeb3</webElementGuid>
+      <webElementGuid>c7c6f3d8-a8fd-478d-830b-a6004ee917b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='La presentación total no puede superar los 5 MB'])[1]/following::em[1]</value>
-      <webElementGuid>0aa748f9-d666-4fda-88b0-cdbcb4068928</webElementGuid>
+      <webElementGuid>6703c148-d2aa-4b03-8875-65f3f01eb66c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba.pdf'])[1]/preceding::em[1]</value>
-      <webElementGuid>fbb65617-d00d-433d-bcaf-11c7a270d51a</webElementGuid>
+      <webElementGuid>4bc25300-29e3-4bba-ad51-664b108193e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +182,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/em</value>
-      <webElementGuid>f746e617-aff8-4e9a-997a-155201e87663</webElementGuid>
+      <webElementGuid>bc2b0a4d-87ea-4e13-8008-e7c4cb691c7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,6 +190,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//em[(text() = 'delete' or . = 'delete')]</value>
-      <webElementGuid>e0b52b4b-a29e-4854-94f1-e7a87657ac25</webElementGuid>
+      <webElementGuid>7530289d-485c-4bd2-be03-51776af88be6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

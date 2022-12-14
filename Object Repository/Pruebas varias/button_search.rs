@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>42335190-ae2e-45be-af0b-11d8dcdb4fae</webElementGuid>
+      <webElementGuid>7c9ed6d5-6427-4e8f-a16a-c16821016cf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn boton-buscar-modelo </value>
-      <webElementGuid>7d878cca-c7fc-46a2-b510-afe59c6fd886</webElementGuid>
+      <webElementGuid>813f7fb8-3548-4142-aa7e-2bd39551d11f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>id</name>
       <type>Main</type>
       <value>di-buscarModelo</value>
-      <webElementGuid>7aea8bf7-60c8-4e4b-a772-03040e57f430</webElementGuid>
+      <webElementGuid>065a24b3-a9e9-4a85-b322-e359bb6b11d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Buscar Modelo</value>
-      <webElementGuid>8823cb7b-6376-45c3-807b-709e44a09fb7</webElementGuid>
+      <webElementGuid>bb0bd465-6ff6-4a74-bb19-09002473f70a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>d8ca9575-ed69-4145-9ddc-6f77367e285c</webElementGuid>
+      <webElementGuid>8205099c-a625-43df-b157-337891905974</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;di-buscarModelo&quot;)</value>
-      <webElementGuid>3289b886-3b66-4b93-ad7a-6fd4ad707859</webElementGuid>
+      <webElementGuid>ee0c32a2-293b-4796-adb4-6f0876cf3a1c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='di-buscarModelo']</value>
-      <webElementGuid>c24e7d17-1bd7-42f2-850b-5e0f20b4bfb6</webElementGuid>
+      <webElementGuid>6d8bacb6-fcbe-401d-b99c-8c470a8acc35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir Modelo'])[1]/following::button[1]</value>
-      <webElementGuid>840cfd2e-8349-4230-9794-bd4c5d5d84c4</webElementGuid>
+      <webElementGuid>41875b58-d9e6-400a-89e4-86452599a091</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Cómo Crear Actuación?'])[1]/following::button[1]</value>
-      <webElementGuid>ef93d293-e4a8-417b-bd82-07a1bdd8f0d1</webElementGuid>
+      <webElementGuid>3df1332a-4513-4fed-ab3f-1c4d1507c3cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Importar Actuación'])[1]/preceding::button[1]</value>
-      <webElementGuid>13564d52-2503-477f-aaab-8a946e085115</webElementGuid>
+      <webElementGuid>4cd5ded5-083e-431f-828d-d973018c3abe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/span/button</value>
-      <webElementGuid>c698daec-e8d3-48b8-97bd-54d47b2e4ddb</webElementGuid>
+      <webElementGuid>81eca44b-e8a7-4e72-b559-f7ca56b7aebf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,13 +113,13 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'di-buscarModelo' and @title = 'Buscar Modelo' and (text() = 'search' or . = 'search')]</value>
-      <webElementGuid>aeba6a80-d305-4397-b984-8c0b41026428</webElementGuid>
+      <webElementGuid>527cc9da-5b57-454f-8f2b-5aff85f50a0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-actuacion[1]/div[2]/div[2]/div[1]/div[1]/div[1]/nueva-actuacion[1]/div[1]/div[1]/div[1]/span[1]/button[1]</value>
-      <webElementGuid>af3fd416-67ba-4630-91f6-be888c461364</webElementGuid>
+      <webElementGuid>30c2b683-96ec-4680-af6f-c97a75058b9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

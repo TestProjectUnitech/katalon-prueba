@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>fe439028-3f7a-47cf-b741-1c0ef4aa0ceb</webElementGuid>
+      <webElementGuid>7c0c8a76-d22e-411d-8fec-9325a6a2ef48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons tarjeta__col-izq--iconosDark</value>
-      <webElementGuid>40dbc1f7-21e7-434a-95c7-db90a2fd689e</webElementGuid>
+      <webElementGuid>d9dddbdc-197e-46e8-b845-d597c8637ad9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>remove_red_eye</value>
-      <webElementGuid>71ed9e17-42ae-4371-9afd-51636991e52f</webElementGuid>
+      <webElementGuid>64fe5dfb-781d-4dc4-9438-6e49d2d0610c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell-descargar mat-cell cdk-column-verAdjunto mat-column-verAdjunto ng-star-inserted&quot;]/span[@class=&quot;botones_margin&quot;]/button[@id=&quot;a-verVistaPrevia&quot;]/span[@class=&quot;material-icons tarjeta__col-izq--iconosDark&quot;]</value>
-      <webElementGuid>7457fbd3-a18b-450d-9405-c18cd603c32a</webElementGuid>
+      <webElementGuid>f46eb33c-8382-4ecb-92b3-b8c5b9e62499</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>(//button[@id='a-verVistaPrevia']/span)[3]</value>
-      <webElementGuid>bc1bba65-1660-4321-a6bc-786554b17f79</webElementGuid>
+      <webElementGuid>3c5c2947-9c18-4a83-af6a-9a4f9e50d10a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[1]/following::span[2]</value>
-      <webElementGuid>00643371-c473-4cd7-af21-b7052d6bd5e6</webElementGuid>
+      <webElementGuid>e36d8423-a9b8-435e-91e8-8dced4f83872</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PUBLICO'])[1]/following::span[3]</value>
-      <webElementGuid>c82f54d6-7b4b-4554-8985-e3f0a3cc581e</webElementGuid>
+      <webElementGuid>e58b2ca6-aacb-4a47-8e5f-43b6e8a86bca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='get_app'])[1]/preceding::span[1]</value>
-      <webElementGuid>468b1f41-363b-4107-9e3f-4f196b4837cd</webElementGuid>
+      <webElementGuid>d5f0fc1f-a4ec-4163-9880-9b9ef60a328b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell[6]/span/button/span</value>
-      <webElementGuid>4310b0d0-698c-4e5a-8bd8-e7cba59b95d7</webElementGuid>
+      <webElementGuid>7acd0960-1a47-47a5-88b6-7d36393a180d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'remove_red_eye' or . = 'remove_red_eye')]</value>
-      <webElementGuid>2eec2de6-8bdc-449e-8f1a-2ab988ec729e</webElementGuid>
+      <webElementGuid>05f2d8ea-6762-45ee-839d-ed77de8fa504</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

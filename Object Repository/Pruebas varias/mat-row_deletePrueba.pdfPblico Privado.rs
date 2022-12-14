@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-row</value>
-      <webElementGuid>182d2d39-5d5b-47c9-8fe6-d5ce08b07c72</webElementGuid>
+      <webElementGuid>ce1aadba-ef83-444b-9e08-a3ad92d2b904</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-row ng-star-inserted</value>
-      <webElementGuid>6e693d66-1926-4a12-befe-718c6677d622</webElementGuid>
+      <webElementGuid>4b1e117b-8cd5-4c4d-9773-3a88f8bda8d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>row</value>
-      <webElementGuid>2f4542f9-9dae-439e-a232-8c72143356e4</webElementGuid>
+      <webElementGuid>b8afe413-93ea-4120-9468-d128212d6b6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>deletePrueba.pdf Público  Privado </value>
-      <webElementGuid>05ce911b-cc7b-4b39-94ea-952129156978</webElementGuid>
+      <webElementGuid>bc5c66f6-cb37-453f-bb0a-e22fbc4a359b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-step-content-0-1&quot;)/div[@class=&quot;ng-star-inserted&quot;]/iol-selector-archivo[1]/div[1]/div[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-table[@class=&quot;files-table' mat-table ng-star-inserted&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]</value>
-      <webElementGuid>1b55065a-7bed-4ba5-87b0-2c7d2dd7824f</webElementGuid>
+      <webElementGuid>94fee82b-d5bc-46c9-af3f-5797932ee25a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-0-1']/div/iol-selector-archivo/div/div[3]/div/mat-table/mat-row</value>
-      <webElementGuid>55dad37b-ed58-4684-88e6-bed2d30b2063</webElementGuid>
+      <webElementGuid>911e887a-b882-4cba-be86-9db0438c307b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subir Adjunto'])[1]/following::mat-row[1]</value>
-      <webElementGuid>425fb49a-013a-41be-9443-dffb25ccf9a3</webElementGuid>
+      <webElementGuid>d59cbafd-de3a-4e94-a8a6-1e73191b7185</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='La presentación total no puede superar los 5 MB'])[1]/following::mat-row[1]</value>
-      <webElementGuid>7a5b395b-7936-46ea-a036-7ba4a8682327</webElementGuid>
+      <webElementGuid>24fa8d03-3d5e-41f6-a5da-75f08c5c9529</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-row</value>
-      <webElementGuid>6f15345b-9484-48b3-9c79-b9c2d8e38492</webElementGuid>
+      <webElementGuid>fe5e1df7-3a8b-43b5-9a03-cf2f39591638</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-row[(text() = 'deletePrueba.pdf Público  Privado ' or . = 'deletePrueba.pdf Público  Privado ')]</value>
-      <webElementGuid>23a94974-9e4b-4bc1-8509-d009e7f0e7c9</webElementGuid>
+      <webElementGuid>c2cf8962-5abf-470f-b7f3-fe252dd2e8e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>11a83197-7c85-418a-9a03-a0653b543254</webElementGuid>
+      <webElementGuid>6c56a7a8-dbc4-46f7-8bc4-903c31fd3364</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>sa-fileInput</value>
-      <webElementGuid>bca82c70-9379-4e7a-94f9-7dacff3016ae</webElementGuid>
+      <webElementGuid>3e05b5c6-3581-4d6f-91cb-79f5782f5466</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>menu-close</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7735651b-4e17-45f4-9ec2-8619aacdde43</webElementGuid>
+      <webElementGuid>586f96c6-8873-49ff-9433-73a38b787be7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>17dad7bb-17c4-4730-9401-138e2b1cf4c1</webElementGuid>
+      <webElementGuid>7d49ab75-d6fb-4506-b9e9-894b8c7f898e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>accept</name>
       <type>Main</type>
       <value>.*</value>
-      <webElementGuid>a059206d-f40f-45e5-a13a-c53b07b5a8e6</webElementGuid>
+      <webElementGuid>d37d8966-6c0d-43a8-9d9a-50baac1c0d6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sa-fileInput&quot;)</value>
-      <webElementGuid>e1e7bd6e-9f41-48fd-a5a6-044cc2119031</webElementGuid>
+      <webElementGuid>0a4c6ed1-8f56-4bba-89ae-2e8ba155772d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='sa-fileInput']</value>
-      <webElementGuid>1f6e106c-793b-47e5-9a76-a11fb6bf7ac7</webElementGuid>
+      <webElementGuid>374d515f-ab59-4eb1-bef0-3fa5e25eaafc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-1-1']/div/iol-selector-archivo/div/div[2]/span/input</value>
-      <webElementGuid>5af7d7ea-f4f4-4969-9d9a-9f75211fd2cf</webElementGuid>
+      <webElementGuid>cdbf161e-89a4-419c-b7d1-46a15b30fd54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>6d43b217-2411-4692-8ed9-95c0f6533b0b</webElementGuid>
+      <webElementGuid>590d0908-b48f-407d-83d7-6a8347b05090</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'sa-fileInput' and @type = 'file']</value>
-      <webElementGuid>caafb8b2-1cea-4e30-a710-8e194dbd8689</webElementGuid>
+      <webElementGuid>b31f78d1-3f70-4ced-8078-442971f73efe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

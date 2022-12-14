@@ -6,12 +6,12 @@
    <elementGuidId>0936493e-99d0-450d-bea9-d46bf4674ba4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='cdk-overlay-8']/snack-bar-container</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>snack-bar-container.mat-snack-bar-container.ng-tns-c39-18.ng-trigger.ng-trigger-state.mat-snack-bar-center.mat-snack-bar-top.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//simple-snack-bar/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>snack-bar-container</value>
-      <webElementGuid>4ed69601-a2d1-4841-b26a-02a9fb3e0c08</webElementGuid>
+      <webElementGuid>45aa32a2-92d3-4ed4-a049-5e0bfd36e663</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-snack-bar-container ng-tns-c39-18 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted</value>
-      <webElementGuid>d36b7f76-8edd-47d5-b59f-9a297fea71d0</webElementGuid>
+      <webElementGuid>e0d4be83-c553-488a-b3d0-61bbb465ee94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>d4ef081c-025a-43bd-9be1-df1b896c8d85</webElementGuid>
+      <webElementGuid>143b2654-2f60-4b52-b563-4c7464a66f04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Eliminación de adjunto procesadaAceptar</value>
-      <webElementGuid>b9af9f77-1d26-4ad9-baf2-0622f691417c</webElementGuid>
+      <webElementGuid>7e9430df-cf91-4272-9065-70b057db4a74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-overlay-8&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c39-18 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]</value>
-      <webElementGuid>4b113047-18cd-466e-902d-31f514d0529a</webElementGuid>
+      <webElementGuid>dce9d305-bae6-4d6e-83cf-d899f511e67e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-8']/snack-bar-container</value>
-      <webElementGuid>9b94d006-c12f-485c-bf04-d5f30b1ef812</webElementGuid>
+      <webElementGuid>d01a5f46-3502-40a9-a5a1-7c59d0393dde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminación de adjunto procesada'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>12f36695-523a-496c-875b-057f1986a8bd</webElementGuid>
+      <webElementGuid>5443eb78-4343-4ebc-9939-52cf05483f88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>0b1486a2-444a-4384-bbeb-58b44eef56ba</webElementGuid>
+      <webElementGuid>707818f9-be7b-46ea-a5eb-fe4aaaff2610</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//snack-bar-container</value>
-      <webElementGuid>db848917-b47b-4757-bf73-669f464218c9</webElementGuid>
+      <webElementGuid>13f55065-6019-4bf8-9c7f-5f11940a47b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//snack-bar-container[(text() = 'Eliminación de adjunto procesadaAceptar' or . = 'Eliminación de adjunto procesadaAceptar')]</value>
-      <webElementGuid>ec2e7985-e417-4db2-95b1-5388e177e6c7</webElementGuid>
+      <webElementGuid>148c6cc8-b8a7-4094-ac08-ebc0279420a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

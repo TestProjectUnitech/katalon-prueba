@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>snack-bar-container</value>
-      <webElementGuid>85688a55-f9ba-4c44-b123-8be3a91c7a0b</webElementGuid>
+      <webElementGuid>6e35e777-740b-4ce8-8869-26363c6c7fad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-snack-bar-container ng-tns-c40-17 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted</value>
-      <webElementGuid>06621675-f8b4-48df-ae66-9efbd54973b7</webElementGuid>
+      <webElementGuid>e768f5e1-6ac4-4723-a0e9-d732d4456ec4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>53ec2712-1abd-4144-a6a7-9cc83b160085</webElementGuid>
+      <webElementGuid>cdb06045-1e9b-4025-8a64-2ab8f140d097</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56Aceptar</value>
-      <webElementGuid>15613fa7-72d6-409a-8c42-44dcfffa474f</webElementGuid>
+      <webElementGuid>74df6e3f-d244-408a-9613-6f471ce9b89d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-overlay-7&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c40-17 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]</value>
-      <webElementGuid>14b47636-f2c8-4db9-a5ab-acdf8a2ff61b</webElementGuid>
+      <webElementGuid>600993da-656a-4b84-a166-a192f086f280</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-7']/snack-bar-container</value>
-      <webElementGuid>0e1a113e-f462-4b0f-833e-655ea2bceead</webElementGuid>
+      <webElementGuid>d5805951-4866-42eb-9974-0c1928173b73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>dd8e4cd6-9743-4175-8aa8-6ca20e6f71b8</webElementGuid>
+      <webElementGuid>96358fd2-0a00-41b8-a1ba-e6c21d09c902</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>4bab44eb-7f98-43db-93ff-7d728b324a2f</webElementGuid>
+      <webElementGuid>d30b083b-9260-4061-acf9-79aafbff1e39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//snack-bar-container</value>
-      <webElementGuid>52fbecc9-4641-47d6-8a21-ee94c404af77</webElementGuid>
+      <webElementGuid>20c79415-71f6-477a-92ee-caf8e45f7d93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//snack-bar-container[(text() = 'Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56Aceptar' or . = 'Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56Aceptar')]</value>
-      <webElementGuid>1d769487-8c3b-4de0-b772-7ab3cf1971fb</webElementGuid>
+      <webElementGuid>6816a269-0a1e-4de9-8039-142cb59d8157</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

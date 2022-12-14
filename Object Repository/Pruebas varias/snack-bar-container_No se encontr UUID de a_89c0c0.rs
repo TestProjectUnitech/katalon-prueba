@@ -6,12 +6,12 @@
    <elementGuidId>cf750827-e06c-4b09-8e45-89f7efc87035</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='cdk-overlay-2']/snack-bar-container</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>snack-bar-container.mat-snack-bar-container.ng-tns-c39-6.ng-trigger.ng-trigger-state.mat-snack-bar-center.mat-snack-bar-top.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//snack-bar-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>snack-bar-container</value>
-      <webElementGuid>0133b5b5-ff55-43b0-8f86-80353538f56c</webElementGuid>
+      <webElementGuid>a23e399a-e2c8-4584-9f86-2887be2fd5f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-snack-bar-container ng-tns-c39-6 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted</value>
-      <webElementGuid>908abb71-4456-43d4-a219-55eb2a06f80f</webElementGuid>
+      <webElementGuid>60a4db0c-e60a-46d8-82a8-0b40566dc428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>859ab03e-ef61-416d-9e48-d876b8df1c74</webElementGuid>
+      <webElementGuid>4cdb337a-dfa3-45f2-983e-9afa44845871</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No se encontró UUID de actuaciónAceptar</value>
-      <webElementGuid>f2dd04e4-27e8-480c-93fa-f8e5c8fb70ba</webElementGuid>
+      <webElementGuid>68b59642-f6fd-4205-bf64-061b83aec797</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-overlay-2&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c39-6 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]</value>
-      <webElementGuid>8f177ece-4813-4e8d-baa0-948f410e3917</webElementGuid>
+      <webElementGuid>aa75d32d-5e12-4f8b-9bda-a5292eb00924</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-2']/snack-bar-container</value>
-      <webElementGuid>a3b00225-d8b1-4a5e-8b4c-d664666f2792</webElementGuid>
+      <webElementGuid>100c1300-196a-4a4e-8ae0-821d96434cf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='get_app'])[3]/following::snack-bar-container[1]</value>
-      <webElementGuid>a5656a4c-cd63-4750-a8b8-5b29b0c5be42</webElementGuid>
+      <webElementGuid>f22484d1-aa8e-4bfb-95ee-4a720aa5c7c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//snack-bar-container</value>
-      <webElementGuid>d3f30102-b00f-4daa-8e27-58cd83a76b95</webElementGuid>
+      <webElementGuid>ebb326e9-5cd1-4346-a422-e228c9dbb006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//snack-bar-container[(text() = 'No se encontró UUID de actuaciónAceptar' or . = 'No se encontró UUID de actuaciónAceptar')]</value>
-      <webElementGuid>ce650379-6688-4349-aeb9-b6df1f4c1520</webElementGuid>
+      <webElementGuid>5d095e49-dd7e-491b-98fc-f7441e2e43b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

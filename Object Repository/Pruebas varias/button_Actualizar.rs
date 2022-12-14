@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>78427737-1f80-447d-b223-8e697fdc665a</webElementGuid>
+      <webElementGuid>729e3d63-b108-4ed3-9c21-256cc5abf48d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn boton--actualizar mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>8c379f4d-4fff-43e7-a9b0-c8e0f92f8414</webElementGuid>
+      <webElementGuid>6eecfed6-1461-4bc8-ae80-dcf01a827e81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>adj-actualizar</value>
-      <webElementGuid>d162bd96-e6cd-45f1-a6d3-fda19bcc0c11</webElementGuid>
+      <webElementGuid>c6028f29-e611-4933-afbd-f265e8dd019b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>421499de-f1de-493f-b896-a15dc403a2b8</webElementGuid>
+      <webElementGuid>aa58cf9c-815c-421f-ab84-541f86388500</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Actualizar</value>
-      <webElementGuid>0bebe510-bcdd-434b-b1b4-a5786a6eec4a</webElementGuid>
+      <webElementGuid>86d64887-3d58-4367-8c92-bd498f9bc9a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;adj-actualizar&quot;)</value>
-      <webElementGuid>30038f0f-970c-4c0c-b8a3-8a08e3f64c92</webElementGuid>
+      <webElementGuid>243ba558-bfa0-4a74-86b4-1f76fc17fc37</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='adj-actualizar']</value>
-      <webElementGuid>a5539726-3d0c-4c7f-8547-9835296db65b</webElementGuid>
+      <webElementGuid>78f60bf1-3397-4b11-ae0d-0ff881de0b4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='expand-box-header']/button</value>
-      <webElementGuid>0fdaeeb1-7503-44fe-92bf-26ce71b2bcbe</webElementGuid>
+      <webElementGuid>06e259f3-6363-47b5-bb2f-7ab799751930</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[1]/following::button[1]</value>
-      <webElementGuid>4ac7c523-4ac1-41a6-9424-780418d40485</webElementGuid>
+      <webElementGuid>5f4fabfc-b8c3-45a2-a284-c472ce5f5cf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Público'])[1]/following::button[1]</value>
-      <webElementGuid>02687b44-738a-4fce-b4c8-df62d133b140</webElementGuid>
+      <webElementGuid>33eb0c57-eadb-45d7-a943-350c945e9392</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::button[1]</value>
-      <webElementGuid>38c4824b-a2a2-4229-955c-af0ea7e194fb</webElementGuid>
+      <webElementGuid>3cfca319-8a8e-4873-bef5-cb7ffee62fc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-adjunto/div/div/button</value>
-      <webElementGuid>8126c44b-8bbc-4d68-a87b-9fa5ff28c83e</webElementGuid>
+      <webElementGuid>525687d3-dae5-40a5-81ff-3b657c2e49b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'adj-actualizar' and @type = 'button' and (text() = 'Actualizar' or . = 'Actualizar')]</value>
-      <webElementGuid>e54d4af3-dcd7-4433-9aac-e875bbf0b576</webElementGuid>
+      <webElementGuid>4a5d3639-7e66-4e16-b69c-eb73a6e5e4b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

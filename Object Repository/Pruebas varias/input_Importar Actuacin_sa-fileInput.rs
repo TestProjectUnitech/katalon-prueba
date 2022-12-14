@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8e7e0644-09f9-4427-855e-481f10f83ca8</webElementGuid>
+      <webElementGuid>f41bbbe9-36ae-48c5-a8f8-7a84019d4c5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>sa-fileInput</value>
-      <webElementGuid>69ee5931-2158-4497-a79c-3f611c87c04a</webElementGuid>
+      <webElementGuid>912c0bb5-0d25-40d8-84b6-a703868a9595</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>menu-close</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fb098fa6-896f-4706-96fa-111107397143</webElementGuid>
+      <webElementGuid>e025152a-5de8-4975-8e42-b2ce2911a211</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>08d5113a-ca76-4eea-ba1c-ad133b68ae05</webElementGuid>
+      <webElementGuid>05a39094-1dc8-4bed-9020-edf7909e3699</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sa-fileInput&quot;)</value>
-      <webElementGuid>4288deeb-81b4-4b8f-ba85-d2dea67ddcc8</webElementGuid>
+      <webElementGuid>6f3c9b3c-7075-4050-bb30-c37a44493249</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='sa-fileInput']</value>
-      <webElementGuid>b147f402-78a6-44b0-94b8-950a90d44550</webElementGuid>
+      <webElementGuid>587bed2e-319a-4ae6-9aa6-d56291935419</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>7dc199e4-3fc4-4fb6-abbe-e693bd88941e</webElementGuid>
+      <webElementGuid>7e46f5a2-7419-40dc-8b42-d41ddeca7df9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'sa-fileInput' and @type = 'file']</value>
-      <webElementGuid>2ace4744-c0c8-46b9-9d49-79c24e6eb7d1</webElementGuid>
+      <webElementGuid>8fd60562-632c-4e7c-9192-7cedf3fdff1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

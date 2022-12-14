@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>21177bc0-fa19-403d-a367-7a1d233adb7b</webElementGuid>
+      <webElementGuid>8cd8388f-603f-465c-88a4-5e839eb2518b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons icono-descarga</value>
-      <webElementGuid>b6e5fb4d-66bf-4c11-9452-e3d8668ab373</webElementGuid>
+      <webElementGuid>3c361831-f5db-4796-8957-5af7f8577b35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>get_app</value>
-      <webElementGuid>1ff918b8-28cf-434b-b7ce-5497dbe73bf9</webElementGuid>
+      <webElementGuid>57858da0-51d5-450d-be31-ad3bc65f6849</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell-descargar mat-cell cdk-column-descargar mat-column-descargar ng-star-inserted&quot;]/a[@id=&quot;a-descargar&quot;]/span[@class=&quot;material-icons icono-descarga&quot;]</value>
-      <webElementGuid>c80d81d1-763c-439b-981e-8e7c3ed9e55b</webElementGuid>
+      <webElementGuid>114be712-8df3-4f07-9c09-16b80889ac6e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='a-descargar']/span</value>
-      <webElementGuid>0a752fd0-e39e-41b9-9ce3-38f7fd5896c9</webElementGuid>
+      <webElementGuid>e932b955-378b-4a16-8ec5-5ba4e84a3375</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='remove_red_eye'])[3]/following::span[1]</value>
-      <webElementGuid>19e0381f-17e9-44c9-920d-d6000b52233b</webElementGuid>
+      <webElementGuid>94416c6f-d0f4-4f9e-bbe4-41f205e09f9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[1]/following::span[3]</value>
-      <webElementGuid>ae6eaddb-d264-4c9e-9b49-b9c6e9c47b28</webElementGuid>
+      <webElementGuid>639e1e6d-740b-49d1-bfd4-6437a32a940f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='share'])[2]/preceding::span[1]</value>
-      <webElementGuid>4cf7ee53-4db6-43ec-9979-eac0b6640245</webElementGuid>
+      <webElementGuid>5597e97e-eb79-48da-8d29-a3d9f4e80899</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='get_app']/parent::*</value>
-      <webElementGuid>7f0f2c51-6adf-411f-9a7a-ccd629f97d2d</webElementGuid>
+      <webElementGuid>bb16c95e-dd34-404f-a78a-76263f532188</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell[7]/a/span</value>
-      <webElementGuid>c680e5f5-de02-47fe-afb8-fc75aa1c1d3d</webElementGuid>
+      <webElementGuid>4e964809-3dba-4f07-bbf6-641943bccba8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'get_app' or . = 'get_app')]</value>
-      <webElementGuid>54e6f2b6-f580-4329-8b85-8ab841a71003</webElementGuid>
+      <webElementGuid>312d9119-6e55-4633-8d31-c61bde7a6c33</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

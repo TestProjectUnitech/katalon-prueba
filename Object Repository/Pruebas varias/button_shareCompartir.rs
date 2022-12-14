@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0c9c8a77-77c7-465b-8901-e9fa74b2d3b6</webElementGuid>
+      <webElementGuid>c542e045-be6d-4fda-8537-e93eda3911c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn boton-secundario btn-sm ml-2 etiqueta-estado</value>
-      <webElementGuid>4ed7d6b5-60ac-422d-8e47-ee56c4565d55</webElementGuid>
+      <webElementGuid>bcb17c36-6f6a-4d1e-87e9-90e3e7be1618</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>al-copyClipBoard</value>
-      <webElementGuid>23b854ac-0836-46df-a467-cf0c613637cb</webElementGuid>
+      <webElementGuid>0c112367-f226-4991-8d3a-aab0df705d6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Compartir</value>
-      <webElementGuid>9f2a9754-97b9-4dec-a345-121b7dac69c0</webElementGuid>
+      <webElementGuid>2ac8ef93-86e2-4441-abd5-646e1e97010b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>shareCompartir </value>
-      <webElementGuid>1f7a95df-a2c5-4f58-9eaa-2c4fef4dcdcf</webElementGuid>
+      <webElementGuid>57f2c873-dacd-47bf-a3f9-dbd16026a63f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-column-compartir mat-column-compartir ng-star-inserted&quot;]/button[@id=&quot;al-copyClipBoard&quot;]</value>
-      <webElementGuid>ab53a0da-2357-480e-ba09-7827e299235a</webElementGuid>
+      <webElementGuid>596e10e7-bd40-4038-b95a-b06cbd6e015c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@id='al-copyClipBoard'])[2]</value>
-      <webElementGuid>3c6a1508-60a6-4ac8-84d8-47c07c883ec1</webElementGuid>
+      <webElementGuid>88b3d0f4-b97e-4185-a8e0-f3fc16d88eb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-row/mat-cell[8]/button</value>
-      <webElementGuid>8806a1ce-c0f5-4dd1-9279-ade442268e97</webElementGuid>
+      <webElementGuid>e5a9e7ea-8417-4ff5-8981-81c7c30454b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='get_app'])[1]/following::button[1]</value>
-      <webElementGuid>7b83d14a-922c-4872-b2d8-71b7567d80c9</webElementGuid>
+      <webElementGuid>57e6779e-35e3-4df2-942f-86f88db81f72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='remove_red_eye'])[3]/following::button[1]</value>
-      <webElementGuid>5dbc9286-9fa2-48df-ac70-8f02068007e8</webElementGuid>
+      <webElementGuid>ef17b924-df56-47cf-9757-a4b7c1738f69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba.pdf'])[2]/preceding::button[1]</value>
-      <webElementGuid>a2921f38-6e52-4dde-8396-b7055fa20381</webElementGuid>
+      <webElementGuid>37d3c81f-44aa-4a22-be29-4bad34480e57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell[8]/button</value>
-      <webElementGuid>599aa7a6-c6fa-4ca2-952b-d5c98dfc10e3</webElementGuid>
+      <webElementGuid>0ad6be2c-31fb-4539-9f39-5c87515f9368</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'al-copyClipBoard' and @title = 'Compartir' and (text() = 'shareCompartir ' or . = 'shareCompartir ')]</value>
-      <webElementGuid>8904de65-a1de-461b-8ce9-594d29afff58</webElementGuid>
+      <webElementGuid>f93adadd-072c-4fc3-a111-797fc0272c8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

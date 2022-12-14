@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>strong</value>
-      <webElementGuid>3efb6ea1-d2eb-41de-a8c2-1135a33c918a</webElementGuid>
+      <webElementGuid>1cda605b-670d-4d72-bb4d-e20748557f45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Firma Digital </value>
-      <webElementGuid>cc18a4e9-2fd1-4dec-ad86-480cd88795c0</webElementGuid>
+      <webElementGuid>6e4c2738-7e74-4a83-b67d-66477bcb927e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-header-row[@class=&quot;mat-header-row mat-table-sticky ng-star-inserted&quot;]/mat-header-cell[@class=&quot;mat-cell mat-header-cell cdk-column-firmado mat-column-firmado ng-star-inserted&quot;]/strong[1]</value>
-      <webElementGuid>c328b06f-02f6-496f-8cc1-27ee14339d90</webElementGuid>
+      <webElementGuid>995b18bf-f8a1-4627-b48f-c5f105f51dd8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-header-row/mat-header-cell[5]/strong</value>
-      <webElementGuid>10823411-ddb6-4685-acda-e3b727d8f7fd</webElementGuid>
+      <webElementGuid>55520df1-6faf-461e-8500-d2ac703c0030</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nivel Acceso'])[1]/following::strong[1]</value>
-      <webElementGuid>efd19916-96a2-4c53-b630-3e6fe8feecaf</webElementGuid>
+      <webElementGuid>26a1e150-1e5e-4f10-99df-3988cd6a4c3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha'])[1]/following::strong[2]</value>
-      <webElementGuid>50a20507-888d-4778-87fe-a044efd295e4</webElementGuid>
+      <webElementGuid>15363d56-59db-42e4-a3bd-2fb7bb3819a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba.pdf'])[1]/preceding::strong[1]</value>
-      <webElementGuid>8c2ec833-1ac6-4c6d-bb94-9b334fb13343</webElementGuid>
+      <webElementGuid>fe1df6a4-b0aa-4bb1-983b-f30106f457ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IURIXQA, CAYT'])[1]/preceding::strong[1]</value>
-      <webElementGuid>a3adb85e-0339-46e2-9def-f2781b065386</webElementGuid>
+      <webElementGuid>db614a3f-d216-4b0b-87d4-cfa853fd5d7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Firma Digital']/parent::*</value>
-      <webElementGuid>e1a38e38-53a3-44a1-9874-393710cc3d87</webElementGuid>
+      <webElementGuid>0bf4e885-f5d6-4aec-bb73-9b9a7b70c565</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-header-cell[5]/strong</value>
-      <webElementGuid>f6b9ebea-91cb-4596-8812-e5d25ccb28c8</webElementGuid>
+      <webElementGuid>2f3e0305-6f6b-4f10-937b-38c595ffd80d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//strong[(text() = 'Firma Digital ' or . = 'Firma Digital ')]</value>
-      <webElementGuid>9eeae56f-7f58-48f3-b2af-3bac28b91487</webElementGuid>
+      <webElementGuid>0361840d-d6fd-4ad0-babf-401f5b310392</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

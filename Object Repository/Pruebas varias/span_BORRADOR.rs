@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8f7b1669-9dc8-44fa-bc93-0b2141018a41</webElementGuid>
+      <webElementGuid>6b9fb7a5-72c8-4c5d-8bde-fa65c1efda7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>etiqueta-detalle etiqueta-estado--firmada mr-2 ng-star-inserted</value>
-      <webElementGuid>a3fa35c6-018d-4533-9b05-bef855828f5a</webElementGuid>
+      <webElementGuid>3f67c568-f540-4213-a338-1990fe388053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>placement</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>8d01c42f-e555-496d-a409-90c83d36f006</webElementGuid>
+      <webElementGuid>978ea07d-0f2c-4328-be9e-eb97663789e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>popovertitle</name>
       <type>Main</type>
       <value>Información</value>
-      <webElementGuid>1418bfcc-5a8b-482e-b128-bdb2b2677089</webElementGuid>
+      <webElementGuid>d297e961-8746-4439-92d5-90487409f122</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>triggers</name>
       <type>Main</type>
       <value>mouseenter:mouseleave</value>
-      <webElementGuid>372bd812-e8cb-46c9-8ce6-4a364b94f528</webElementGuid>
+      <webElementGuid>1dddf97a-5ceb-4654-8075-3486ff0b2fcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>ngb-popover-0</value>
-      <webElementGuid>0def57ea-2728-4117-8dc5-da0d5b0b7319</webElementGuid>
+      <webElementGuid>50af0394-79be-4eb9-bff4-2f53a013c715</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value> BORRADOR </value>
-      <webElementGuid>932bbfd0-3705-476d-9e0e-f00a94e8c88b</webElementGuid>
+      <webElementGuid>7b5825c6-77bc-4bd8-ad77-a363f52839ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;contenedor alto-pdf-viewer ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-auto mr-auto contenedor-pagina-etiquetas mt-2 mb-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;etiqueta-detalle-contenedor mb-3&quot;]/span[@class=&quot;etiqueta-detalle etiqueta-estado--firmada mr-2 ng-star-inserted&quot;]</value>
-      <webElementGuid>b84208f1-1066-4073-b5d6-ae79cdf3cf9b</webElementGuid>
+      <webElementGuid>5e8cd6ba-463c-4ca4-a3a8-443a26bd6980</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='create'])[1]/following::span[1]</value>
-      <webElementGuid>5ae5a396-020e-4e74-8f68-44bc3a6f45f1</webElementGuid>
+      <webElementGuid>b0493c37-d1b5-4c69-9c42-c3ff2c0540ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Información'])[1]/preceding::span[1]</value>
-      <webElementGuid>41b3bd46-2588-438c-a832-cff1ec3618bf</webElementGuid>
+      <webElementGuid>dca45e16-3970-44bf-a2aa-25a8c92e082f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='BORRADOR']/parent::*</value>
-      <webElementGuid>e87eda12-b739-4ba6-994e-c8de5ab9d11d</webElementGuid>
+      <webElementGuid>9768ced4-4c0c-44e9-aaf4-ffde72d1e3e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div[2]/span</value>
-      <webElementGuid>9960e648-1bab-4dce-8ab3-23add1258f78</webElementGuid>
+      <webElementGuid>4f57144e-87b0-462b-b990-262c90358674</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' BORRADOR ' or . = ' BORRADOR ')]</value>
-      <webElementGuid>f24a3e10-bdc1-4344-a49f-25f52e287540</webElementGuid>
+      <webElementGuid>7a671751-469a-45e0-8c58-4ca99f6b96b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
