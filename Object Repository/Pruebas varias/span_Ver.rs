@@ -6,12 +6,12 @@
    <elementGuidId>f5fe70e7-2791-4fc0-8bdf-906e87fac2b3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[. = 'Ver']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.mat-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[. = 'Ver']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f9335980-f6bc-45b7-9232-0704cd868990</webElementGuid>
+      <webElementGuid>5bfd93e7-2bcd-4129-9ef0-27c48bb0f069</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>2be335b8-8015-4edd-a5a9-bbb111525b6d</webElementGuid>
+      <webElementGuid>080b6085-2973-477e-98e8-f22232a43cc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ver</value>
-      <webElementGuid>8687654b-9773-443e-8c54-759705c2a13d</webElementGuid>
+      <webElementGuid>5ddf1314-8767-4823-965a-637686b77a74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-overlay-3&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c50-64 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]/simple-snack-bar[@class=&quot;mat-simple-snackbar ng-star-inserted&quot;]/div[@class=&quot;mat-simple-snackbar-action ng-star-inserted&quot;]/button[@class=&quot;mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>c3b0dae8-678a-49e7-980c-035bbd2a91f2</webElementGuid>
+      <webElementGuid>ec17979a-5bc7-4478-bc3d-3cf8f3287007</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-3']/snack-bar-container/simple-snack-bar/div/button/span</value>
-      <webElementGuid>5897c85f-f60a-471d-b8f5-79f819afeb28</webElementGuid>
+      <webElementGuid>fcdbdad3-4f6d-4863-899c-54253d6df159</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Se ha creado Actuación 43566/2022'])[2]/following::span[1]</value>
-      <webElementGuid>d4063356-50ed-4411-a1e1-4f26450d0d3b</webElementGuid>
+      <webElementGuid>9a47a485-ab7d-4206-963f-5ecba1f1a2e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::span[2]</value>
-      <webElementGuid>66ab82f1-b239-4c68-b71d-d9e249294267</webElementGuid>
+      <webElementGuid>0dd66fca-84cf-49de-bb43-82f29a19e920</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ver']/parent::*</value>
-      <webElementGuid>901792a9-ef60-4384-9eab-7670eea5741a</webElementGuid>
+      <webElementGuid>69507239-a2fa-4ac9-8bf0-257bd426cd41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//simple-snack-bar/div/button/span</value>
-      <webElementGuid>6ad257d3-5ef6-4272-b69a-cef5c9c6cce2</webElementGuid>
+      <webElementGuid>05829db2-0979-48d3-bd67-2a6f36aebb57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Ver' or . = 'Ver')]</value>
-      <webElementGuid>8aff92ad-4c2a-4fea-8b72-b531830d13fc</webElementGuid>
+      <webElementGuid>8ee2bef4-119f-4a88-88a4-5558d72e56e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

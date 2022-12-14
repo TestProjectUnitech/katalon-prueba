@@ -6,12 +6,12 @@
    <elementGuidId>cbc591be-f65d-41c7-b012-1cf39e35bcc4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(.,'PS103')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#mab-seleccionarModelo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(.,'PS103')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bff7105f-0063-451b-8080-cb21b133c3ef</webElementGuid>
+      <webElementGuid>fc7e0a0d-a5d9-40b6-8aa7-8d1719b4ea42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>4475068d-5d9b-4648-bff5-53694de5ceef</webElementGuid>
+      <webElementGuid>57175448-ee12-4a39-8731-a84e00ce610b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mab-seleccionarModelo</value>
-      <webElementGuid>5853282e-f01b-4583-a9d0-9fcd5150539e</webElementGuid>
+      <webElementGuid>ace11b3a-84c4-44e5-b95b-f38bf3b7b0f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-star-inserted</value>
-      <webElementGuid>c30633b8-24f9-4046-b027-7ce1a1279d70</webElementGuid>
+      <webElementGuid>cabc6c93-247c-4dab-965f-fcd5fa66f951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>PS103</value>
-      <webElementGuid>5d812496-dc92-4047-9299-5282bd555fcf</webElementGuid>
+      <webElementGuid>3dd080fb-e832-481a-b6e9-bb93219bd59a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mab-seleccionarModelo&quot;)</value>
-      <webElementGuid>6bd6756b-c1bb-4ad8-84a6-f0066e146ab3</webElementGuid>
+      <webElementGuid>8b1d8ee2-5e34-4fbb-8924-e1d2298bf347</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='mab-seleccionarModelo']</value>
-      <webElementGuid>fd6f989a-8139-48a6-a59f-fb7d50b9eb0a</webElementGuid>
+      <webElementGuid>8bafbf5c-4d0d-45a8-bc6d-3c898e63840d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-cell[@id='mab-codigo']/a</value>
-      <webElementGuid>3b9278ca-ae9a-4c71-86b1-a374b20d5f20</webElementGuid>
+      <webElementGuid>c33e4c31-88ce-4b32-b158-2ab77710eb52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'PS103')]</value>
-      <webElementGuid>dcacfb7a-b946-44a9-b899-1e055f74b6b9</webElementGuid>
+      <webElementGuid>927eba14-f496-47f0-b2b6-215bafe3348d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vista Previa'])[1]/following::a[1]</value>
-      <webElementGuid>02eb2aad-82d6-4a81-a076-d0f5fbc0def9</webElementGuid>
+      <webElementGuid>c36dd9ed-7509-4b18-b133-7b64b21bf47e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Descripción'])[1]/following::a[1]</value>
-      <webElementGuid>a3e0a331-06b2-4422-91fc-fecab197f695</webElementGuid>
+      <webElementGuid>0052cdff-a8cc-4d9e-afa0-1ac570c7a2fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ORDEN - ORDEN DE ALLANAMIENTO'])[1]/preceding::a[1]</value>
-      <webElementGuid>41a2cc35-3bb9-4176-bfd5-5ffcadf90c46</webElementGuid>
+      <webElementGuid>abc506c9-81ad-4f00-a463-0b175179958e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='remove_red_eye'])[1]/preceding::a[1]</value>
-      <webElementGuid>af576e91-ff73-45fe-bdfd-12e7fed24ce2</webElementGuid>
+      <webElementGuid>71730acd-31f4-44d6-853f-d6c228a8bae2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='PS103']/parent::*</value>
-      <webElementGuid>8769000b-dfd8-4683-89d5-abdecf9aa418</webElementGuid>
+      <webElementGuid>0e636d4d-652e-4a05-a0f4-efafee448b9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0)')])[2]</value>
-      <webElementGuid>d7c3c237-7ae7-43e7-97f3-5bd7faca456f</webElementGuid>
+      <webElementGuid>8c8e0dd6-4748-4f26-a93f-a2ac4b7eaad5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell/a</value>
-      <webElementGuid>63a178b0-76d4-4422-a1d0-0099de00eaab</webElementGuid>
+      <webElementGuid>550ff17e-5731-43a9-84a3-38b3a9fcee7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0)' and @id = 'mab-seleccionarModelo' and (text() = 'PS103' or . = 'PS103')]</value>
-      <webElementGuid>415a9cb5-93e2-4a84-9cb6-7ac9a857b12c</webElementGuid>
+      <webElementGuid>a8d2e38c-975f-4de2-a309-d930f1310bd0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

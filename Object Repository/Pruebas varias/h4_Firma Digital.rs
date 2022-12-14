@@ -6,12 +6,12 @@
    <elementGuidId>7a9d54eb-8ede-4c3d-a014-b3e23c0e3bbd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//h4[@id='ma-titulo']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#ma-titulo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@id='ma-titulo']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
-      <webElementGuid>f200ed51-f0cf-4890-b0de-6f8718d7f50c</webElementGuid>
+      <webElementGuid>90f0b013-9f6b-4c19-9b43-012e70dfce83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ma-titulo</value>
-      <webElementGuid>93605a39-59fe-464c-b4b7-330b32765bf7</webElementGuid>
+      <webElementGuid>b5545282-44d5-433d-9235-f9cec472e18c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Firma Digital</value>
-      <webElementGuid>d6d8ad9f-0c61-4e48-98a5-42fc2ff48676</webElementGuid>
+      <webElementGuid>bec6cc07-5e54-4b6f-bccf-ec2a7b603d69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ma-titulo&quot;)</value>
-      <webElementGuid>8609a4ab-826f-4a11-8407-70207d704893</webElementGuid>
+      <webElementGuid>70825075-0f6d-496c-838d-f68de5ae0592</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h4[@id='ma-titulo']</value>
-      <webElementGuid>372e4fd8-b03f-4b8c-99ae-462bb539f583</webElementGuid>
+      <webElementGuid>a87f1124-195d-4994-b79b-3b0e68aa9bcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='DialogoFdaComponent']/modal-accion/div/iol-dialogo-fda/div/div/h4</value>
-      <webElementGuid>c4780eb5-5804-492e-86a6-9d78e703c5d8</webElementGuid>
+      <webElementGuid>127308b6-ae39-4511-a224-a77056b8a346</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::h4[1]</value>
-      <webElementGuid>4949a2e6-64cd-4c4e-9533-16ef0a1fa6ea</webElementGuid>
+      <webElementGuid>bb06a8f2-441b-45f1-bf96-e1fca96c6153</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ma-titulo', '&quot;', ')')])[1]/following::h4[1]</value>
-      <webElementGuid>d0ace2bb-3123-4683-b771-32df5580b68f</webElementGuid>
+      <webElementGuid>b1b3ff54-8470-4311-9a5f-c7506e65b821</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EXP J-01-00009241-6/2021-0'])[1]/preceding::h4[1]</value>
-      <webElementGuid>da208afa-b663-4fcf-9b57-01c08b45009f</webElementGuid>
+      <webElementGuid>d336c9e4-93c9-4d96-a6a1-93907378cd3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Actuación: 43566/2022'])[1]/preceding::h4[1]</value>
-      <webElementGuid>74b72c22-5817-4e10-af11-892e323e7e0f</webElementGuid>
+      <webElementGuid>170c01cb-91e4-4d8b-98d0-b6bab1025c24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Firma Digital']/parent::*</value>
-      <webElementGuid>b87cf82a-0b13-4fe0-968c-8b138367e996</webElementGuid>
+      <webElementGuid>d4ad5506-7837-48e2-9625-ffef6b8cf31c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h4</value>
-      <webElementGuid>25f6e402-f59e-426f-b267-5e03d956c80b</webElementGuid>
+      <webElementGuid>a53b48a0-9361-4c24-8617-72b43061a2dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[@id = 'ma-titulo' and (text() = 'Firma Digital' or . = 'Firma Digital')]</value>
-      <webElementGuid>dcfc885c-545f-4d37-b60d-89281b44d2f0</webElementGuid>
+      <webElementGuid>456de697-d6cf-4fc6-8a65-bb3f5d5d0c28</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

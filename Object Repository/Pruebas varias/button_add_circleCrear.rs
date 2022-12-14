@@ -6,12 +6,12 @@
    <elementGuidId>a88dca55-d280-4ffc-bceb-91261810230d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='al-crear']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#al-crear</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='al-crear']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>82ccc277-c50f-462e-950f-a0cf6365cfb9</webElementGuid>
+      <webElementGuid>9dee6292-67a7-4e22-9272-378eb9a693de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>12e47eb3-216d-4024-84f0-f8c2b154abb1</webElementGuid>
+      <webElementGuid>939a5444-a365-4427-b9c4-983a4ce41bdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>628f2285-de81-44ec-a1bd-dc1bc054eb43</webElementGuid>
+      <webElementGuid>2cf2125b-3622-4572-81a9-aa50276d4ead</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-danger btn-sm mr-2 dropdown-toggle btn-crear--mobile</value>
-      <webElementGuid>a79146b4-8c3f-4bd3-bf48-e45eb5599849</webElementGuid>
+      <webElementGuid>645b69da-320f-4e6f-84ff-6cfd5d8c339b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>96cfac68-7675-4f82-b60a-ee37c07571ca</webElementGuid>
+      <webElementGuid>6e6be249-90a2-4bc3-bda1-23c4f2aca0d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>al-crear</value>
-      <webElementGuid>28461c6e-cc7b-47be-96c6-4ca3eec89efa</webElementGuid>
+      <webElementGuid>b1870792-9d14-4dac-ad4c-9832b08cdf02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Crear</value>
-      <webElementGuid>48a5bc95-7e5a-441d-97b6-e394d4e3f5cc</webElementGuid>
+      <webElementGuid>b78deaad-0562-4b43-a97b-dbd2eb5f0481</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>57620750-93c9-4fe2-8d1d-aa646de04374</webElementGuid>
+      <webElementGuid>923829e3-16db-428e-8ef8-37eb30cc8e26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add_circleCrear</value>
-      <webElementGuid>8458003a-3918-4760-a4dc-b3d3b0d5c1fb</webElementGuid>
+      <webElementGuid>adaae512-b57c-42a6-a811-bab67c4a6d8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;al-opcionSecureForm&quot;)/div[@class=&quot;secContenedor padding-lista-grilla ng-star-inserted&quot;]/div[@class=&quot;row subHeader_espacio-iconos margin-header&quot;]/div[@class=&quot;secContenedor__botones float-right&quot;]/div[@class=&quot;btn-group espacio-left_btn&quot;]/div[1]/button[@id=&quot;al-crear&quot;]</value>
-      <webElementGuid>bae3f819-27aa-40e3-9dba-b4f6d52c70fb</webElementGuid>
+      <webElementGuid>ed015a8f-15fc-4504-92c7-9fd8f658d3bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='al-crear']</value>
-      <webElementGuid>07e4d7f1-1e9c-4f8e-92f0-d062e4213e4a</webElementGuid>
+      <webElementGuid>0930d498-344b-4e98-937f-0cfc7ac804c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='al-opcionSecureForm']/div/div[3]/div[2]/div/div/button</value>
-      <webElementGuid>2afa352f-7e05-4b09-95a7-8d2d1720fab5</webElementGuid>
+      <webElementGuid>eb881483-c998-42a4-98f9-2d702a39e83d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NES, RAM SOBRE OTROS PROCESOS SUMARISIMOS'])[1]/following::button[1]</value>
-      <webElementGuid>8a7ddb74-0be9-4330-b1b5-4e008fcea180</webElementGuid>
+      <webElementGuid>fd213c8a-9118-4422-869d-3b3dc8e89a25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Expediente 9241/2021-0 EXP J-01-00009241-6/2021-0'])[1]/following::button[1]</value>
-      <webElementGuid>b530c331-d612-435e-91e6-8b45c6abe21c</webElementGuid>
+      <webElementGuid>a258486d-7242-4dee-91ed-1df5f8e9083b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/button</value>
-      <webElementGuid>99d16225-5dd7-4b7f-a4a3-29d9989b1a9f</webElementGuid>
+      <webElementGuid>14ef7085-471b-4e5a-9bfd-08505ab5f59f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'al-crear' and @title = 'Crear' and @type = 'button' and (text() = 'add_circleCrear' or . = 'add_circleCrear')]</value>
-      <webElementGuid>6030579f-bc06-4494-88e8-ecc9e500d67c</webElementGuid>
+      <webElementGuid>793c4657-4650-4336-bc0d-ef14e7c77ca4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

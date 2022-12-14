@@ -6,12 +6,12 @@
    <elementGuidId>57d60a14-cb71-453a-a1e1-f83258bc483e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='attach_file'])[1]/following::span[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.etiqueta-estado--firmada.mr-2.etiqueta-detalle-valida.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='attach_file'])[1]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8fb1acd2-bd82-421b-af18-6bd9c098eb60</webElementGuid>
+      <webElementGuid>7300e9f2-d01d-4d8f-b4c2-89c3748392b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>etiqueta-estado--firmada mr-2 etiqueta-detalle-valida ng-star-inserted</value>
-      <webElementGuid>b97da556-d2ed-4d22-bc1c-3a23ea30985c</webElementGuid>
+      <webElementGuid>54919e89-5537-43a1-90aa-fa42d76aa98f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>placement</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>b596724c-761b-41b6-b50b-f2e45ffc7b15</webElementGuid>
+      <webElementGuid>36b28d04-8222-4a53-8abb-b23ba4ae9711</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>popovertitle</name>
       <type>Main</type>
       <value>Información de la firma</value>
-      <webElementGuid>2b6a6a15-1fea-4608-a004-3f9735cb2b2c</webElementGuid>
+      <webElementGuid>a9153c6b-6b24-429d-a8a1-0484e1bb0cf3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>triggers</name>
       <type>Main</type>
       <value>mouseenter:mouseleave</value>
-      <webElementGuid>141c0ff7-4370-4b61-8599-e97087ec419d</webElementGuid>
+      <webElementGuid>10c163dd-6ecf-4cbd-b8af-d14c24194c7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>ngb-popover-5</value>
-      <webElementGuid>c98353a7-5a0d-4f2f-8d5c-b53a934bd708</webElementGuid>
+      <webElementGuid>fa973d42-010a-4b78-9e79-ff0d04b529dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value> FIRMADA </value>
-      <webElementGuid>e20fb35a-ffe6-445f-8bcc-d967d4c42a0a</webElementGuid>
+      <webElementGuid>fc57d94e-bde7-4c64-b36b-674bac8035eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;contenedor alto-pdf-viewer ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-auto mr-auto contenedor-pagina-etiquetas mt-2 mb-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;etiqueta-detalle-contenedor mb-3&quot;]/span[@class=&quot;etiqueta-estado--firmada mr-2 etiqueta-detalle-valida ng-star-inserted&quot;]</value>
-      <webElementGuid>de10d934-2749-4540-bbd2-0417bfd76656</webElementGuid>
+      <webElementGuid>581406e8-89fc-447a-86c5-b2b6088a9a87</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='attach_file'])[1]/following::span[2]</value>
-      <webElementGuid>341f6254-9dc9-4e14-b8f9-4b2e4384e761</webElementGuid>
+      <webElementGuid>77685668-c5ec-4f9f-a103-5a8285e4470f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='create'])[1]/following::span[2]</value>
-      <webElementGuid>28f9a7e6-db43-4092-911b-d9fafe79942b</webElementGuid>
+      <webElementGuid>7e61dc57-b0b1-40e6-8d5b-fc82af4550c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Información de la firma'])[1]/preceding::span[1]</value>
-      <webElementGuid>d8d7fabf-80a9-4507-aef4-45ef0c61b787</webElementGuid>
+      <webElementGuid>e964f67d-fb89-4c96-8286-d04d67c7d1f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='FIRMADA']/parent::*</value>
-      <webElementGuid>a79f4a92-5d2d-490b-99b2-84ba34cf8b9d</webElementGuid>
+      <webElementGuid>4cafaae7-eb01-45e4-8a4d-ee4b97dcf7b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div[2]/span</value>
-      <webElementGuid>312f3a2e-8a41-40ca-adc3-3bec23e613fe</webElementGuid>
+      <webElementGuid>4b446baf-2853-4abb-b3be-724b695ab9cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' FIRMADA ' or . = ' FIRMADA ')]</value>
-      <webElementGuid>62378119-d304-43d3-9e42-c791b74b9484</webElementGuid>
+      <webElementGuid>1e6b03be-2c03-49da-8255-ce36a833913e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

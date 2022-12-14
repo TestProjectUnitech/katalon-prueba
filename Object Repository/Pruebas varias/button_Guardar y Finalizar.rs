@@ -6,12 +6,12 @@
    <elementGuidId>10cd14ea-7271-4324-81b1-2af5cc67075e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='na-siguienteNotificar']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#na-siguienteNotificar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='na-siguienteNotificar']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1cca0445-4461-48a5-8a0b-ffb14bf0b6d0</webElementGuid>
+      <webElementGuid>5e2991d6-f87e-42b1-8649-90a671d7dfa5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn datos-iniciales__boton--siguiente mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>a1aa4772-5186-40e6-97f4-f520d04b36c4</webElementGuid>
+      <webElementGuid>f7ac5f27-49eb-4f2b-aa43-87e44ac73327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>na-siguienteNotificar</value>
-      <webElementGuid>daf5177b-6e19-4cee-8034-e0929d557ca0</webElementGuid>
+      <webElementGuid>04bffa66-ebfd-44d3-bcb9-18c62515d5d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3b43efad-5e37-4d8f-8182-799e88470b0a</webElementGuid>
+      <webElementGuid>53535a86-81b1-4c4b-86da-7847ffa778a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Guardar y Finalizar </value>
-      <webElementGuid>c6cbf5e9-820e-40f7-b193-4e7bc0abc040</webElementGuid>
+      <webElementGuid>510c1848-4b33-49d7-bbd4-258a48562c72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;na-siguienteNotificar&quot;)</value>
-      <webElementGuid>b9cda951-5c74-41b2-8188-8bf9ef711806</webElementGuid>
+      <webElementGuid>2b97e253-55b1-4ebf-9b24-3b501c6fb695</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='na-siguienteNotificar']</value>
-      <webElementGuid>728bb3c2-b150-46be-b377-5434ab7c60ff</webElementGuid>
+      <webElementGuid>348947f5-9d5b-4a7c-9d2c-d6a3aa0f02d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-0-1']/div[2]/button[2]</value>
-      <webElementGuid>7f5de649-2fe4-42f0-871d-6a3c9a528458</webElementGuid>
+      <webElementGuid>651d7379-639c-4de8-a403-8f5cbe812338</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/following::button[1]</value>
-      <webElementGuid>25256e16-8947-4cb7-b0ea-4eb60c1df402</webElementGuid>
+      <webElementGuid>58a6ef15-1a57-4cff-a6f5-2cd564ea785e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='La suma total de los archivos a subir es de : 0.03MB'])[1]/following::button[2]</value>
-      <webElementGuid>12e12cbf-4519-49eb-bead-c346d6bacb3e</webElementGuid>
+      <webElementGuid>6c4ae209-4db8-4603-bd44-c9103034d4b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_out'])[1]/preceding::button[1]</value>
-      <webElementGuid>22f1bce9-4acd-4c62-a1de-f5ddb9cc2ef4</webElementGuid>
+      <webElementGuid>aaf9ca49-3b63-4dbf-872c-56eb34d92326</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button[2]</value>
-      <webElementGuid>d55b70ef-063c-4116-8ee7-0706c4b2a425</webElementGuid>
+      <webElementGuid>76dda869-2ea0-4dbe-87da-b452e7c11440</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'na-siguienteNotificar' and @type = 'button' and (text() = ' Guardar y Finalizar ' or . = ' Guardar y Finalizar ')]</value>
-      <webElementGuid>3fbd3b86-13df-452f-b82d-6841c9b937f6</webElementGuid>
+      <webElementGuid>8e25907c-213b-44b4-a964-33eb0052f4a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

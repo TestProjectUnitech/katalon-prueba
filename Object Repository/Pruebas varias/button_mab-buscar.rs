@@ -6,12 +6,12 @@
    <elementGuidId>14a6f874-bf27-494e-99db-4bd2376c362d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='mab-buscar']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#di-buscarModelo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='mab-buscar']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ba16d06b-06a5-4b18-946d-dedcb3ae3f52</webElementGuid>
+      <webElementGuid>ff8a806b-66d3-42f9-a89e-b552ce389d52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn boton-buscar-modelo </value>
-      <webElementGuid>bbd52883-e402-4bce-a550-16601590f3e4</webElementGuid>
+      <webElementGuid>d773e68d-3570-4fb7-a6b4-94c22ed6de3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>di-buscarModelo</value>
-      <webElementGuid>c3294ada-7f49-48cd-8cf5-11eeaad8d59d</webElementGuid>
+      <webElementGuid>d3be0b27-d549-457e-811c-39769c3927a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Buscar Modelo</value>
-      <webElementGuid>d20f57d3-5495-4984-b5b8-0f26bd21a75e</webElementGuid>
+      <webElementGuid>41449634-7b57-4bac-97d2-15aab21c2daf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>49a42273-c969-4dc4-9c1a-f200eb3242a6</webElementGuid>
+      <webElementGuid>0ae06f80-f3ed-406c-9157-5cb34d6a6a45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;di-buscarModelo&quot;)</value>
-      <webElementGuid>b437ac01-a9b1-4b7f-b5cc-dd52d6237fa6</webElementGuid>
+      <webElementGuid>d927f078-ab86-47c4-ba9a-4eb3c7f0d2f5</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

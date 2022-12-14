@@ -6,12 +6,12 @@
    <elementGuidId>82311bfc-ca94-49fd-b183-efef76948a90</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='al-crearActuacion']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#al-crearActuacion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='al-crearActuacion']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>21ed7d1c-1358-4470-bfd4-04357f44ad1b</webElementGuid>
+      <webElementGuid>06c8453e-8274-4137-adbc-22c80a43d996</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item </value>
-      <webElementGuid>f3cf1876-3999-4048-b6aa-1530d093a1a6</webElementGuid>
+      <webElementGuid>8f19b7cb-b41d-4cab-b662-a2efff11a51d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>al-crearActuacion</value>
-      <webElementGuid>089bdcb4-87fc-49eb-a58b-6a901a3eb112</webElementGuid>
+      <webElementGuid>bfa22b67-e92e-41d3-96d2-442157f07ccd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Crear Actuación</value>
-      <webElementGuid>47702516-2181-42bd-81da-5136e40b5273</webElementGuid>
+      <webElementGuid>c011342c-3e49-41ab-8ab2-95fb62a1033a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Crear actuación </value>
-      <webElementGuid>7f718e6e-17a8-4eb8-9215-84850bfe349a</webElementGuid>
+      <webElementGuid>f56047ee-95c0-4083-b6e0-b5fdb8868aa5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;al-opcionSecureForm&quot;)/div[@class=&quot;secContenedor padding-lista-grilla ng-star-inserted&quot;]/div[@class=&quot;row subHeader_espacio-iconos margin-header&quot;]/div[@class=&quot;secContenedor__botones float-right&quot;]/div[@class=&quot;btn-group espacio-left_btn&quot;]/div[@class=&quot;show&quot;]/div[@class=&quot;button-menu-estilo&quot;]/ul[@id=&quot;al-dropdown-menu&quot;]/li[@class=&quot;dropwon-item-size ng-star-inserted&quot;]/a[@id=&quot;al-crearActuacion&quot;]</value>
-      <webElementGuid>5f78bb98-a7c4-49d9-a7b6-15bb12c9d83f</webElementGuid>
+      <webElementGuid>9d5c257c-19eb-431f-98b1-d3b71ab0ace0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='al-crearActuacion']</value>
-      <webElementGuid>c84ecd8a-8cd1-48f3-80cf-4ae95e553e50</webElementGuid>
+      <webElementGuid>1c8369b5-5230-44d4-86af-272905875635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='al-dropdown-menu']/li/a</value>
-      <webElementGuid>a16c3525-d156-47bb-8a81-5eb9f008f46f</webElementGuid>
+      <webElementGuid>1632c53c-7b19-466d-9ec7-a64c86871b49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Crear actuación')]</value>
-      <webElementGuid>f100edc2-4e61-4ea7-b14a-cef0191ae59d</webElementGuid>
+      <webElementGuid>eff7a1bf-36a7-4a89-bf01-a6a04e4d7234</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear'])[1]/following::a[1]</value>
-      <webElementGuid>7cfdb874-e208-4860-bbe9-ea361bc96cdc</webElementGuid>
+      <webElementGuid>cdd8a578-4561-479b-bdbe-c238f6e13dde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='add_circle'])[1]/following::a[1]</value>
-      <webElementGuid>4ca46712-cdf6-4164-9e7d-8f9fca97b59b</webElementGuid>
+      <webElementGuid>b3a6fabf-8599-41fe-a5ba-e3761a2ef6c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear cédula de notificación'])[1]/preceding::a[1]</value>
-      <webElementGuid>738f516f-b68c-46cc-b0c9-252cb0ce6664</webElementGuid>
+      <webElementGuid>0649b203-3f75-4566-9116-79f1f12f3684</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear lote'])[1]/preceding::a[2]</value>
-      <webElementGuid>f4b912af-03fe-4f47-8308-963c198f5d57</webElementGuid>
+      <webElementGuid>17ba8633-6181-4ee0-b2e3-44f99c8201db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Crear actuación']/parent::*</value>
-      <webElementGuid>d6fceb12-46c7-44ba-8045-11ee0b811954</webElementGuid>
+      <webElementGuid>3b857f6e-0e76-4438-bdc1-3ddb3ea41950</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>ba08cf6c-255e-4d9e-be7d-4911eb66bd2d</webElementGuid>
+      <webElementGuid>90a486fa-dd50-4553-b29b-e9c9e62c3eed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'al-crearActuacion' and @title = 'Crear Actuación' and (text() = ' Crear actuación ' or . = ' Crear actuación ')]</value>
-      <webElementGuid>87fc8d1b-cc4c-4d74-9a0c-857951953597</webElementGuid>
+      <webElementGuid>a7323138-e593-4b98-b99b-0db0841fa909</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

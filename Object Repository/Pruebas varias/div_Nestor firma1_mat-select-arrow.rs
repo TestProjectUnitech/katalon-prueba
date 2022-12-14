@@ -6,12 +6,12 @@
    <elementGuidId>5f8610a6-c4a9-4ee0-801b-8f9be1c5fd46</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-select[@id='dfda-certificado']/div/div[2]/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.mat-select-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='dfda-certificado']/div/div[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2a7f0960-d65e-406c-afa1-76ea95ad605c</webElementGuid>
+      <webElementGuid>f59ba09c-5aaa-471f-82b4-e642789b25bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-select-arrow</value>
-      <webElementGuid>43343221-230e-48af-8063-539ece2adada</webElementGuid>
+      <webElementGuid>40793209-10bf-4887-a237-d4c306a89893</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dfda-certificado&quot;)/div[@class=&quot;mat-select-trigger&quot;]/div[@class=&quot;mat-select-arrow-wrapper&quot;]/div[@class=&quot;mat-select-arrow&quot;]</value>
-      <webElementGuid>64e8207a-d8f1-4645-bc3d-4b55ae18b429</webElementGuid>
+      <webElementGuid>8419386f-aad9-44ca-aa0e-3ccab92df95f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='dfda-certificado']/div/div[2]/div</value>
-      <webElementGuid>7b2ad020-8e27-4a84-bd2f-65206640255d</webElementGuid>
+      <webElementGuid>2ab2019d-483b-455b-ab12-2c48f3e98032</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select/div/div[2]/div</value>
-      <webElementGuid>168eefd4-af29-4f6d-8dbf-c906dd443978</webElementGuid>
+      <webElementGuid>36817657-c5f8-479c-8bd7-2d1ad7099f71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

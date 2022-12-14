@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_CREAR ACTUACIN</name>
+   <name>span_more_vert</name>
    <tag></tag>
-   <elementGuidId>26f17f3f-f1f2-473b-afa2-8abf87b0dce2</elementGuidId>
+   <elementGuidId>f2192a81-ba8d-46d7-9f53-4661ec27cb7e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.titulo_crearAct.ng-star-inserted</value>
+         <value>span.material-icons.secContenedor__botones--menu</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_backspace'])[1]/following::span[1]</value>
+         <value>//button[@id='al-btnGroupDrop1']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1d8c719d-42c9-44d7-86c5-f391ed223e92</webElementGuid>
+      <webElementGuid>9e4905f4-46ef-4389-b0a1-85eb3950a0da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>titulo_crearAct ng-star-inserted</value>
-      <webElementGuid>da553e6c-df79-47a3-9d9b-861753a86fe5</webElementGuid>
+      <value>material-icons secContenedor__botones--menu</value>
+      <webElementGuid>4f9fac8d-83a6-49ed-8e34-6f1b1c7030e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>CREAR ACTUACIÓN </value>
-      <webElementGuid>38fb4de5-3473-4df9-a32c-a295de0b3402</webElementGuid>
+      <value>more_vert</value>
+      <webElementGuid>86712739-8d28-4e15-a2d0-dbeaa51e758e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid modal-body mt-3 secContent__nueva-actuacion ng-star-inserted&quot;]/div[1]/span[@class=&quot;titulo_crearAct ng-star-inserted&quot;]</value>
-      <webElementGuid>c9ce56cf-b3a4-47a8-8f4c-e3a18a9a43e7</webElementGuid>
+      <value>id(&quot;al-btnGroupDrop1&quot;)/span[@class=&quot;material-icons secContenedor__botones--menu&quot;]</value>
+      <webElementGuid>c493ac00-f565-497e-8b97-fd05dcb4371b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_backspace'])[1]/following::span[1]</value>
-      <webElementGuid>851e3271-1f21-4ec7-b55e-8bda2c707fac</webElementGuid>
+      <value>//button[@id='al-btnGroupDrop1']/span</value>
+      <webElementGuid>6e5f7d62-e1c7-44ed-8960-ef2998837e88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='article'])[1]/following::span[2]</value>
-      <webElementGuid>6e6a154d-0343-42b7-95bd-ec1a53221195</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R35 - RESOLUCION - HABILITACION DE LA INSTANCIA'])[1]/following::span[2]</value>
+      <webElementGuid>5100deec-7ed7-41a2-bdcc-e4664ceffdd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Cómo Crear Actuación?'])[1]/preceding::span[2]</value>
-      <webElementGuid>f9d05e80-48b1-4b28-af1f-eb9b17fc2bbc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='article'])[1]/following::span[3]</value>
+      <webElementGuid>7223218c-2c27-4fdf-b716-c2e68969d91c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegir Modelo'])[1]/preceding::span[3]</value>
-      <webElementGuid>cc0bf1e1-2d51-4642-bc43-a96992cfd390</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver Auditoría'])[1]/preceding::span[1]</value>
+      <webElementGuid>aa1e108a-83e2-424b-b24e-43455c267026</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='CREAR ACTUACIÓN']/parent::*</value>
-      <webElementGuid>e9dfa239-3d6b-41dd-b857-3b18f625ef08</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar Actuación'])[1]/preceding::span[1]</value>
+      <webElementGuid>5fc05de3-f4c7-434f-a93a-fce5945fbe85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='more_vert']/parent::*</value>
+      <webElementGuid>3cd95642-3a0a-49b3-8905-0e10fd1a017b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/span</value>
-      <webElementGuid>065abe22-f245-48e3-952b-9649f707dfa7</webElementGuid>
+      <value>//div[2]/span/button/span</value>
+      <webElementGuid>ed7b8436-c1be-4299-855f-4c32da12c57c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'CREAR ACTUACIÓN ' or . = 'CREAR ACTUACIÓN ')]</value>
-      <webElementGuid>623cf8ef-d90b-403a-b784-851c3bcd86f1</webElementGuid>
+      <value>//span[(text() = 'more_vert' or . = 'more_vert')]</value>
+      <webElementGuid>e339c433-1809-41af-a019-e7cbf0ac94c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

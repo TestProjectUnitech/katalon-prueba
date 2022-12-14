@@ -6,12 +6,12 @@
    <elementGuidId>d06c12f6-ef67-4228-8e89-69fd4d10c7e8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//simple-snack-bar/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>snack-bar-container.mat-snack-bar-container.ng-tns-c40-17.ng-trigger.ng-trigger-state.mat-snack-bar-center.mat-snack-bar-top.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//simple-snack-bar/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>snack-bar-container</value>
-      <webElementGuid>6e35e777-740b-4ce8-8869-26363c6c7fad</webElementGuid>
+      <webElementGuid>3fd634e5-9a90-4a90-a404-c1b950ae9d4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-snack-bar-container ng-tns-c40-17 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted</value>
-      <webElementGuid>e768f5e1-6ac4-4723-a0e9-d732d4456ec4</webElementGuid>
+      <webElementGuid>7be63a88-013a-442a-bd54-44c58fb78e75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>cdb06045-1e9b-4025-8a64-2ab8f140d097</webElementGuid>
+      <webElementGuid>4d3a518f-d734-4ae2-b0fe-ef5b179ab923</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56Aceptar</value>
-      <webElementGuid>74df6e3f-d244-408a-9613-6f471ce9b89d</webElementGuid>
+      <webElementGuid>e8f48eb2-5f9e-463a-bff4-72c6250c211e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-overlay-7&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c40-17 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]</value>
-      <webElementGuid>600993da-656a-4b84-a166-a192f086f280</webElementGuid>
+      <webElementGuid>08afadfe-6b2b-4452-a400-892ea3c1ef0d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-7']/snack-bar-container</value>
-      <webElementGuid>d5805951-4866-42eb-9974-0c1928173b73</webElementGuid>
+      <webElementGuid>8e8f421c-5705-4f06-886a-95096a535a32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>96358fd2-0a00-41b8-a1ba-e6c21d09c902</webElementGuid>
+      <webElementGuid>1928b375-c775-4261-a785-1e97e5299925</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>d30b083b-9260-4061-acf9-79aafbff1e39</webElementGuid>
+      <webElementGuid>cc540cfd-2212-4fae-8774-994f109e52f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//snack-bar-container</value>
-      <webElementGuid>20c79415-71f6-477a-92ee-caf8e45f7d93</webElementGuid>
+      <webElementGuid>19b3553c-08e3-4163-9815-3cdc6a601756</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//snack-bar-container[(text() = 'Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56Aceptar' or . = 'Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56Aceptar')]</value>
-      <webElementGuid>6816a269-0a1e-4de9-8039-142cb59d8157</webElementGuid>
+      <webElementGuid>4fefe8f2-73c9-4448-8755-3540b19940fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

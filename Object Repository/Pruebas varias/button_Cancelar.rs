@@ -6,12 +6,12 @@
    <elementGuidId>351cb09e-aa26-4fe7-a4e7-0a5dc475aa9d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='na-cancelarStep2']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#na-cancelarStep2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='na-cancelarStep2']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9f3c64ec-6aeb-4f26-a534-1b9bce289db4</webElementGuid>
+      <webElementGuid>8c5adfce-325a-431c-9f74-a6f6e3ef14d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn datos-iniciales__boton--cancelar mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>c45c2322-7814-40a4-867f-898f08960f7e</webElementGuid>
+      <webElementGuid>4c271561-c69c-4e86-af98-6aa386458110</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>na-cancelarStep2</value>
-      <webElementGuid>bbcbad5d-f8dd-4bab-b433-f10d878b9033</webElementGuid>
+      <webElementGuid>ce1c7bd9-a63e-4b14-987c-ec3ce3e5a093</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>80bea40f-7332-421e-99e0-0930aceb09c6</webElementGuid>
+      <webElementGuid>76b1c43a-faa7-498e-8d48-38751ad7e655</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cancelar</value>
-      <webElementGuid>4b8ae8dc-a5d4-4235-985f-552185f99966</webElementGuid>
+      <webElementGuid>8c2b4f9b-921a-466f-8909-c7d7ae5d1eea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;na-cancelarStep2&quot;)</value>
-      <webElementGuid>25a1b980-9a84-4a02-b24d-601828160565</webElementGuid>
+      <webElementGuid>d00fb739-744a-4395-a217-31f0406969b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='na-cancelarStep2']</value>
-      <webElementGuid>45e19379-773f-43dd-9f13-530de038f0a4</webElementGuid>
+      <webElementGuid>dd146236-bbcf-45f4-941a-1452331a2a64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-1-1']/div[2]/button</value>
-      <webElementGuid>fa90dd1a-375e-4c84-96c4-80f75c4ea4d0</webElementGuid>
+      <webElementGuid>a44e8460-6f07-409a-b881-7689f535b552</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='La suma total de los archivos a subir es de : 0.00MB'])[1]/following::button[1]</value>
-      <webElementGuid>34024b7a-7fd9-46bf-88eb-d9690dd2e842</webElementGuid>
+      <webElementGuid>f5977c53-77b3-4e70-a580-cfedb07e5266</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subir Adjunto'])[1]/following::button[1]</value>
-      <webElementGuid>0a560d8a-5cf3-4544-a0de-928b9f5e9997</webElementGuid>
+      <webElementGuid>8bb4de87-8318-40e4-8688-601a916002f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar y Finalizar'])[1]/preceding::button[1]</value>
-      <webElementGuid>4e222a86-e807-4a4e-9db4-ee71ed1ce1f8</webElementGuid>
+      <webElementGuid>0e4bf2e8-15e9-4d2a-81a6-91e3417584c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button</value>
-      <webElementGuid>ec9cb7bb-ed6c-49e5-88c4-b5bee31449d9</webElementGuid>
+      <webElementGuid>3995f3a0-e0f0-4da5-99c3-3c208ac44fc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'na-cancelarStep2' and @type = 'button' and (text() = 'Cancelar' or . = 'Cancelar')]</value>
-      <webElementGuid>f5fa00da-3e8f-4438-be8b-93fa366ddeaa</webElementGuid>
+      <webElementGuid>3b729fc6-8365-4736-9978-44c789ea7439</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ba79725d-7e55-4948-9b6a-3a1920384db5</webElementGuid>
+      <webElementGuid>57687060-99ce-46fb-b489-77380f9ca7cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Prueba.pdf </value>
-      <webElementGuid>fbc706d1-2e3c-4e14-93bb-2756a4fd418a</webElementGuid>
+      <webElementGuid>da0b1737-2003-4875-89f8-a33de265c9e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell-nombre mat-cell cdk-column-nombre mat-column-nombre ng-star-inserted&quot;]/a[@class=&quot;ng-star-inserted&quot;]/span[1]</value>
-      <webElementGuid>be09f0e7-afc4-4c9d-847c-b1cf8975f339</webElementGuid>
+      <webElementGuid>6f471686-0765-48a4-9f53-9c869a0eec93</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-row/mat-cell/a/span</value>
-      <webElementGuid>ed8951c0-a28e-4f45-98d1-307452d18d94</webElementGuid>
+      <webElementGuid>a05bdfbd-6b3e-483c-8a9f-d93a3693f0ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Firma Digital'])[1]/following::span[1]</value>
-      <webElementGuid>8fc69d24-e422-46b0-a97e-a3ac5cbf7ed5</webElementGuid>
+      <webElementGuid>c1de36ca-ad70-4f38-a6bd-09bc56290f9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nivel Acceso'])[1]/following::span[1]</value>
-      <webElementGuid>3e654a96-8c98-4c1b-8182-efe3335243f0</webElementGuid>
+      <webElementGuid>d42741e7-4011-43b9-947c-9e6d460ca78d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IURIXQA, CAYT'])[1]/preceding::span[1]</value>
-      <webElementGuid>6ad3e715-caed-4978-afdd-d7b5be2e7d50</webElementGuid>
+      <webElementGuid>0285f67f-76f8-4ca5-85dd-6b8ee70cb6a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PUBLICO'])[1]/preceding::span[3]</value>
-      <webElementGuid>e6984610-7dc3-4541-bfbe-1a6d5d52090e</webElementGuid>
+      <webElementGuid>c09fe22f-8c8d-46e5-ae59-add573bc6e83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Prueba.pdf']/parent::*</value>
-      <webElementGuid>56896ea2-4b30-4f3a-9119-f88e2ccf3acb</webElementGuid>
+      <webElementGuid>e001448b-4598-4d2c-bd47-7e98165ddf37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell/a/span</value>
-      <webElementGuid>d757997b-56e8-4764-9b0f-22db20a5f910</webElementGuid>
+      <webElementGuid>24be9b16-6fc2-460a-bbe6-3541250eeab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Prueba.pdf ' or . = ' Prueba.pdf ')]</value>
-      <webElementGuid>31b4427f-a791-40a6-bd0b-91cc368ed681</webElementGuid>
+      <webElementGuid>406dd57b-d86a-4c11-9b80-14a1fbfd4c4e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

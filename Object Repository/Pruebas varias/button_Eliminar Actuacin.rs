@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>em_attach_file</name>
+   <name>button_Eliminar Actuacin</name>
    <tag></tag>
-   <elementGuidId>51b0a060-9d7a-4fa9-8b25-ade322f92caf</elementGuidId>
+   <elementGuidId>054cc982-cdd0-411b-804c-dc140d2e2969</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#la-actualizar</value>
+         <value>#al-eliminaract</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//em[. = 'attach_file']</value>
+         <value>//button[@id='al-eliminaract']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>em</value>
-      <webElementGuid>084147d8-542c-4014-af4a-26b89096b683</webElementGuid>
+      <value>button</value>
+      <webElementGuid>729ac0f7-0419-4481-a4b2-59862a1df0a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>material-icons secContenedor__botones--vista-c botones--tarjeta</value>
-      <webElementGuid>2343782b-ddf3-465c-8709-dd8a592f3644</webElementGuid>
+      <value>btn dropdown-item btn-sm</value>
+      <webElementGuid>24003eaf-4e90-4a7d-aaf6-d49a2e1f4248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>la-actualizar</value>
-      <webElementGuid>08af299f-f717-48a2-9189-b96b7b83b8a5</webElementGuid>
+      <value>al-eliminaract</value>
+      <webElementGuid>05bd4ef1-d443-4301-b257-9a58beacf4c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>attach_file</value>
-      <webElementGuid>37f43043-1daf-4617-b458-ee0657673e80</webElementGuid>
+      <value>Eliminar Actuación</value>
+      <webElementGuid>c9c76b4f-c0ff-4913-ae31-c609e6d937f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;la-actualizar&quot;)</value>
-      <webElementGuid>b29f9623-ff64-435e-8293-2eea476fb95a</webElementGuid>
+      <value>id(&quot;al-eliminaract&quot;)</value>
+      <webElementGuid>ccdc868f-f295-4e00-ab53-8e62aec6c96a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//em[@id='la-actualizar']</value>
-      <webElementGuid>3adf2751-2887-41ea-95c0-0c5239941853</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//a[@id='al-verAdjunto']/div/em</value>
-      <webElementGuid>b28eaaec-4b7e-4a8a-8239-88764ce28754</webElementGuid>
+      <value>//button[@id='al-eliminaract']</value>
+      <webElementGuid>8710198c-1635-47df-b410-8ee8945828c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='create'])[1]/following::em[1]</value>
-      <webElementGuid>fb8c7518-320f-4f1a-b470-6f4506a2b1f5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver Auditoría'])[1]/following::button[1]</value>
+      <webElementGuid>e80db566-d50c-461d-bc9f-c5ef8285824b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='BORRADOR'])[1]/preceding::em[1]</value>
-      <webElementGuid>7ecd1be1-3f8f-477c-b7fd-f9de7edf84ba</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='more_vert'])[1]/following::button[2]</value>
+      <webElementGuid>16586acb-ed31-4b11-8136-cf5808a4ae8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='BC'])[1]/preceding::em[1]</value>
-      <webElementGuid>9116db7a-0a69-4c71-9472-3dbdddcf02be</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visibilidad'])[1]/preceding::button[1]</value>
+      <webElementGuid>3dd85ed5-044d-4ce6-8a11-beec1654e8c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='attach_file']/parent::*</value>
-      <webElementGuid>ea4cd543-dca4-4b17-9ec8-78ef200a15b1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firmar'])[1]/preceding::button[2]</value>
+      <webElementGuid>6348234b-8bd5-4b3e-b6bb-38ee939e4464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Eliminar Actuación']/parent::*</value>
+      <webElementGuid>26011f19-3da6-47ed-9bbc-f86879048b92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/em</value>
-      <webElementGuid>1407154b-cafd-435f-9506-c3c8a2ced1c7</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>caaa0a94-177f-49c3-9aae-1096d80be865</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//em[@id = 'la-actualizar' and (text() = 'attach_file' or . = 'attach_file')]</value>
-      <webElementGuid>6eaa7a81-bfbe-4a8b-8530-81c601d6ffae</webElementGuid>
+      <value>//button[@id = 'al-eliminaract' and (text() = 'Eliminar Actuación' or . = 'Eliminar Actuación')]</value>
+      <webElementGuid>b270dd1a-edac-46a1-8384-20ee9b44d22d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

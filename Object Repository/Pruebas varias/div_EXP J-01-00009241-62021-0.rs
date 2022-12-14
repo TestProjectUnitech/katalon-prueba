@@ -6,12 +6,12 @@
    <elementGuidId>1a8ab21c-cdc7-47e8-a295-13e844bd8b96</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='dfda-infoExp']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#dfda-infoExp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dfda-infoExp']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>76bf663d-050a-4c72-a2f1-db8da080c72e</webElementGuid>
+      <webElementGuid>b185517e-1598-48d1-969c-18fcf29be2f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>secContenedor__titulo float-left secContenedor__botonesListAct--margin</value>
-      <webElementGuid>24c39ec5-9ebb-42b6-95e8-79b74da30c22</webElementGuid>
+      <webElementGuid>59e068f0-29aa-4dfe-9378-435e88bf731f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dfda-infoExp</value>
-      <webElementGuid>c9095a8a-85b0-40d6-a703-eab295bd5958</webElementGuid>
+      <webElementGuid>5ecaddae-8dbd-4b7e-9d95-6639567560d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>EXP J-01-00009241-6/2021-0</value>
-      <webElementGuid>463437bf-85e1-4498-9b56-444c017903a8</webElementGuid>
+      <webElementGuid>ec95b212-aecd-4c8e-b281-3eb15223888d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dfda-infoExp&quot;)</value>
-      <webElementGuid>eab60a63-6978-438c-9091-733a9ae89ee8</webElementGuid>
+      <webElementGuid>6e72e722-9f89-425e-afbf-c7b136e0b434</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='dfda-infoExp']</value>
-      <webElementGuid>31f464fe-2ea8-42c8-b656-983884a5e772</webElementGuid>
+      <webElementGuid>2a989658-4798-480f-83f8-f638a1eecd5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='DialogoFdaComponent']/modal-accion/div/iol-dialogo-fda/div[2]/div/div</value>
-      <webElementGuid>b39dee42-907d-4b38-a52c-f749c2e02d31</webElementGuid>
+      <webElementGuid>74bab532-0819-440a-b229-99f45dadcd27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Firma Digital'])[1]/following::div[3]</value>
-      <webElementGuid>dbc3212d-f101-4c5e-90bf-76f70b5e53d7</webElementGuid>
+      <webElementGuid>3c13ee66-536b-4bef-8744-e12eb834fd51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::div[12]</value>
-      <webElementGuid>60456d63-1b6f-4c76-a963-971b437babd8</webElementGuid>
+      <webElementGuid>f1fc1a7c-2a66-4e90-a805-dfaecbb6e8c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Actuación: 43566/2022'])[1]/preceding::div[1]</value>
-      <webElementGuid>217bad10-33f9-49a8-b446-2369640e4586</webElementGuid>
+      <webElementGuid>4e77a2f4-4a26-47d5-a5e6-b8bcd00af4e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nestor firma1'])[1]/preceding::div[11]</value>
-      <webElementGuid>e5dc3c5e-12b5-4391-b256-c8ffa3029178</webElementGuid>
+      <webElementGuid>cabb5e1e-690f-47cd-932b-4a04275707af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='EXP J-01-00009241-6/2021-0']/parent::*</value>
-      <webElementGuid>d01df6b7-a9ed-4324-829d-54c9960115e7</webElementGuid>
+      <webElementGuid>2b6fc471-6c77-477b-8e7e-4ec09944441c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//iol-dialogo-fda/div[2]/div/div</value>
-      <webElementGuid>8caf3ae6-b7cc-45f4-a754-3493827621b4</webElementGuid>
+      <webElementGuid>42ad48fa-d6a4-421c-aeb3-c6c7c831a2d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'dfda-infoExp' and (text() = 'EXP J-01-00009241-6/2021-0' or . = 'EXP J-01-00009241-6/2021-0')]</value>
-      <webElementGuid>56621573-b5ff-4af7-99a8-b9a6adbbe54f</webElementGuid>
+      <webElementGuid>1cc86766-17e4-464e-8755-6f199554d2a0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

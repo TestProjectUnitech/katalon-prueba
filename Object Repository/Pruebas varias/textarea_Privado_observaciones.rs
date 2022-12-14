@@ -6,15 +6,15 @@
    <elementGuidId>ea146f8e-9076-4385-9eca-a9eec4ae2386</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>IMAGE</key>
+         <key>CSS</key>
+         <value>#di-observaciones</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/app-root/app-actuacion/div[2]/div[2]/div[1]/div/div/mat-horizontal-stepper/div[2]/div[1]/app-datos-iniciales/form/div/div[5]/mat-form-field/div/div[1]/div[3]/textarea</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#di-observaciones</value>
+         <key>IMAGE</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>51d29a02-727c-42aa-8c89-c4c1464e5db9</webElementGuid>
+      <webElementGuid>0567ad07-7adc-42d9-9255-efe259f672f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +33,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Observaciones</value>
-      <webElementGuid>679181b7-109d-490f-bedc-dd750b53938c</webElementGuid>
+      <webElementGuid>d7828922-2b4f-43a9-a8dc-b59e6489f82a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored</value>
-      <webElementGuid>5f6db97d-4d0b-4f21-843b-01e359b57879</webElementGuid>
+      <webElementGuid>4d78e73a-db87-45f2-83c9-10ab5c0f51b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>di-observaciones</value>
-      <webElementGuid>d5e2e88a-7650-4e8e-879d-ef67c5f0e0a0</webElementGuid>
+      <webElementGuid>a972cc25-3b7a-4333-804d-cc83ff6b84c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>500</value>
-      <webElementGuid>668877a5-3e69-438d-a882-b7f10a0d7e16</webElementGuid>
+      <webElementGuid>6ae507e9-d603-43ec-9231-54f9d9af3d6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>name</name>
       <type>Main</type>
       <value>observaciones</value>
-      <webElementGuid>8c0749a4-9dc0-4d9a-beb9-c2cc3410d713</webElementGuid>
+      <webElementGuid>7b852b72-ec63-46eb-ab8a-eee6211b91d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Observaciones</value>
-      <webElementGuid>788b610b-7809-4e37-a0b8-f62ea90e2ce0</webElementGuid>
+      <webElementGuid>e4386811-db4b-4dcc-ad92-b7606f647708</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d9a3140d-b55b-4a60-8184-d90ceff15d9e</webElementGuid>
+      <webElementGuid>51c66518-584f-4597-baff-948f39bc4aec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e5746cae-d70f-402c-8873-2258897590b0</webElementGuid>
+      <webElementGuid>94765c63-f696-4d69-a667-009beef70bb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;di-observaciones&quot;)</value>
-      <webElementGuid>50ce7a19-392e-434e-90fb-d3bd7679e0ca</webElementGuid>
+      <webElementGuid>c407f4a2-00c2-4b00-a798-3bab46656d24</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='di-observaciones']</value>
-      <webElementGuid>0bc15126-dbe5-45a8-99b1-866c3933b164</webElementGuid>
+      <webElementGuid>01ba8bdb-20cd-4529-8368-f209cc7a8a4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='mab-datosInicialesForm']/div/div[5]/mat-form-field/div/div/div[3]/textarea</value>
-      <webElementGuid>aef4bf32-e665-4d8d-b213-3e5cd895aa0c</webElementGuid>
+      <webElementGuid>9cd27392-c460-4ee1-ba21-56cacc2e9f4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>bdffc44d-c6a7-4b55-bb10-ee496ecb4156</webElementGuid>
+      <webElementGuid>dd7c1ccd-0967-4763-a8fd-b57bcdf79f8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,6 +129,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'di-observaciones' and @name = 'observaciones' and @placeholder = 'Observaciones']</value>
-      <webElementGuid>aff45769-bca1-4054-886a-b6f59cb52fb4</webElementGuid>
+      <webElementGuid>67076556-f768-4e5f-8eb9-d8f404a12798</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

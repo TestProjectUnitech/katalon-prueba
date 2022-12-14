@@ -6,12 +6,12 @@
    <elementGuidId>ec6ea482-15bf-42e5-9b4b-36b4325f9e53</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='dfda-firmar']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#dfda-firmar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='dfda-firmar']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bf6585d3-128f-4c24-ad0f-da92863ff3b3</webElementGuid>
+      <webElementGuid>47cf92da-fc56-4f6b-bc0b-4eb23350b38e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-sm btn-danger</value>
-      <webElementGuid>c1c97014-3163-4959-8a09-67d523d66eb9</webElementGuid>
+      <webElementGuid>def4a369-c704-4d3a-9c89-5330b8ce9c28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dfda-firmar</value>
-      <webElementGuid>9db6421d-7fd8-4c5f-993d-7cd3b0e10654</webElementGuid>
+      <webElementGuid>1c2563b5-37be-43e9-9c65-89b901a4c772</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>24f3bd4a-bc6e-47c0-a156-5150c992c83d</webElementGuid>
+      <webElementGuid>93c2f6d9-3a08-45f3-8206-cb2023d0e90f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Firmar </value>
-      <webElementGuid>98ada477-ddb6-4dbc-869e-926f91b27b83</webElementGuid>
+      <webElementGuid>96ebbd24-a9f3-439d-b5b6-8b980a716e3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dfda-firmar&quot;)</value>
-      <webElementGuid>e9d25739-337b-4637-a95a-562df219ec41</webElementGuid>
+      <webElementGuid>de5cd82a-2491-4a28-8bb8-974841abdc9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='dfda-firmar']</value>
-      <webElementGuid>4a1a5ce9-2506-4371-9cd9-5155818259d4</webElementGuid>
+      <webElementGuid>a848a401-7ee4-4b43-ac54-4d81d7f54f8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='DialogoFdaComponent']/modal-accion/div/iol-dialogo-fda/div[3]/div[4]/button[2]</value>
-      <webElementGuid>a791aa05-cbdd-4f7a-a50b-4508d7d4df11</webElementGuid>
+      <webElementGuid>627546eb-949e-4b69-8d57-07631b61643b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::button[1]</value>
-      <webElementGuid>afffc0dd-da33-4bc6-85ce-83932822ad5b</webElementGuid>
+      <webElementGuid>05e77ab5-eb0c-4bd4-8158-2f9fa2cc9d8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DGIT'])[1]/following::button[2]</value>
-      <webElementGuid>0f7be25c-0395-4f68-8068-b84af6ccd9b7</webElementGuid>
+      <webElementGuid>ed74b591-ff27-42b8-a3ee-ffb919ed8503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button[2]</value>
-      <webElementGuid>929b6bfd-a25d-4424-818d-bb2a9d5701aa</webElementGuid>
+      <webElementGuid>768d7d26-0b32-45b2-b2fb-c19ea21041cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'dfda-firmar' and @type = 'button' and (text() = ' Firmar ' or . = ' Firmar ')]</value>
-      <webElementGuid>0ae8f0d9-2933-45e4-9bfe-de76e4bdd7da</webElementGuid>
+      <webElementGuid>f1c4a52f-9fdd-4081-9841-139364b3a6d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

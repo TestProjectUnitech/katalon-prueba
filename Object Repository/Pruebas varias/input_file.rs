@@ -6,12 +6,12 @@
    <elementGuidId>b23f978b-a10e-4966-87c0-047eb3547ca5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;sa-fileInput&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#mat-input-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;sa-fileInput&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>15bc24fe-ae50-48de-9dcb-e1484ba9cf21</webElementGuid>
+      <webElementGuid>7f184b8c-ca8c-4787-af37-4a103bbbf61e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-autocomplete-trigger mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>4669132e-e7d3-441a-8914-516b4e9e07d1</webElementGuid>
+      <webElementGuid>62b6d8f9-b2f6-416d-a8ed-9f4e643fe323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>oninput</name>
       <type>Main</type>
       <value>this.value = this.value.toUpperCase()</value>
-      <webElementGuid>ada0eaa2-e72c-4749-ac23-3788f519d2ce</webElementGuid>
+      <webElementGuid>98bd4c8c-b1df-4b52-9f21-33643fb77eb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d3c34113-0ab5-40cc-a926-799d421b5bb5</webElementGuid>
+      <webElementGuid>9e12bb93-bc97-40c4-84ab-baa1c77341a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Buscar modelos</value>
-      <webElementGuid>2df8800c-387e-42eb-9713-b524f54b8d74</webElementGuid>
+      <webElementGuid>488b2401-c3b2-4603-b1e9-a2e17bc15728</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>e82167d6-6a9a-419b-9136-c5c28bd5e18a</webElementGuid>
+      <webElementGuid>dd391242-a9ba-48a3-86cf-b2a308bb5b1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>70d28e50-c9e9-4e61-9b3c-c7999fab56a2</webElementGuid>
+      <webElementGuid>841376be-7a20-454a-9d67-d9d67a345e7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>37e96410-a2e0-4788-a15c-82adabf58f09</webElementGuid>
+      <webElementGuid>70544812-374e-4426-a3bf-78470d096993</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cfeaa6ff-a170-4026-856c-8fd89a156ae4</webElementGuid>
+      <webElementGuid>6ba96018-823e-4d8f-935e-f16e3f0ba082</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b88bb92b-6c6c-4a54-b917-a841c70b0e2c</webElementGuid>
+      <webElementGuid>3e5fefbc-e3bd-45ca-a308-7b308357e20a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-input-1</value>
-      <webElementGuid>e7b9248c-653c-4979-9261-31a1afac3dce</webElementGuid>
+      <webElementGuid>2c27cf9b-2126-4fc1-9b48-79c9f73666bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Buscar modelos</value>
-      <webElementGuid>f1ed14ab-80e9-490f-b07c-9ec0d146670a</webElementGuid>
+      <webElementGuid>1672bbad-4a1e-4565-9439-3aa5b3c4c9e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>92bb486c-a8d3-463b-a749-209531dc53c2</webElementGuid>
+      <webElementGuid>65600147-850f-4f13-9d7f-870287f83451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>752d7e86-ee5d-4b3b-9a29-2263226d4eee</webElementGuid>
+      <webElementGuid>025bf297-23fd-404f-b768-2f37a80f8752</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>aria-owns</name>
       <type>Main</type>
       <value>mat-autocomplete-3</value>
-      <webElementGuid>17c77046-6c16-4eb2-a240-d419be41838a</webElementGuid>
+      <webElementGuid>a3140a58-e041-4d43-9d90-7496c934a905</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-input-1&quot;)</value>
-      <webElementGuid>362981c2-dae2-4297-b8ec-2dd4d2dd3359</webElementGuid>
+      <webElementGuid>f1f2b642-19ab-48e8-831e-729eb9382de8</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

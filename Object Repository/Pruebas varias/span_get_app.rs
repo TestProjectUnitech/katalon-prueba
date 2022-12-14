@@ -6,12 +6,12 @@
    <elementGuidId>2b9be7ef-1cfb-4f22-9f4d-0140c4b7fc1a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='a-descargar']/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.material-icons.icono-descarga</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='a-descargar']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8cd8388f-603f-465c-88a4-5e839eb2518b</webElementGuid>
+      <webElementGuid>e2e5b278-aefc-418a-a21a-66e2b34f61db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons icono-descarga</value>
-      <webElementGuid>3c361831-f5db-4796-8957-5af7f8577b35</webElementGuid>
+      <webElementGuid>f6cfb777-4079-4d25-8349-1a7006b380e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>get_app</value>
-      <webElementGuid>57858da0-51d5-450d-be31-ad3bc65f6849</webElementGuid>
+      <webElementGuid>e23bd74d-bb7a-486d-82f0-604c77885c47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell-descargar mat-cell cdk-column-descargar mat-column-descargar ng-star-inserted&quot;]/a[@id=&quot;a-descargar&quot;]/span[@class=&quot;material-icons icono-descarga&quot;]</value>
-      <webElementGuid>114be712-8df3-4f07-9c09-16b80889ac6e</webElementGuid>
+      <webElementGuid>551ae5d8-0b05-4a99-8981-fb9f0777e599</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='a-descargar']/span</value>
-      <webElementGuid>e932b955-378b-4a16-8ec5-5ba4e84a3375</webElementGuid>
+      <webElementGuid>b020f330-5220-4dd1-b196-d35124760477</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='remove_red_eye'])[3]/following::span[1]</value>
-      <webElementGuid>94416c6f-d0f4-4f9e-bbe4-41f205e09f9a</webElementGuid>
+      <webElementGuid>8d30f5b3-b948-4f6f-8ddd-4049438710ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[1]/following::span[3]</value>
-      <webElementGuid>639e1e6d-740b-49d1-bfd4-6437a32a940f</webElementGuid>
+      <webElementGuid>e3fd0f39-7ae7-4505-8543-e26d81aa67cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='share'])[2]/preceding::span[1]</value>
-      <webElementGuid>5597e97e-eb79-48da-8d29-a3d9f4e80899</webElementGuid>
+      <webElementGuid>4b9a8047-9ebb-4347-91da-1a6c632f8129</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='get_app']/parent::*</value>
-      <webElementGuid>bb16c95e-dd34-404f-a78a-76263f532188</webElementGuid>
+      <webElementGuid>3fcc7370-8b60-4cc9-8b03-ba939f96e349</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell[7]/a/span</value>
-      <webElementGuid>4e964809-3dba-4f07-bbf6-641943bccba8</webElementGuid>
+      <webElementGuid>96574736-2bde-4126-8cee-f545af8af5cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'get_app' or . = 'get_app')]</value>
-      <webElementGuid>312d9119-6e55-4633-8d31-c61bde7a6c33</webElementGuid>
+      <webElementGuid>fda0ba99-9910-4b3d-84a9-741c8baf1d90</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

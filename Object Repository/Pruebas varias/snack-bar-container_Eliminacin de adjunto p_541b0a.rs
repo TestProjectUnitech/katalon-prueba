@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>snack-bar-container</value>
-      <webElementGuid>45aa32a2-92d3-4ed4-a049-5e0bfd36e663</webElementGuid>
+      <webElementGuid>05278e58-e8c6-4566-991c-6a815c8d0269</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-snack-bar-container ng-tns-c39-18 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted</value>
-      <webElementGuid>e0d4be83-c553-488a-b3d0-61bbb465ee94</webElementGuid>
+      <webElementGuid>9266189b-6fea-41f1-8b56-d8655f992260</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>143b2654-2f60-4b52-b563-4c7464a66f04</webElementGuid>
+      <webElementGuid>a89dd27a-48a8-406b-82d8-907c59402437</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Eliminación de adjunto procesadaAceptar</value>
-      <webElementGuid>7e9430df-cf91-4272-9065-70b057db4a74</webElementGuid>
+      <webElementGuid>0ce95263-d01e-4ef8-912e-ebbd384337ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-overlay-8&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c39-18 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]</value>
-      <webElementGuid>dce9d305-bae6-4d6e-83cf-d899f511e67e</webElementGuid>
+      <webElementGuid>86dec713-7e8c-4d38-9053-29461c655c67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-8']/snack-bar-container</value>
-      <webElementGuid>d01a5f46-3502-40a9-a5a1-7c59d0393dde</webElementGuid>
+      <webElementGuid>82195edd-3e8a-4f41-ad7d-c059fb7da8a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminación de adjunto procesada'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>5443eb78-4343-4ebc-9939-52cf05483f88</webElementGuid>
+      <webElementGuid>de5434b4-036c-47d6-800a-b5bd3b550142</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>707818f9-be7b-46ea-a5eb-fe4aaaff2610</webElementGuid>
+      <webElementGuid>7e250986-9781-49d0-a619-ce0e0d8f7a92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//snack-bar-container</value>
-      <webElementGuid>13f55065-6019-4bf8-9c7f-5f11940a47b0</webElementGuid>
+      <webElementGuid>61294059-a7b7-4f37-af1b-4286b6fddef3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//snack-bar-container[(text() = 'Eliminación de adjunto procesadaAceptar' or . = 'Eliminación de adjunto procesadaAceptar')]</value>
-      <webElementGuid>148c6cc8-b8a7-4094-ac08-ebc0279420a1</webElementGuid>
+      <webElementGuid>933acc87-6098-47ff-9bb9-6430f771ab43</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
