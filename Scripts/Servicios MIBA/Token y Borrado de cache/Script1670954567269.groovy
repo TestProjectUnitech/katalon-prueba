@@ -30,6 +30,14 @@ GlobalVariable.Token_MIBA = ParsedToken.access_token
 
 println(ParsedToken.access_token)
 
-borradoDeCache = WS.sendRequest(findTestObject('Object Repository/Servicios/Borrado Cache MIBA'))
+borradoDeCache = WS.sendRequest(findTestObject('Object Repository/Servicios/Borrado User Cache MIBA'))
 
 WS.verifyResponseStatusCode(borradoDeCache, 204)
+
+borradoDeCache2 = WS.sendRequest(findTestObject('Object Repository/Servicios/Borrado Realm Cache MIBA'))
+
+WS.verifyResponseStatusCode(borradoDeCache2, 204)
+
+borradoDeCache3 = WS.sendRequest(findTestObject('Object Repository/Servicios/Borrado Keys Cache MIBA'))
+
+WS.verifyResponseStatusCode(borradoDeCache3, 204)

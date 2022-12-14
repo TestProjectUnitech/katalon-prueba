@@ -3,14 +3,10 @@
    <description></description>
    <name>katalon-prueba.git</name>
    <tag></tag>
-   <UUID>9d680acd-4625-4fbd-b049-0fefe79b6d5b</UUID>
+   <UUID>16cf9790-52e0-4852-bdd1-12e8d018fefd</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-<<<<<<< Updated upstream
-   <projectFileLocation>C:\qa-unitech\Katalon\proyectos\katalon-prueba.git\katalon-prueba.git.prj</projectFileLocation>
-=======
-   <projectFileLocation>C:\qa-unitech\Katalon\Proyectos\katalon-prueba\katalon-prueba.git.prj</projectFileLocation>
->>>>>>> Stashed changes
+   <projectFileLocation>C:\qa-unitech\Katalon\proyectos\katalon-prueba.git\katalon-prueba.git\katalon-prueba.git.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

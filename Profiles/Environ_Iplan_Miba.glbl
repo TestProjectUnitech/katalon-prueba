@@ -9,4 +9,49 @@
       <initValue>''</initValue>
       <name>Token_MIBA</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'miba.unitech.com.ar'</initValue>
+      <name>urlIdmServer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'master'</initValue>
+      <name>realmIdProcess</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'access-token-services'</initValue>
+      <name>clientIdProcess</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'a9f6a61f-6d00-418c-abd3-ef29b033c91d'</initValue>
+      <name>client_secret</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'10.1.10.134'</initValue>
+      <name>DB_server_ip</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Tr2m1xIDdb'</initValue>
+      <name>DB_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TRAMIXIDENTITYDBMIA'</initValue>
+      <name>DB_user</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1521'</initValue>
+      <name>DB_port</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MIBA'</initValue>
+      <name>DB_svname</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
