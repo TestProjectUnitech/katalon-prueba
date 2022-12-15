@@ -6,12 +6,12 @@
    <elementGuidId>b09bb959-9847-49f8-87fa-b025bd40d111</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#a-descargarTodo</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='a-descargarTodo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a-descargarTodo</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>df328122-bfe3-4002-9bc2-a90a12fcab38</webElementGuid>
+      <webElementGuid>1210a9cf-9ded-46ca-b1ca-704023105e6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-sm btn-danger buton-style mt-3</value>
-      <webElementGuid>4b253558-4731-48a0-bd28-4a5f94402ea6</webElementGuid>
+      <webElementGuid>37c87ec1-fdb9-4529-8fa8-c6013979cf46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>a-descargarTodo</value>
-      <webElementGuid>81122f1e-0751-4714-baa8-a4d799764a23</webElementGuid>
+      <webElementGuid>c02bd1bb-1728-4d02-9871-709cf043696c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Descargar todo</value>
-      <webElementGuid>d478edfd-977c-42cc-be6c-0359baaba3ad</webElementGuid>
+      <webElementGuid>5eb7e60f-a371-4a07-9339-00a8f077355d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>20ce6f19-5e21-4403-9957-76f6952dfef4</webElementGuid>
+      <webElementGuid>3158d52f-2bf9-4d6a-9aed-2eca939621a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>get_appDescargar todo </value>
-      <webElementGuid>c2e57b67-d793-42b7-ac0a-54fa4a897a23</webElementGuid>
+      <webElementGuid>8bb8e371-719a-4854-a684-ee14784ac3e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;a-descargarTodo&quot;)</value>
-      <webElementGuid>15d01ec2-57cb-44b7-8dde-af098fcf9d4c</webElementGuid>
+      <webElementGuid>a684763f-233d-4f19-b1f4-90a1a89f6b71</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='a-descargarTodo']</value>
-      <webElementGuid>8a170a93-f946-4dae-bb50-7596ac439eaf</webElementGuid>
+      <webElementGuid>f6827009-fa72-41a0-9777-7f9e8f57cb20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/button</value>
-      <webElementGuid>d1076057-5f14-4102-9c4e-3630302b3b4f</webElementGuid>
+      <webElementGuid>682741c1-5048-487e-b9c9-29e5d3380952</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='share'])[3]/following::button[1]</value>
-      <webElementGuid>e8f08ba4-6030-4196-82e1-c10e6435beaa</webElementGuid>
+      <webElementGuid>865d06c3-b9f8-4170-b015-bc53720067cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No se encontró UUID de actuación'])[2]/preceding::button[1]</value>
-      <webElementGuid>7bd0ad10-d4b1-43aa-b351-88d66148def2</webElementGuid>
+      <webElementGuid>265f849f-e522-4ce0-a894-8e4daa2e7572</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Descargar todo']/parent::*</value>
-      <webElementGuid>cd480cad-47ed-48ef-af00-09225d541372</webElementGuid>
+      <webElementGuid>fad2b6c1-7653-4a7b-955b-3e97b00e71fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-adjunto/div/button</value>
-      <webElementGuid>87853caf-2400-4058-8106-776d24c467be</webElementGuid>
+      <webElementGuid>88728262-3386-408d-9256-d29e62b22332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'a-descargarTodo' and @title = 'Descargar todo' and @type = 'button' and (text() = 'get_appDescargar todo ' or . = 'get_appDescargar todo ')]</value>
-      <webElementGuid>3566648d-e39d-4d8d-b468-20e8d713e4e2</webElementGuid>
+      <webElementGuid>5cbfd67c-af60-463f-b745-87563ec18e7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

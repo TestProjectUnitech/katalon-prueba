@@ -6,12 +6,12 @@
    <elementGuidId>274f28e4-1117-466e-9424-cf6f110f8489</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h5.titulo_crearAct</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//h5[(text() = 'Elegir Modelo' or . = 'Elegir Modelo')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.titulo_crearAct</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h5</value>
-      <webElementGuid>4dda357c-8a09-407b-9c8f-5055ee54b981</webElementGuid>
+      <webElementGuid>0341ff6b-bf29-4510-a5c6-4730693494d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>titulo_crearAct</value>
-      <webElementGuid>8efa3bd3-7505-41c8-a3e1-d60975491b49</webElementGuid>
+      <webElementGuid>48c00b26-9fc1-4b88-82d8-b22ca977648c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Elegir Modelo</value>
-      <webElementGuid>a2195225-0126-41e5-90f3-f0c691103a2b</webElementGuid>
+      <webElementGuid>093303c2-e79c-44b7-99f0-4b8474b3153e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid modal-body mt-3 secContent__nueva-actuacion ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-6 colorBg&quot;]/div[@class=&quot;ajustar-contenido&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nueva-actuacion[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;mt-5 ng-star-inserted&quot;]/h5[@class=&quot;titulo_crearAct&quot;]</value>
-      <webElementGuid>00c6183f-82a0-4665-8383-39817d24b74b</webElementGuid>
+      <webElementGuid>09c3972c-f66b-4645-a4f9-e2ead3094eeb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Cómo Crear Actuación?'])[1]/following::h5[1]</value>
-      <webElementGuid>5e5e15b2-3422-43ac-87c8-f0dc2011135b</webElementGuid>
+      <webElementGuid>2ecc88f8-bcb0-45ec-b4e0-aaf848a065a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CREAR ACTUACIÓN'])[1]/following::h5[1]</value>
-      <webElementGuid>c5b9ee25-01a6-4b74-a596-fe28becf846d</webElementGuid>
+      <webElementGuid>bfb01338-2fd2-46ec-af99-4d64e338154a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[2]/preceding::h5[1]</value>
-      <webElementGuid>23d26f8f-fee2-40fe-a421-191e2275c9f9</webElementGuid>
+      <webElementGuid>ea01f256-84b1-4e1f-aab4-ad3a4e4d8fc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Importar Actuación'])[1]/preceding::h5[1]</value>
-      <webElementGuid>3ceb3f46-ef22-4df8-8956-d765a8ac8f78</webElementGuid>
+      <webElementGuid>4dbbfbb3-7fbc-4c97-ac28-00bda8414b3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Elegir Modelo']/parent::*</value>
-      <webElementGuid>0b1e6da6-0b41-4f89-96f4-6fcf820a0e59</webElementGuid>
+      <webElementGuid>b2539ca7-01a8-45cc-ad99-8a446ed22f95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h5</value>
-      <webElementGuid>382177a5-dc3c-4025-ba0d-9d92eb135ec6</webElementGuid>
+      <webElementGuid>fb2e06c8-9240-496a-8eb8-af7e6cf58c9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h5[(text() = 'Elegir Modelo' or . = 'Elegir Modelo')]</value>
-      <webElementGuid>06c96aaa-121e-4830-aec6-9830a2cd490a</webElementGuid>
+      <webElementGuid>f5c403b3-b8b3-4896-9878-bdb608292b6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

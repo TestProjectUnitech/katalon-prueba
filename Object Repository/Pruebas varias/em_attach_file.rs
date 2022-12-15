@@ -6,12 +6,12 @@
    <elementGuidId>51b0a060-9d7a-4fa9-8b25-ade322f92caf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#la-actualizar</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//em[. = 'attach_file']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#la-actualizar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>em</value>
-      <webElementGuid>084147d8-542c-4014-af4a-26b89096b683</webElementGuid>
+      <webElementGuid>73c67c60-51af-4f87-9e7b-048af1bb3da4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons secContenedor__botones--vista-c botones--tarjeta</value>
-      <webElementGuid>2343782b-ddf3-465c-8709-dd8a592f3644</webElementGuid>
+      <webElementGuid>c07edf94-455f-4588-bf40-2d3e09051089</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>la-actualizar</value>
-      <webElementGuid>08af299f-f717-48a2-9189-b96b7b83b8a5</webElementGuid>
+      <webElementGuid>eccbfa9f-aa31-46a7-b5bf-72badc69bff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>attach_file</value>
-      <webElementGuid>37f43043-1daf-4617-b458-ee0657673e80</webElementGuid>
+      <webElementGuid>d7470c2c-185c-433a-96ce-61a2704a8a56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;la-actualizar&quot;)</value>
-      <webElementGuid>b29f9623-ff64-435e-8293-2eea476fb95a</webElementGuid>
+      <webElementGuid>222290f8-1aeb-43d6-b17e-08485140a7e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//em[@id='la-actualizar']</value>
-      <webElementGuid>3adf2751-2887-41ea-95c0-0c5239941853</webElementGuid>
+      <webElementGuid>7982e7c9-cb34-46dd-adf1-f3d6845d5792</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='al-verAdjunto']/div/em</value>
-      <webElementGuid>b28eaaec-4b7e-4a8a-8239-88764ce28754</webElementGuid>
+      <webElementGuid>7d854fc2-caa2-4030-a7b5-bdec7fb95ef4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='create'])[1]/following::em[1]</value>
-      <webElementGuid>fb8c7518-320f-4f1a-b470-6f4506a2b1f5</webElementGuid>
+      <webElementGuid>026c7f4e-8552-4029-940f-d2a9528a960b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BORRADOR'])[1]/preceding::em[1]</value>
-      <webElementGuid>7ecd1be1-3f8f-477c-b7fd-f9de7edf84ba</webElementGuid>
+      <webElementGuid>d7fdcdcd-c6c6-4875-af90-edf63255e7a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BC'])[1]/preceding::em[1]</value>
-      <webElementGuid>9116db7a-0a69-4c71-9472-3dbdddcf02be</webElementGuid>
+      <webElementGuid>aa720979-16b0-4c10-a647-5aa379044e9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='attach_file']/parent::*</value>
-      <webElementGuid>ea4cd543-dca4-4b17-9ec8-78ef200a15b1</webElementGuid>
+      <webElementGuid>eef1c04a-787e-46b6-912b-66d44fc433bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/em</value>
-      <webElementGuid>1407154b-cafd-435f-9506-c3c8a2ced1c7</webElementGuid>
+      <webElementGuid>462d5f78-129f-4ee8-80fe-6d0abb82ad85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//em[@id = 'la-actualizar' and (text() = 'attach_file' or . = 'attach_file')]</value>
-      <webElementGuid>6eaa7a81-bfbe-4a8b-8530-81c601d6ffae</webElementGuid>
+      <webElementGuid>76730252-9e9b-45c4-bafd-713ae103b8b6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

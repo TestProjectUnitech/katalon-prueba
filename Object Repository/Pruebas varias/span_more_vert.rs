@@ -6,12 +6,12 @@
    <elementGuidId>f2192a81-ba8d-46d7-9f53-4661ec27cb7e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.material-icons.secContenedor__botones--menu</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='al-btnGroupDrop1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.material-icons.secContenedor__botones--menu</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9e4905f4-46ef-4389-b0a1-85eb3950a0da</webElementGuid>
+      <webElementGuid>3626dffe-4287-43a8-8972-cdc41968ed41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons secContenedor__botones--menu</value>
-      <webElementGuid>4f9fac8d-83a6-49ed-8e34-6f1b1c7030e6</webElementGuid>
+      <webElementGuid>c03c74bf-814b-475d-976f-f94c389941b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>more_vert</value>
-      <webElementGuid>86712739-8d28-4e15-a2d0-dbeaa51e758e</webElementGuid>
+      <webElementGuid>dabd6bf5-c845-46e6-9278-a52d78d342f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;al-btnGroupDrop1&quot;)/span[@class=&quot;material-icons secContenedor__botones--menu&quot;]</value>
-      <webElementGuid>c493ac00-f565-497e-8b97-fd05dcb4371b</webElementGuid>
+      <webElementGuid>742fe1c0-2af5-471d-89c5-c988b91ad40c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='al-btnGroupDrop1']/span</value>
-      <webElementGuid>6e5f7d62-e1c7-44ed-8960-ef2998837e88</webElementGuid>
+      <webElementGuid>a47fd060-1334-446a-a0ae-1990216e8e7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='R35 - RESOLUCION - HABILITACION DE LA INSTANCIA'])[1]/following::span[2]</value>
-      <webElementGuid>5100deec-7ed7-41a2-bdcc-e4664ceffdd9</webElementGuid>
+      <webElementGuid>6c5d7a1c-f325-4b25-beff-e6cbf8b97dfb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='article'])[1]/following::span[3]</value>
-      <webElementGuid>7223218c-2c27-4fdf-b716-c2e68969d91c</webElementGuid>
+      <webElementGuid>02528799-4802-45ba-ad42-568ffb4eaf5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver Auditoría'])[1]/preceding::span[1]</value>
-      <webElementGuid>aa1e108a-83e2-424b-b24e-43455c267026</webElementGuid>
+      <webElementGuid>f6c952c0-ee4a-49cd-9ed3-6a0c423f54cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar Actuación'])[1]/preceding::span[1]</value>
-      <webElementGuid>5fc05de3-f4c7-434f-a93a-fce5945fbe85</webElementGuid>
+      <webElementGuid>d7b7764f-25e9-4481-bb29-7bf3f01d763e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='more_vert']/parent::*</value>
-      <webElementGuid>3cd95642-3a0a-49b3-8905-0e10fd1a017b</webElementGuid>
+      <webElementGuid>4a51076b-f469-4982-b683-c60362a2f458</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/span/button/span</value>
-      <webElementGuid>ed7b8436-c1be-4299-855f-4c32da12c57c</webElementGuid>
+      <webElementGuid>a4fb36e7-3bac-4782-bc9e-62e25f223b81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'more_vert' or . = 'more_vert')]</value>
-      <webElementGuid>e339c433-1809-41af-a019-e7cbf0ac94c5</webElementGuid>
+      <webElementGuid>ae79d9dd-5ad4-4620-a2a8-800152f56c66</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

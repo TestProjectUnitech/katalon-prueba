@@ -6,12 +6,12 @@
    <elementGuidId>dca4eec9-ac66-4b3e-a3d4-571d9afb66f9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.datos-iniciales__boton--siguiente.mat-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.datos-iniciales__boton--siguiente.mat-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e45845dc-d20a-4fdb-a34a-2372329fab9c</webElementGuid>
+      <webElementGuid>1d01d2c3-5d23-4fd2-a1a5-2e67c56a2c7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn datos-iniciales__boton--siguiente mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>48a48f5b-afd3-4f01-b42c-b0af222f2d48</webElementGuid>
+      <webElementGuid>ee967e3c-b4f2-4d20-85f9-f2ca9da5bd56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d099f7b8-f2ca-4c71-94a8-6fc90a3a3f33</webElementGuid>
+      <webElementGuid>7e4b48ae-c414-47ad-bfa3-79a869002d4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Siguiente</value>
-      <webElementGuid>bfd300d1-75e7-4381-8b3a-74ba94bb4b53</webElementGuid>
+      <webElementGuid>6c002ea4-0940-4411-9ff7-cfd0d793e0db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid modal-body mt-3 secContent__nueva-actuacion ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-6 colorBg&quot;]/div[@class=&quot;ajustar-contenido&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mt-4&quot;]/button[@class=&quot;btn datos-iniciales__boton--siguiente mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>45d94a73-1178-49d6-8710-8b9aacfd93ac</webElementGuid>
+      <webElementGuid>27eba514-8fee-460b-8cf1-2feceb659bbe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>7f5fd4c1-30c2-488f-bf88-5e9fa015fcd4</webElementGuid>
+      <webElementGuid>9a35a317-12d8-4cea-aa5a-9d009df8223d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::button[1]</value>
-      <webElementGuid>4fb269ec-1edf-4f2b-baae-125afeda7f19</webElementGuid>
+      <webElementGuid>05fcf986-2bc6-4e74-b7dd-b7fcfa815f18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Importar Actuación'])[1]/following::button[2]</value>
-      <webElementGuid>01882e7f-296f-4ae0-adb5-cb6e896d22a9</webElementGuid>
+      <webElementGuid>a48353aa-6f1d-4293-b9c9-dcc765612f8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='zoom_out'])[1]/preceding::button[1]</value>
-      <webElementGuid>4bc9410f-5639-4905-b939-9e887ae768f9</webElementGuid>
+      <webElementGuid>d06aca71-e987-4a8c-817a-ce25d3d9f9b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>0bcf9545-f09a-458e-9767-84416b234bba</webElementGuid>
+      <webElementGuid>75bf7994-62b6-4329-ad35-d9322fef5324</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Siguiente' or . = 'Siguiente')]</value>
-      <webElementGuid>e5a0fd6d-e871-40ce-9bab-2faefe6d5684</webElementGuid>
+      <webElementGuid>73a5c163-f753-4982-9ee5-0dd4a540e523</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>65d09c03-7000-4e9b-b22a-c8ddc31f834f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#ma-titulo</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//h4[@id='ma-titulo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ma-titulo</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
-      <webElementGuid>8615b47a-aed7-44e1-8067-7638786859c8</webElementGuid>
+      <webElementGuid>5521cf40-c1a3-427b-853e-7be03fb4732f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ma-titulo</value>
-      <webElementGuid>5479258f-76e5-46ec-8656-bf23cb1caee0</webElementGuid>
+      <webElementGuid>c1943dae-dd7e-4611-a1fb-b210660ebbc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Adjuntos de la actuación 43640/2022</value>
-      <webElementGuid>d34b289b-70c8-4963-8ae5-ea7a91035e52</webElementGuid>
+      <webElementGuid>db28367b-8285-4e20-b5dc-fa0065b5d5e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ma-titulo&quot;)</value>
-      <webElementGuid>7ac72556-6f0b-4b78-a0c4-57130b7797c8</webElementGuid>
+      <webElementGuid>82db895c-3c2c-49c2-a41f-af05fb9afba0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h4[@id='ma-titulo']</value>
-      <webElementGuid>940aa27b-70fe-4752-991f-aa36c4da2926</webElementGuid>
+      <webElementGuid>403f2aff-0229-46c7-8175-58b20133518a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div/div/h4</value>
-      <webElementGuid>97b6dbe0-3374-47b2-b02b-f0994cf73099</webElementGuid>
+      <webElementGuid>d2253be3-5fe1-4362-86b3-eeb9545aef96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::h4[1]</value>
-      <webElementGuid>2bb79d77-c64c-4d1d-b283-fd428e6b4bb7</webElementGuid>
+      <webElementGuid>ebb968a4-d1f2-47e9-a66c-96465e07d7c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::h4[1]</value>
-      <webElementGuid>67b5fd2a-c8f5-4128-8bd2-7da7c673f7d6</webElementGuid>
+      <webElementGuid>65f44bf4-8e67-4ed0-ab46-9a4c7e332910</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre'])[1]/preceding::h4[1]</value>
-      <webElementGuid>ce40d0ca-9aa7-486d-a72f-866763248672</webElementGuid>
+      <webElementGuid>56d22943-67ee-47b4-8ba4-6b24307a7e08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario'])[1]/preceding::h4[1]</value>
-      <webElementGuid>7eaf7534-3e6f-4282-9229-faa61bd70497</webElementGuid>
+      <webElementGuid>8bbee676-757d-462c-9f7b-a7f86203fb5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Adjuntos de la actuación 43640/2022']/parent::*</value>
-      <webElementGuid>924450f2-a4e5-41b5-9588-8fd571b9206f</webElementGuid>
+      <webElementGuid>255fbb78-405c-41f5-8d70-df530b788131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h4</value>
-      <webElementGuid>18d16917-d7d8-46aa-bb16-821e234d595e</webElementGuid>
+      <webElementGuid>4b95b8da-12de-41f6-9f81-196850f31bc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

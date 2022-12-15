@@ -6,12 +6,12 @@
    <elementGuidId>b36cbc83-5f44-425f-a8a2-2f0da2ef1fec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mat-option-6 > span.mat-option-text</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//span[. = 'Cayt Rao']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-6 > span.mat-option-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4d2c9a98-4ad0-4f8f-876a-42ed294c086b</webElementGuid>
+      <webElementGuid>bb79c6d1-64bf-49a4-aed3-6cdcf9cefef7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option-text</value>
-      <webElementGuid>44d34dca-a6c5-4937-8988-ec0e5dde714a</webElementGuid>
+      <webElementGuid>0b4f13ea-de95-4fce-8e15-74e309128b16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cayt Rao</value>
-      <webElementGuid>fa30ed7b-2167-4ac6-a7b6-3dad1ed6db02</webElementGuid>
+      <webElementGuid>5b82eed6-bca5-4258-acfc-824ce98b54c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-option-6&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>78fe74f4-1de2-40c5-8e1f-1fc030a2f817</webElementGuid>
+      <webElementGuid>7dc3ebf5-7d96-4b61-956e-80479cfa9744</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='mat-option-6']/span</value>
-      <webElementGuid>91c763ac-a6f8-483d-8c80-480e9e6e6856</webElementGuid>
+      <webElementGuid>4c1e4bd1-feb4-42a9-a294-0b496505b027</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cayt2 Santamarina'])[1]/following::span[1]</value>
-      <webElementGuid>b86db654-7297-4beb-968c-882c421f71b8</webElementGuid>
+      <webElementGuid>5cef760b-c858-42e5-82ec-943f23157c55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cayt3 Tercero'])[1]/following::span[2]</value>
-      <webElementGuid>ffb65f3c-b533-4e56-b00b-56d06af0da36</webElementGuid>
+      <webElementGuid>3a0c7a87-dea4-42ad-81c2-f6cbb52e43cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ad-Jusbaires-CA'])[1]/preceding::span[1]</value>
-      <webElementGuid>851e0edc-b436-4225-8156-77cc5fb1c4d6</webElementGuid>
+      <webElementGuid>148ae460-0c58-4df6-bd7d-8cde4071f239</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agustina Di Natale'])[1]/preceding::span[2]</value>
-      <webElementGuid>07a69d09-4126-40ad-a866-c37dce483c7f</webElementGuid>
+      <webElementGuid>3b28468e-8bbb-47ab-8205-729d324b68e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cayt Rao']/parent::*</value>
-      <webElementGuid>27f68d60-0fa8-4df4-8173-b845355b5f49</webElementGuid>
+      <webElementGuid>96a0071e-86e9-48f2-b847-7eccffa2635d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[4]/span</value>
-      <webElementGuid>e241191a-cacc-4487-be25-a7948fee0475</webElementGuid>
+      <webElementGuid>1171cb09-b411-4ffe-923b-bf3eb7d4dd01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Cayt Rao' or . = 'Cayt Rao')]</value>
-      <webElementGuid>93569230-15e6-4e8b-ab3b-e2d9e715cf9f</webElementGuid>
+      <webElementGuid>86580c35-d519-4ee1-b34c-aa48df58e579</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

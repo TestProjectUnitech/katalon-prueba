@@ -174,7 +174,7 @@ WebUI.uploadFile(findTestObject('Object Repository/Pruebas varias/button_Explore
 WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/snack-bar-container_Eliminacin de adjunto p_541b0a'), 
     5)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/em_attach_file'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Pruebas varias/em_attach_file'), 5)
 
 WebUI.refresh()
 

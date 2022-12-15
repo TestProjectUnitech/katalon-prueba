@@ -6,12 +6,12 @@
    <elementGuidId>d06c12f6-ef67-4228-8e89-69fd4d10c7e8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>snack-bar-container.mat-snack-bar-container.ng-tns-c40-17.ng-trigger.ng-trigger-state.mat-snack-bar-center.mat-snack-bar-top.ng-star-inserted</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//simple-snack-bar/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>snack-bar-container.mat-snack-bar-container.ng-tns-c40-17.ng-trigger.ng-trigger-state.mat-snack-bar-center.mat-snack-bar-top.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>snack-bar-container</value>
-      <webElementGuid>3fd634e5-9a90-4a90-a404-c1b950ae9d4a</webElementGuid>
+      <webElementGuid>5dff4f98-797d-4da0-9042-c8f5d424fc5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-snack-bar-container ng-tns-c40-17 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted</value>
-      <webElementGuid>7be63a88-013a-442a-bd54-44c58fb78e75</webElementGuid>
+      <webElementGuid>9ddfce96-4405-4f5c-9074-3db74e3d05b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>4d3a518f-d734-4ae2-b0fe-ef5b179ab923</webElementGuid>
+      <webElementGuid>f2ed5ed3-e82a-4bc4-ae3f-afdf9c967ae8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56Aceptar</value>
-      <webElementGuid>e8f48eb2-5f9e-463a-bff4-72c6250c211e</webElementGuid>
+      <webElementGuid>f829220a-2dd7-4328-96ba-88335a8fa0d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-overlay-7&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c40-17 ng-trigger ng-trigger-state mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]</value>
-      <webElementGuid>08afadfe-6b2b-4452-a400-892ea3c1ef0d</webElementGuid>
+      <webElementGuid>68cfcc54-372c-4700-92ed-5bf70638e1fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-7']/snack-bar-container</value>
-      <webElementGuid>8e8f421c-5705-4f06-886a-95096a535a32</webElementGuid>
+      <webElementGuid>c92540d0-8535-43e0-9c31-f05da88342f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>1928b375-c775-4261-a785-1e97e5299925</webElementGuid>
+      <webElementGuid>5423ce15-1930-4cb7-b9bc-ac078c8eace0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Versión 22.1.0'])[1]/following::snack-bar-container[1]</value>
-      <webElementGuid>cc540cfd-2212-4fae-8774-994f109e52f1</webElementGuid>
+      <webElementGuid>205b96d5-74a8-462a-b62b-ed615dd99857</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//snack-bar-container</value>
-      <webElementGuid>19b3553c-08e3-4163-9815-3cdc6a601756</webElementGuid>
+      <webElementGuid>2b6ca0cf-9bae-40bf-9b43-1ac2e5efc2ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//snack-bar-container[(text() = 'Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56Aceptar' or . = 'Se ha firmado la Actuación 43566/2022 el día 12/12/2022 a las 16:56Aceptar')]</value>
-      <webElementGuid>4fefe8f2-73c9-4448-8755-3540b19940fa</webElementGuid>
+      <webElementGuid>ff635082-8432-409a-8e43-31092d920805</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>8331e3fe-ac09-490b-ab64-d0579070922b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#al-firmar > span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='al-firmar']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#al-firmar > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b194333f-fc93-421c-b84c-ce7b86831c59</webElementGuid>
+      <webElementGuid>c537ef24-58cb-4635-bca2-02320ad85536</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Firmar </value>
-      <webElementGuid>9b02ca5f-d56e-4202-a14d-9a95ac7f8c8f</webElementGuid>
+      <webElementGuid>ccae4e8a-f117-43e3-a0d7-d0d164ae8b90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;al-firmar&quot;)/span[1]</value>
-      <webElementGuid>36085bd9-2635-4987-8a28-345849902fc8</webElementGuid>
+      <webElementGuid>c5b7070c-c0d1-4f1a-8d46-8a6d9297cd6d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='al-firmar']/span</value>
-      <webElementGuid>c619611c-25c9-4f85-957f-886e8f221c87</webElementGuid>
+      <webElementGuid>8cee7ae6-416e-4b30-a91d-00143cc87347</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Visibilidad'])[1]/following::span[3]</value>
-      <webElementGuid>14daf773-8b13-4d8d-9183-29a1993a7fb5</webElementGuid>
+      <webElementGuid>84918ad9-b40a-434e-9783-3b8cc062576a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar Actuación'])[1]/following::span[3]</value>
-      <webElementGuid>baf8fa0c-e0a0-4d57-ab2c-ec02028f56ef</webElementGuid>
+      <webElementGuid>26236108-eb2a-4793-ab93-c353f492a390</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Con token'])[1]/preceding::span[2]</value>
-      <webElementGuid>8d692f96-1b8f-4f60-bcd8-38a7f6e958c5</webElementGuid>
+      <webElementGuid>cc755e12-a32f-4247-b3f2-2bc241a504e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sin token'])[1]/preceding::span[2]</value>
-      <webElementGuid>b32017bb-ae9a-4510-9aaf-1ac070ff0c08</webElementGuid>
+      <webElementGuid>f5fa74f0-db5d-45ba-b2ed-71a27df0711a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Firmar']/parent::*</value>
-      <webElementGuid>92dadc07-42a8-49b9-8b26-1b9a8eda6a7f</webElementGuid>
+      <webElementGuid>1499d46b-72b8-4cb9-a71a-b3b7e6d90a01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/span/button/span</value>
-      <webElementGuid>68be7e51-e7d1-4f53-9c89-83bb68d9f0d9</webElementGuid>
+      <webElementGuid>6cdaf3a3-a6c5-43a2-970e-17b5fd71cf09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Firmar ' or . = ' Firmar ')]</value>
-      <webElementGuid>95cf7586-93f2-428f-9237-b2a2e6b02784</webElementGuid>
+      <webElementGuid>a4ffe80b-6747-40bc-b289-ab32ca98b814</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
