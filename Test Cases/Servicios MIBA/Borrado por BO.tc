@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Borrado por BO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acaf437e-1777-4b64-9e35-610ed5e54973</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bced490-4686-428d-b3e7-b93fb92da5fb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'DELETE FROM EVENT_ENTITY ee WHERE USER_ID IN (select id from user_entity where document_number LIKE \'%20434473625%\' and document_nacionality_id LIKE \'%11%\')'</defaultValue>
+      <description></description>
+      <id>7bced490-4686-428d-b3e7-b93fb92da5fb</id>
+      <masked>false</masked>
+      <name>consulta</name>
+   </variable>
+</TestCaseEntity>

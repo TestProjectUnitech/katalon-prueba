@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>oracle</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a1b68f23-d8f4-40ba-97bb-0b53f5d282e7</dataFileGUID>
+   <dataSourceUrl>jdbc:oracle:thin:@//10.1.10.134:1521/MIBA</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>SXBsMkwwZ2lu</password>
+   <query>SELECT  * FROM user_entity WHERE ROWNUM = 1</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>LOGIN</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

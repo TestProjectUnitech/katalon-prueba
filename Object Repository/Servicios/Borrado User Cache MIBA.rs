@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Borrado Cache MIBA</name>
+   <name>Borrado User Cache MIBA</name>
    <tag></tag>
    <elementGuidId>314deb4b-ae17-46a1-ab1e-ba6af02b7176</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,7 +23,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>https://miba.unitech.com.ar/auth/admin/realms/miba/clear-user-cache</restUrl>
+   <restUrl>https://${urlIdmServer}/auth/admin/realms/miba/clear-user-cache</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -38,6 +38,13 @@
       <id>e2181db2-579a-45de-af02-266687edc0bd</id>
       <masked>false</masked>
       <name>Token_MIBA</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.urlIdmServer</defaultValue>
+      <description></description>
+      <id>4fcf20ae-dbdb-4343-93f0-5e7c0afc936e</id>
+      <masked>false</masked>
+      <name>urlIdmServer</name>
    </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
