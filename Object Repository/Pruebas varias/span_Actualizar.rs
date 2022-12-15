@@ -6,12 +6,12 @@
    <elementGuidId>293468f7-4d80-4d2e-acd7-4188351e4eb8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.mat-button-wrapper</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='adj-actualizar']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-button-wrapper</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a1d6e3f7-1838-4628-8a22-c0affb9eaf71</webElementGuid>
+      <webElementGuid>a531d4a2-1f3c-43bf-8bbe-33afc51874b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>0d67c1e9-f458-45a7-8839-4eeda5b605d9</webElementGuid>
+      <webElementGuid>70b00b71-8e72-48e8-ae4d-fe347d4d99ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Actualizar</value>
-      <webElementGuid>7a53bf33-2384-4a54-93e8-cf3842ee4ea4</webElementGuid>
+      <webElementGuid>8976c390-8dce-4583-a868-cdb9a7e3399e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;adj-actualizar&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>25b99d2f-f7e6-429a-b5a3-22952a69a6c2</webElementGuid>
+      <webElementGuid>b892efa5-aba6-482c-8989-aa2861907755</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='adj-actualizar']/span</value>
-      <webElementGuid>35d71344-af86-42b8-95d2-a4c5f05d294d</webElementGuid>
+      <webElementGuid>bb2f0229-ace9-4bb7-8fc3-1267b4e68474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[1]/following::span[1]</value>
-      <webElementGuid>5613f8ab-7c93-4a54-a865-f9107fa399ba</webElementGuid>
+      <webElementGuid>ca06fca8-29a7-48f6-8870-96ac20d98ade</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Público'])[1]/following::span[2]</value>
-      <webElementGuid>1ff220a4-d8e3-4612-a2ed-04d2cda17610</webElementGuid>
+      <webElementGuid>81b8a4e7-80d3-457e-ae5d-18b6aa388ad7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::span[1]</value>
-      <webElementGuid>ea498f34-e455-4815-bf13-d716028ea161</webElementGuid>
+      <webElementGuid>b8b0ac93-39ab-4f6e-9e49-820a22cd6c0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Actualizar']/parent::*</value>
-      <webElementGuid>d33d8132-3ac6-4922-8fe2-d1a5e5d56bf5</webElementGuid>
+      <webElementGuid>2853a0a7-88d3-496f-9821-c46109aa1c83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-adjunto/div/div/button/span</value>
-      <webElementGuid>bfb3f318-ed0f-49cb-87ce-a8c94f4c6372</webElementGuid>
+      <webElementGuid>f2aa8753-0fca-4c9b-9719-db618c7412eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Actualizar' or . = 'Actualizar')]</value>
-      <webElementGuid>0d06f68d-5ea8-456f-8bca-319bfc232f3a</webElementGuid>
+      <webElementGuid>048e60df-a070-4ee1-a4f2-c3ffcbdcd574</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

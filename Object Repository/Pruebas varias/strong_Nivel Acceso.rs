@@ -6,12 +6,12 @@
    <elementGuidId>586dabf6-f8b7-470d-be46-448b33427b03</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>mat-header-cell.mat-cell.mat-header-cell.cdk-column-nivelAcceso.mat-column-nivelAcceso.ng-star-inserted > strong</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-header-row/mat-header-cell[4]/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-header-cell.mat-cell.mat-header-cell.cdk-column-nivelAcceso.mat-column-nivelAcceso.ng-star-inserted > strong</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>strong</value>
-      <webElementGuid>42ef21cf-31cd-4868-b6ff-df819c6dfa0f</webElementGuid>
+      <webElementGuid>9a86d0b3-21c4-4c91-b61a-6303f5cc8778</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Nivel Acceso </value>
-      <webElementGuid>a5a2b6c6-249d-4a91-a30c-36931384d610</webElementGuid>
+      <webElementGuid>290be541-2e52-4015-b658-25cfaca7b8bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-header-row[@class=&quot;mat-header-row mat-table-sticky ng-star-inserted&quot;]/mat-header-cell[@class=&quot;mat-cell mat-header-cell cdk-column-nivelAcceso mat-column-nivelAcceso ng-star-inserted&quot;]/strong[1]</value>
-      <webElementGuid>99a10283-843f-4000-ac00-7f48e4a6bb3d</webElementGuid>
+      <webElementGuid>36156916-48f7-4482-bcd3-cf95ab1a3df2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-header-row/mat-header-cell[4]/strong</value>
-      <webElementGuid>ec1b8ea7-365f-4345-8c7e-0e79a6bee4e8</webElementGuid>
+      <webElementGuid>773e8393-181e-401e-b7e6-c588ce228f12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha'])[1]/following::strong[1]</value>
-      <webElementGuid>c8824e8e-57ee-4c98-a5e9-a952c13c3997</webElementGuid>
+      <webElementGuid>ff2372f4-71dd-48b5-bc64-e10678a66004</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario'])[1]/following::strong[2]</value>
-      <webElementGuid>204f22d1-cd05-494f-9220-647db90176a2</webElementGuid>
+      <webElementGuid>bb304095-5000-4e76-815a-69df7085d651</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Firma Digital'])[1]/preceding::strong[1]</value>
-      <webElementGuid>65c0a963-18fd-428b-9608-f6b324f6e8a9</webElementGuid>
+      <webElementGuid>5db98e02-6e10-4936-b1d4-45c352df02ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba.pdf'])[1]/preceding::strong[2]</value>
-      <webElementGuid>d8536cf5-50b0-4de3-8d9f-020d6d98c645</webElementGuid>
+      <webElementGuid>348b7b3b-5747-4ab2-8194-64ed492e4ab1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Nivel Acceso']/parent::*</value>
-      <webElementGuid>277da611-4eab-4355-9a48-28a70007e9fd</webElementGuid>
+      <webElementGuid>aa67928a-d283-46df-9325-27928dc5e711</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-header-cell[4]/strong</value>
-      <webElementGuid>3c0046cd-b549-47d2-8259-e996c8b5ead1</webElementGuid>
+      <webElementGuid>0bae4088-3b51-468f-b0e1-bd234dffbfc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//strong[(text() = 'Nivel Acceso ' or . = 'Nivel Acceso ')]</value>
-      <webElementGuid>7e74e06a-01fd-4888-b02c-db284c92a917</webElementGuid>
+      <webElementGuid>ebcabed8-4424-4e04-9278-83256efc82d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

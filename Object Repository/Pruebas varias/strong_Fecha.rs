@@ -6,12 +6,12 @@
    <elementGuidId>154ff8ae-8ca9-4009-88b8-f4764f682dec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>mat-header-cell.mat-cell.mat-header-cell.cdk-column-fecha.mat-column-fecha.ng-star-inserted > strong</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-header-row/mat-header-cell[3]/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-header-cell.mat-cell.mat-header-cell.cdk-column-fecha.mat-column-fecha.ng-star-inserted > strong</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>strong</value>
-      <webElementGuid>95316002-12b3-4801-9061-9f9556752dfd</webElementGuid>
+      <webElementGuid>2df360b6-4b8d-4068-a0ed-07dfd21cb56c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Fecha </value>
-      <webElementGuid>cd9c559c-29ae-4ee5-9ddf-f31c8e68e58d</webElementGuid>
+      <webElementGuid>2822a967-b0af-43b7-a68b-acd6e00b88e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-header-row[@class=&quot;mat-header-row mat-table-sticky ng-star-inserted&quot;]/mat-header-cell[@class=&quot;mat-cell mat-header-cell cdk-column-fecha mat-column-fecha ng-star-inserted&quot;]/strong[1]</value>
-      <webElementGuid>989bb5e4-7c0b-4985-bbe2-c9535ddff3e7</webElementGuid>
+      <webElementGuid>37c93b9a-bcc1-4daf-8f22-36116366c6ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-header-row/mat-header-cell[3]/strong</value>
-      <webElementGuid>7b2889ac-108e-4121-82f1-853b2efe81c6</webElementGuid>
+      <webElementGuid>7054317b-3b4d-45fe-a9b8-77b69a63f6e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario'])[1]/following::strong[1]</value>
-      <webElementGuid>3d5811c6-fc7a-456a-b465-8876a71b619f</webElementGuid>
+      <webElementGuid>eacb62fd-e50b-46c7-90bd-3b2fce422298</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre'])[1]/following::strong[2]</value>
-      <webElementGuid>6daaf1a9-5962-42f3-bf89-625a40fc1d30</webElementGuid>
+      <webElementGuid>e7c4ce55-ac50-4287-8503-66b2ee9f8f79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nivel Acceso'])[1]/preceding::strong[1]</value>
-      <webElementGuid>2e0bac99-8f72-4bf9-9a02-92c58178f73e</webElementGuid>
+      <webElementGuid>facd7c01-b7f7-49ae-8c73-7978dc75eb47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Firma Digital'])[1]/preceding::strong[2]</value>
-      <webElementGuid>062f9c0f-e3bb-406c-93d9-bf5e38688d13</webElementGuid>
+      <webElementGuid>914e045b-187e-4694-a273-dbd9fc06d779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Fecha']/parent::*</value>
-      <webElementGuid>7c2ff384-8994-4886-b1de-4dee8790d443</webElementGuid>
+      <webElementGuid>33bc5c06-70af-411b-91dd-750364406397</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-header-cell[3]/strong</value>
-      <webElementGuid>03f773c9-f093-49e8-aecc-d5ff42d7ea01</webElementGuid>
+      <webElementGuid>c0026a92-a7d1-4088-b212-51cae2b07ced</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//strong[(text() = 'Fecha ' or . = 'Fecha ')]</value>
-      <webElementGuid>744a68e7-db37-4235-a2f6-52c0888b245f</webElementGuid>
+      <webElementGuid>86ca027c-adf8-49a6-8e84-41aca651fb22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

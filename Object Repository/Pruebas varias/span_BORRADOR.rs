@@ -6,12 +6,12 @@
    <elementGuidId>c7e3d1b7-c67c-4379-b8cc-d50f111cc7f7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.etiqueta-detalle.etiqueta-estado--firmada.mr-2.ng-star-inserted</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//span[. = ' BORRADOR ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.etiqueta-detalle.etiqueta-estado--firmada.mr-2.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4a18b4ff-d267-4d0d-aa6b-95da36774268</webElementGuid>
+      <webElementGuid>c04f3873-3b1b-4f80-9d71-8624a600d504</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>etiqueta-detalle etiqueta-estado--firmada mr-2 ng-star-inserted</value>
-      <webElementGuid>0c0e2f2a-c04c-4fcc-8db7-cf2911479661</webElementGuid>
+      <webElementGuid>8089dbc6-a305-4805-8d18-3fd3e1d23ad2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>placement</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>2e4fa0e9-457e-494f-be0f-707afa9d2bb1</webElementGuid>
+      <webElementGuid>4eaa8e3c-35cc-4c15-98c2-a18b451b1621</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>popovertitle</name>
       <type>Main</type>
       <value>Información</value>
-      <webElementGuid>a5e46bf9-4d00-4f8a-a07d-4b76a13869e4</webElementGuid>
+      <webElementGuid>02932d84-1697-448f-8591-c0abec4ad3d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>triggers</name>
       <type>Main</type>
       <value>mouseenter:mouseleave</value>
-      <webElementGuid>15d9b43c-fda8-414d-8d55-8f137d53259f</webElementGuid>
+      <webElementGuid>609bb5aa-30bc-4bc9-82e8-1400cac4c974</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>ngb-popover-0</value>
-      <webElementGuid>3707bf3c-452e-40a2-8b2a-8255eff31a39</webElementGuid>
+      <webElementGuid>2285e6bc-b183-493e-9bb7-2d057bd4d809</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value> BORRADOR </value>
-      <webElementGuid>ec1ea41c-ac34-4200-94d7-c107d8533308</webElementGuid>
+      <webElementGuid>132b2793-6b2c-460f-9e96-3be2810b034b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-actuacion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;contenedor alto-pdf-viewer ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-auto mr-auto contenedor-pagina-etiquetas mt-2 mb-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;etiqueta-detalle-contenedor mb-3&quot;]/span[@class=&quot;etiqueta-detalle etiqueta-estado--firmada mr-2 ng-star-inserted&quot;]</value>
-      <webElementGuid>54293681-548a-4868-b82f-7132241bd701</webElementGuid>
+      <webElementGuid>9a276eca-93aa-42b8-8035-a1f3c57d60a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='create'])[1]/following::span[1]</value>
-      <webElementGuid>0b305359-edda-4a2e-bada-3ecb8f5d6495</webElementGuid>
+      <webElementGuid>d8a46f6c-b0c1-48f1-8801-96324fb61b97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Información'])[1]/preceding::span[1]</value>
-      <webElementGuid>e7f35016-14b7-4743-ae73-6f73b588dc32</webElementGuid>
+      <webElementGuid>624c38b3-4578-46be-a9a1-cf3a6c58ed56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='BORRADOR']/parent::*</value>
-      <webElementGuid>b1161dd5-1d67-46f5-ab2d-6708fd2daf1e</webElementGuid>
+      <webElementGuid>7440b55e-7355-43ae-89ad-b5a35d8bb300</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div[2]/span</value>
-      <webElementGuid>f66e2803-00e0-49af-bb88-cf7be2b7cab2</webElementGuid>
+      <webElementGuid>0621dccc-ba1a-4e2a-b13e-6a841d87025a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' BORRADOR ' or . = ' BORRADOR ')]</value>
-      <webElementGuid>883d3a9f-ef66-42f9-94bf-0d0fadf45209</webElementGuid>
+      <webElementGuid>7c000e2a-1690-4f7a-a010-7da8ab9014b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

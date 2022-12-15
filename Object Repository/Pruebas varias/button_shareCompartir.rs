@@ -6,12 +6,12 @@
    <elementGuidId>8a5a7f11-a712-4abb-876b-cb6f18472f96</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>mat-cell.mat-cell.cdk-column-compartir.mat-column-compartir.ng-star-inserted > #al-copyClipBoard</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@id='al-copyClipBoard'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-cell.mat-cell.cdk-column-compartir.mat-column-compartir.ng-star-inserted > #al-copyClipBoard</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>769ea9bc-38b8-4e8c-a815-9f327797c1c7</webElementGuid>
+      <webElementGuid>14ba736c-a1e5-4c0e-9b89-0d2f830ccdda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn boton-secundario btn-sm ml-2 etiqueta-estado</value>
-      <webElementGuid>b7e5c953-aec6-46e2-b929-735bcca1d2e3</webElementGuid>
+      <webElementGuid>c8a6d78e-790b-438e-a2ee-ac11a9e5ed50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>al-copyClipBoard</value>
-      <webElementGuid>17287e47-7e3b-4015-845e-1fa4cfac772a</webElementGuid>
+      <webElementGuid>576ef327-8152-40b6-9755-093d034796e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Compartir</value>
-      <webElementGuid>2d3a1108-d69e-47fb-9f31-cfd55cf2cfdd</webElementGuid>
+      <webElementGuid>7c2e1765-7000-4516-b296-75a239a65bb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>shareCompartir </value>
-      <webElementGuid>4e6ffb64-9860-462e-b469-a59afbcbc2f1</webElementGuid>
+      <webElementGuid>fe8360f9-765d-4ed2-abb9-29e1f8a33db0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-column-compartir mat-column-compartir ng-star-inserted&quot;]/button[@id=&quot;al-copyClipBoard&quot;]</value>
-      <webElementGuid>8149a5dd-e602-429e-a4c0-b4210e6e35bb</webElementGuid>
+      <webElementGuid>66641c5d-4f8e-4b7c-8024-e2fa43bc6d0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@id='al-copyClipBoard'])[2]</value>
-      <webElementGuid>b0c4e256-b374-457e-b14e-658f5eb34d4b</webElementGuid>
+      <webElementGuid>2127c236-40e7-44f8-9469-2fea4aabc99e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-row/mat-cell[8]/button</value>
-      <webElementGuid>28e0e498-0a73-4fc4-b5f5-1b1f2384dac4</webElementGuid>
+      <webElementGuid>f3ffd44d-2676-42a5-b8bb-07da76d76823</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='get_app'])[1]/following::button[1]</value>
-      <webElementGuid>002d0e41-a7f1-40b1-82c5-27dcc8341397</webElementGuid>
+      <webElementGuid>785691d1-fe25-4eda-8cdc-69a6a74fe5c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='remove_red_eye'])[3]/following::button[1]</value>
-      <webElementGuid>a19ad31e-484f-4198-8c6b-2d2698d3760e</webElementGuid>
+      <webElementGuid>fecbd92e-6e7e-4490-b521-9459b2d474b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba.pdf'])[2]/preceding::button[1]</value>
-      <webElementGuid>1551dbad-ed6d-44c4-8eca-5ebcda331353</webElementGuid>
+      <webElementGuid>c5a45fa5-f9e1-40e2-93c6-a2021f7532e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell[8]/button</value>
-      <webElementGuid>4ea54467-b647-4e24-9044-b3fce2246a99</webElementGuid>
+      <webElementGuid>ddd1f036-85e9-4ff0-91aa-dce43cfafe78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'al-copyClipBoard' and @title = 'Compartir' and (text() = 'shareCompartir ' or . = 'shareCompartir ')]</value>
-      <webElementGuid>6478c840-5f89-432d-a0ee-bd6cfdb32e42</webElementGuid>
+      <webElementGuid>7533295e-35dd-4d5d-ab8f-7f6ce82f8744</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

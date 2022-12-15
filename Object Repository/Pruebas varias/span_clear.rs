@@ -6,12 +6,12 @@
    <elementGuidId>457251a5-7fae-4208-927b-04ad3df2cb38</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.material-icons.icono-firma.ng-star-inserted</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-row/mat-cell[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.material-icons.icono-firma.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d366e961-6404-41d7-9a31-924fe0967f0d</webElementGuid>
+      <webElementGuid>04556f11-9eba-4143-b305-43e9b75be4d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons icono-firma ng-star-inserted</value>
-      <webElementGuid>445454ca-1d64-4864-94ec-61ade61432f6</webElementGuid>
+      <webElementGuid>b70a080d-c050-4bc8-8a9f-be1f2e83fa4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>clear</value>
-      <webElementGuid>20fb0cde-eee7-40ca-8903-a4f12ba6a7f9</webElementGuid>
+      <webElementGuid>117f1f49-ccf7-4b56-a1c2-20e85fce128a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-0&quot;)/modal-accion[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-body py-0&quot;]/app-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table&quot;]/mat-row[@class=&quot;mat-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-column-firmado mat-column-firmado ng-star-inserted&quot;]/span[@class=&quot;material-icons icono-firma ng-star-inserted&quot;]</value>
-      <webElementGuid>7a77edb6-b6aa-4dcf-831c-92eb60bc7b45</webElementGuid>
+      <webElementGuid>0490054f-3c6f-444d-804d-6d53873a4abc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/modal-accion/div[2]/app-adjunto/div/mat-table/mat-row/mat-cell[5]/span</value>
-      <webElementGuid>a3f93e25-ef7f-4d35-a0fd-6cfa78f2a716</webElementGuid>
+      <webElementGuid>9aca9351-592a-4afc-b1b5-0b3d7c97827e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PUBLICO'])[1]/following::span[1]</value>
-      <webElementGuid>966e02bd-3aa9-4c97-8507-1018c47730db</webElementGuid>
+      <webElementGuid>b3218e7f-031d-4a86-bf56-91da3a2d5bf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IURIXQA, CAYT'])[1]/following::span[3]</value>
-      <webElementGuid>9314d3f5-c8d2-4f14-9b2e-57d712b8f157</webElementGuid>
+      <webElementGuid>e5681ccc-83f7-45b7-adb7-cb339e9b23a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='remove_red_eye'])[3]/preceding::span[1]</value>
-      <webElementGuid>4e5dc3b6-8cdc-4a0c-9e96-05b6ff9a4d24</webElementGuid>
+      <webElementGuid>e2466e5e-cb01-4001-a231-8fdecce833a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='get_app'])[1]/preceding::span[3]</value>
-      <webElementGuid>10be3df5-16f2-4c8a-b8e3-f58523c79414</webElementGuid>
+      <webElementGuid>a811ccef-e715-4e08-af16-3dfa40d6440f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='clear']/parent::*</value>
-      <webElementGuid>53c5a8c6-528d-42d5-991a-886b3ba80ae5</webElementGuid>
+      <webElementGuid>31830799-76b0-4eeb-9d61-34af4b0f0ac0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell[5]/span</value>
-      <webElementGuid>91ed1685-4310-4950-aa40-4814ae302a7d</webElementGuid>
+      <webElementGuid>63ea582f-2d6e-4834-8bdf-0ad5f08a146c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'clear' or . = 'clear')]</value>
-      <webElementGuid>6cc842a5-b69a-4b10-9777-b02193196b45</webElementGuid>
+      <webElementGuid>e8e91a82-0a00-4884-9f6f-e11cd12e909f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

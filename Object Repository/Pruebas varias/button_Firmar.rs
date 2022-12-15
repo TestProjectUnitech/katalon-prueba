@@ -6,12 +6,12 @@
    <elementGuidId>df136b00-54ef-4f8e-8996-7fd91e63b124</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#al-firmar</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='al-firmar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#al-firmar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>992a2acd-d7cb-41bf-8b4b-fe5c5cc4bfff</webElementGuid>
+      <webElementGuid>5e0d551c-4570-494d-84e8-4b7109608774</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>88817770-399f-4ea5-8305-57e25fcb5019</webElementGuid>
+      <webElementGuid>e9217828-e48e-4c42-98b7-3c446f2e3a06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3a59c50a-20b9-4478-8c9d-2ed71c0d6aa9</webElementGuid>
+      <webElementGuid>3a27851c-40f5-4c77-8e1c-70e89480f70f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-danger btn-sm ml-2 etiqueta-estado btn-disabled</value>
-      <webElementGuid>c466cf4c-bfb7-4b49-a5b6-9d5e3da64f57</webElementGuid>
+      <webElementGuid>813050b0-600f-4423-a97f-fa13719d9d38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>55858acf-0d29-42f3-ac85-4db4fd39e7c8</webElementGuid>
+      <webElementGuid>f6d6fdc3-3fe9-44bf-b705-1f113c9a5d10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>al-firmar</value>
-      <webElementGuid>44039e45-50ab-421f-8f6f-a09237e8ae49</webElementGuid>
+      <webElementGuid>a447a249-fdbd-4e5d-8d1e-a59a67efd76c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Firmar</value>
-      <webElementGuid>957c876f-bdd4-489c-a005-1e4a317a4145</webElementGuid>
+      <webElementGuid>03ca8d05-69e2-4ac8-a01e-1cf86a3b0908</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>714c5739-c39c-457d-9edc-4c4c8b9099c6</webElementGuid>
+      <webElementGuid>21c50d02-fd0b-48b4-994a-3d895670297f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Firmar </value>
-      <webElementGuid>72e0d05e-ddae-486a-be08-16c60ceee055</webElementGuid>
+      <webElementGuid>f7bff23c-fa4a-4aec-b9e6-172492f84c3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;al-firmar&quot;)</value>
-      <webElementGuid>5bb90f48-97d0-4550-af7f-90fc52ca0d87</webElementGuid>
+      <webElementGuid>e8362606-b1e1-4ab9-a49d-bf13bd6d2887</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='al-firmar']</value>
-      <webElementGuid>4a6ac936-daec-4cbe-ae04-e15ef0e0d79d</webElementGuid>
+      <webElementGuid>828b4c5b-ea03-4b85-82b1-2c8bfc481e1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Visibilidad'])[1]/following::button[1]</value>
-      <webElementGuid>8bd50065-f52d-4949-9f47-0531215d59e6</webElementGuid>
+      <webElementGuid>227eb5e0-e495-4317-88b6-b2a3edc4c4b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar Actuación'])[1]/following::button[2]</value>
-      <webElementGuid>8b3fefcf-d8ca-439e-8fac-137627fdf779</webElementGuid>
+      <webElementGuid>02c77045-f1af-4bed-89bf-d98d4ba8d4f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Con token'])[1]/preceding::button[1]</value>
-      <webElementGuid>8bca87a9-1b4a-47ec-8f2e-470537a4df51</webElementGuid>
+      <webElementGuid>a70bab84-1b77-4cf0-9d1f-0f4e6a7f0914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/span/button</value>
-      <webElementGuid>16bbe9c2-b465-462d-9130-c56b0dfbd2a8</webElementGuid>
+      <webElementGuid>8b2d3484-1841-4c42-889d-d3505865131f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'al-firmar' and @title = 'Firmar' and @type = 'button' and (text() = ' Firmar ' or . = ' Firmar ')]</value>
-      <webElementGuid>5dc96fc4-f3b7-469b-8b7c-ed366301098c</webElementGuid>
+      <webElementGuid>94f4b196-d54e-4834-88ee-2054c3737a98</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
